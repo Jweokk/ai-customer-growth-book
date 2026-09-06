@@ -1,0 +1,69 @@
+site_name: AI 客户经营
+site_description: AI-Powered Customer Operations — 当每个客户都值得被 AI 认真对待时，人做什么？
+site_url: https://ai-customer-growth.fly2ai.top
+docs_dir: book
+site_dir: site
+repo_url: https://github.com/Jweokk/ai-customer-growth-book
+repo_name: GitHub
+hooks:
+  - tools/mkdocs_hooks.py
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到浅色模式
+
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+  - footnotes
+  - attr_list
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jweokk
+      name: GitHub
+
+copyright: 著作权归作者 Jweokk 所有 · 免费阅读与非商业性分享 · 联系 weokk2025@gmail.com
+
+nav:
+  - 首页: index.md
+  - 自序: 00-自序.md
+  - 第 1 章 AI 客户经营元年: 01-第1章-AI客户经营元年.md
+  - 第 2 章 客户全生命周期与 AI 引擎: 02-第2章-客户全生命周期与AI引擎.md
+  - 第 3 章 开拓——AI 把获客变成产能: 03-第3章-开拓-AI把获客变成产能.md
+  - 第 4 章 转化——个性化定价与对话式成交: 04-第4章-转化-AI个性化定价与对话式成交.md
+  - 第 5 章 服务——AI 客服与人工兜底: 05-第5章-服务-AI客服与人工兜底.md
+  - 第 6 章 留存与扩展——客户成功 AI 化: 06-第6章-留存与扩展-客户成功AI化.md
+  - 第 7 章 底座——AI CRM 与客户数据: 07-第7章-底座-AI-CRM与客户数据.md
+  - 第 8 章 组织——人、技能与变革: 08-第8章-组织-人技能与变革.md
+  - 第 9 章 行业篇——十一个行业的 AI 客户经营: 09-第9章-行业篇-十一个行业的AI客户经营.md
+  - 第 10 章 反面与边界——反噬、幻觉、合规与责任: 10-第10章-反面与边界-反噬幻觉合规与责任.md
+  - 第 11 章 未来——当客户变成 AI: 11-第11章-未来-当客户变成AI.md
+  - 后记: 15-后记.md
+  - 附录 A 案例索引与资料出处: 12-附录A-案例索引与资料出处.md
+  - 附录 B 常用指标: 13-附录B-常用指标.md
+  - 附录 C 版本历史与更新说明: 14-附录C-版本历史与更新说明.md

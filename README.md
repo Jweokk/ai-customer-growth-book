@@ -1,70 +1,69 @@
-# AI 客户经营（AI-Powered Customer Operations）
+# AI-Powered Customer Operations (English Edition)
 
-> 当每个客户都值得被 AI 认真对待时，人做什么？
-> 免费公开 · 持续更新 · 欢迎在线阅读与分享
+> **简体中文版**：[README.zh.md](README.zh.md)（GitHub 会自动按你的浏览器语言切换；中文版内容与英文版同步更新）
 
-**作者：Jweokk** · 联系邮箱：weokk2025@gmail.com
+> Free to read · Continuously updated · Open source
 
-**在线阅读**：[ai-customer-growth.fly2ai.top](https://ai-customer-growth.fly2ai.top)（移动端友好） · **整本下载**：[AI 客户经营 PDF](https://ai-customer-growth.fly2ai.top/ai-customer-growth.pdf)（随版本更新，最新版）
+**Author: Jweokk** · Contact: weokk2025@gmail.com
+
+**Read online**: [GitHub repository](https://github.com/Jweokk/ai-customer-growth-book) (browse the `book/` folder — chapters are currently in Chinese) · **Download PDF**: [ai-customer-growth.pdf](book/ai-customer-growth.pdf)
 
 ---
 
-## 关于本书
+## About This Book
 
-2024 年，Klarna 用 AI 客服顶掉了 700 名全职客服的工作量，全球媒体沸腾；2026 年，它的 CEO 说"我们走得太远了"，开始重新招人。
+In 2024, Klarna replaced the workload of 700 full-time customer-service agents with an AI assistant — and the global media went wild. In 2026, its CEO said "we went too far" and started hiring people again.
 
-这不是一个"AI 行不行"的故事，而是"AI 时代客户经营怎么做"的缩影——**把 AI 当省钱机器来用，会伤到客户经营本身；AI 的正确打开方式，不是替代人，而是让人和 AI 各干各擅长的**。
+This is not a story about whether AI works. It is a story about **how customer operations should be run in the age of AI** — using AI as a cost-cutting machine hurts the customer relationship itself. The right way is not to replace humans, but to let humans and AI each do what they do best.
 
-这本书研究 AI 如何重塑客户的全生命周期：开拓 → 转化 → 服务 → 留存 → 扩展。它聊清楚四件事：
+This book studies how AI reshapes the full customer lifecycle — **Acquisition → Conversion → Service → Retention → Expansion** — and answers four questions:
 
-- **元年与反转**：Klarna 两年间发生了什么，为什么"AI 取代客服"不是终局
-- **全链路打法**：AI 获客、AI 个性化定价与对话式成交、AI 客服与人工兜底、客户成功 AI 化、AI CRM 与客户数据底座
-- **组织与人**：AI 客户经营需要的组织变革——人做什么、技能怎么长、变革怎么推
-- **反面与边界**：冷邮件反噬、AI 幻觉、合规与责任——翻车教给我们的，往往比成功更多
+- **The turning point**: what happened at Klarna over two years, and why "AI replaces customer service" is not the ending
+- **The playbook across the funnel**: AI-powered acquisition, personalized pricing and conversational commerce, AI support with human backup, AI-driven customer success, and the AI CRM / customer-data foundation
+- **Organization and people**: what customer-operations teams need to change — what humans do, how skills grow, how to drive change
+- **The dark side and the boundaries**: cold-email backlash, AI hallucinations, compliance and responsibility — failures often teach more than successes
 
-书里 398 篇经过核验的中英文素材，每个数据、每个案例都在附录 A 标明了出处；厂商自报标【官方宣称】，独立报道标【第三方报道验证】。整理的过程本身就是学习，欢迎通过 Issue 指正。
+The book is built from 398 verified Chinese and English sources. Every data point and case is cited in Appendix A: vendor-reported figures are marked【官方宣称】(official claims), independent reporting is marked【第三方报道验证】(third-party verified).
 
-## 为什么免费公开
+## Why It's Free
 
-知识的价值在于流动，而不在于囤积。这份沉淀如果能帮一家正在做客户经营的公司少走一段弯路，帮一个想弄明白"AI 到底怎么改变获客与留客"的人节省几十个小时的检索时间，那它公开出来，显然比躺在硬盘里更有价值。
+The value of knowledge lies in its flow, not in hoarding it. If this work saves a customer-operations team a detour, or saves a reader dozens of hours of research, then publishing it openly is worth more than keeping it on a hard drive.
 
-## 这本书是怎么写出来的（也是本书的一部分）
+## How This Book Is Written (It's a Living Book)
 
-这本书不是一次写成的，它是一本"活书"：
+This book was not written in one pass — it is a "living book":
 
-1. **日常积累**：一个自动化系统每天扫描全球 AI 客户经营/增长实践信息，把高质量内容提炼后存入知识库
-2. **成稿与生长**：初稿基于 398 篇素材成书，之后持续把新增素材合并进对应章节，版本号递增
-3. **素材可溯源**：正文数据带编号上标，附录 A 收录全部来源与原文链接，随版本同步更新
+1. **Daily accumulation**: an automated system scans global AI customer-operations and growth practices, distills high-quality content into a knowledge base
+2. **Versioned growth**: the first draft was built from 398 sources; new material is merged into chapters continuously with incrementing versions
+3. **Traceable sourcing**: key figures carry numbered superscript citations, and Appendix A lists every source with its original link
 
-版本历史见 [CHANGELOG.md](CHANGELOG.md)，每次更新改了什么、加了什么，一目了然。
+Version history: [CHANGELOG.md](CHANGELOG.md) / Appendix C.
 
-## 目录
+## Table of Contents
 
-| 章节 | 内容 |
-| --- | --- |
-| [自序](book/00-自序.md) | 客户，是 AI 时代的最后一个战场 |
-| [第 1 章](book/01-第1章-AI客户经营元年.md) | AI 客户经营元年——从 Klarna 到"我们走得太远了" |
-| [第 2 章](book/02-第2章-客户全生命周期与AI引擎.md) | 客户全生命周期与 AI 引擎 |
-| [第 3 章](book/03-第3章-开拓-AI把获客变成产能.md) | 开拓：AI 把获客变成产能 |
-| [第 4 章](book/04-第4章-转化-AI个性化定价与对话式成交.md) | 转化：个性化定价与对话式成交 |
-| [第 5 章](book/05-第5章-服务-AI客服与人工兜底.md) | 服务：AI 客服与人工兜底 |
-| [第 6 章](book/06-第6章-留存与扩展-客户成功AI化.md) | 留存与扩展：客户成功 AI 化 |
-| [第 7 章](book/07-第7章-底座-AI-CRM与客户数据.md) | 底座：AI CRM 与客户数据 |
-| [第 8 章](book/08-第8章-组织-人技能与变革.md) | 组织：人、技能与变革 |
-| [第 9 章](book/09-第9章-行业篇-十一个行业的AI客户经营.md) | 行业篇：十一个行业的 AI 客户经营 |
-| [第 10 章](book/10-第10章-反面与边界-反噬幻觉合规与责任.md) | 反面与边界：反噬、幻觉、合规与责任 |
-| [第 11 章](book/11-第11章-未来-当客户变成AI.md) | 未来：当客户变成 AI |
-| [后记](book/15-后记.md) | 后记 |
-| [附录 A](book/12-附录A-案例索引与资料出处.md) | 案例索引与资料出处（399 条来源） |
-| [附录 B](book/13-附录B-常用指标.md) | 常用指标 |
-| [附录 C](book/14-附录C-版本历史与更新说明.md) | 版本历史与更新说明 |
+Chapters are currently written in Chinese (an English translation is on the roadmap). Each chapter is readable directly on GitHub via the links below.
 
-## 致谢
+- [Preface](book/00-自序.md) — The last battlefield in the AI era: your customer
+- [Chapter 1](book/01-第1章-AI客户经营元年.md) — Year one: from Klarna to "we went too far"
+- [Chapter 2](book/02-第2章-客户全生命周期与AI引擎.md) — The customer lifecycle and the AI engine
+- [Chapter 3](book/03-第3章-开拓-AI把获客变成产能.md) — Acquisition: AI turns prospecting into capacity
+- [Chapter 4](book/04-第4章-转化-AI个性化定价与对话式成交.md) — Conversion: personalized pricing and conversational deals
+- [Chapter 5](book/05-第5章-服务-AI客服与人工兜底.md) — Service: AI support with human backup
+- [Chapter 6](book/06-第6章-留存与扩展-客户成功AI化.md) — Retention & expansion: AI-driven customer success
+- [Chapter 7](book/07-第7章-底座-AI-CRM与客户数据.md) — The foundation: AI CRM and customer data
+- [Chapter 8](book/08-第8章-组织-人技能与变革.md) — Organization: people, skills, and change
+- [Chapter 9](book/09-第9章-行业篇-十一个行业的AI客户经营.md) — Industry playbook: eleven industries
+- [Chapter 10](book/10-第10章-反面与边界-反噬幻觉合规与责任.md) — The dark side: backlash, hallucination, compliance, responsibility
+- [Chapter 11](book/11-第11章-未来-当客户变成AI.md) — The future: when the customer is an AI
+- [Afterword](book/15-后记.md)
+- [Appendix A](book/12-附录A-案例索引与资料出处.md) — Case index and sources (399 entries)
+- [Appendix B](book/13-附录B-常用指标.md) — Key metrics
+- [Appendix C](book/14-附录C-版本历史与更新说明.md) — Version history and update notes
 
-本书的组织形式与公开方式，受到范冰（XDash）《[前线部署工程师：人工智能时代的客户价值交付秘籍](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)》的启发——免费公开全文、GitHub 仓库 + 官网阅读 + 附录标注出处的模式，是一个值得推广的开源知识实践。特此致谢。
+## Acknowledgments
 
-书中大量素材来自公开的行业研究、媒体报道与从业者分享，均已尽力在附录 A 标注出处。如引用有疏漏或版权争议，请联系 weokk2025@gmail.com 指正，我们将立即修正。
+The organization and open-publishing model of this book were inspired by XDash's *Forward Deployed Engineer: The Playbook of Customer Value Delivery in the Age of AI* ([github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)) — free full-text publication, GitHub repository + website reading, source attribution in appendices. Special thanks.
 
-## 版权声明
+## Copyright
 
-本书著作权归作者 Jweokk 所有。本仓库内容由作者授权公开，供读者**免费阅读与非商业性分享**，转载请务必注明出处与作者；任何商业用途（包括但不限于出版、培训、付费内容改编）须事先获得作者书面许可。
+Copyright © Jweokk. This repository is published for **free reading and non-commercial sharing**; please attribute the author when republishing. Any commercial use (including publishing, training, or paid adaptations) requires prior written permission (weokk2025@gmail.com).

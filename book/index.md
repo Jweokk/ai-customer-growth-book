@@ -38,6 +38,13 @@
 - **成功与翻车并列**：Klarna 与 DPD、ServiceTitan 与冷邮件反噬，两面都讲
 - **活书机制**：素材持续积累，版本持续生长（见附录 C）
 
+## 同一作者的其他书
+
+本书是 Jweokk 作品集中的一册。作者的更多开源书与开源项目，欢迎逛逛 [Jweokk 作品集](https://ai.fly2ai.top)——全部免费公开：
+
+- **《AI 原生组织》**（[在线阅读](https://aiorg.fly2ai.top) · [GitHub](https://github.com/Jweokk/ai-native-organization-book)）：AI 不是工具，是新的组织基因——写给每一个想知道"AI 时代组织长什么样"的人
+- **《AI 时代人生指南》**（[在线阅读](https://ailife.fly2ai.top) · [GitHub](https://github.com/Jweokk/ai-life-guide)）：AI 时代，人该怎么活？不贩卖焦虑，也不灌鸡汤
+
 ## 版权声明
 
 本书著作权归作者 Jweokk 所有，供读者**免费阅读与非商业性分享**，转载请务必注明出处与作者；任何商业用途（包括但不限于出版、培训、付费内容改编）须事先获得作者书面许可（weokk2025@gmail.com）。

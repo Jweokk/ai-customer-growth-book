@@ -2,6 +2,8 @@
 
 > 当每个客户都值得被 AI 认真对待时，人做什么？
 > 免费公开、持续更新的开源书 · 作者 Jweokk
+>
+> **在线阅读**：[ai-customer-growth.fly2ai.top](https://ai-customer-growth.fly2ai.top) · **整本下载**：[AI 客户经营 PDF](ai-customer-growth.pdf)（随版本更新，最新版）
 
 ---
 

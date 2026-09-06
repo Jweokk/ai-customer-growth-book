@@ -5,7 +5,7 @@
 
 **作者：Jweokk** · 联系邮箱：weokk2025@gmail.com
 
-**在线阅读**：[ai-customer-growth.fly2ai.top](https://ai-customer-growth.fly2ai.top)（移动端友好）
+**在线阅读**：[ai-customer-growth.fly2ai.top](https://ai-customer-growth.fly2ai.top)（移动端友好） · **整本下载**：[AI 客户经营 PDF](https://ai-customer-growth.fly2ai.top/ai-customer-growth.pdf)（随版本更新，最新版）
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Author: Jweokk** · Contact: weokk2025@gmail.com
 
-**Read online**: [GitHub repository](https://github.com/Jweokk/ai-customer-growth-book) (browse the `book/` folder — chapters are currently in Chinese) · **Download PDF**: [ai-customer-growth.pdf](book/ai-customer-growth.pdf)
+**Read online**: [GitHub repository](https://github.com/Jweokk/ai-customer-growth-book) (browse the `book-en/` folder for the English edition, or read each chapter via the links below) · **Download PDF (English)**: [ai-customer-growth-en.pdf](ai-customer-growth-en.pdf) · **Download PDF (Chinese)**: [ai-customer-growth.pdf](book/ai-customer-growth.pdf)
 
 ---
 
@@ -39,26 +39,26 @@ This book was not written in one pass — it is a "living book":
 
 Version history: [CHANGELOG.md](CHANGELOG.md) / Appendix C.
 
-## Table of Contents
+## Table of Contents (English edition)
 
-Chapters are currently written in Chinese (an English translation is on the roadmap). Each chapter is readable directly on GitHub via the links below.
+- [Preface](book-en/00-preface.md) — The last battlefield in the AI era: your customer
+- [Chapter 1](book-en/01-ch1-year-one-ai-customer-operations.md) — Year one: from Klarna to "we went too far"
+- [Chapter 2](book-en/02-ch2-the-customer-lifecycle-and-the-ai-engine.md) — The customer lifecycle and the AI engine
+- [Chapter 3](book-en/03-ch3-acquisition-turning-prospecting-into-capacity.md) — Acquisition: turning prospecting into capacity
+- [Chapter 4](book-en/04-ch4-conversion-personalization-pricing-conversational-commerce.md) — Conversion: personalization, pricing, and conversational commerce
+- [Chapter 5](book-en/05-ch5-service-ai-support-and-human-backup.md) — Service: AI support and human backup
+- [Chapter 6](book-en/06-ch6-retention-and-expansion-ai-driven-customer-success.md) — Retention & expansion: AI-driven customer success
+- [Chapter 7](book-en/07-ch7-the-foundation-ai-crm-and-customer-data.md) — The foundation: AI CRM and customer data
+- [Chapter 8](book-en/08-ch8-organization-people-skills-and-change.md) — Organization: people, skills, and change
+- [Chapter 9](book-en/09-ch9-industry-playbook-eleven-industries.md) — Industry playbook: eleven industries
+- [Chapter 10](book-en/10-ch10-the-dark-side-backlash-hallucination-compliance.md) — The dark side: backlash, hallucination, compliance, and responsibility
+- [Chapter 11](book-en/11-ch11-the-future-when-the-customer-is-an-ai.md) — The future: when the customer is an AI
+- [Afterword](book-en/15-afterword.md)
+- [Appendix A](book-en/12-appendix-a-sources.md) — Case index and sources (399 entries)
+- [Appendix B](book-en/13-appendix-b-metrics.md) — Key metrics
+- [Appendix C](book-en/14-appendix-c-changelog.md) — Version history and update notes
 
-- [Preface](book/00-自序.md) — The last battlefield in the AI era: your customer
-- [Chapter 1](book/01-第1章-AI客户经营元年.md) — Year one: from Klarna to "we went too far"
-- [Chapter 2](book/02-第2章-客户全生命周期与AI引擎.md) — The customer lifecycle and the AI engine
-- [Chapter 3](book/03-第3章-开拓-AI把获客变成产能.md) — Acquisition: AI turns prospecting into capacity
-- [Chapter 4](book/04-第4章-转化-AI个性化定价与对话式成交.md) — Conversion: personalized pricing and conversational deals
-- [Chapter 5](book/05-第5章-服务-AI客服与人工兜底.md) — Service: AI support with human backup
-- [Chapter 6](book/06-第6章-留存与扩展-客户成功AI化.md) — Retention & expansion: AI-driven customer success
-- [Chapter 7](book/07-第7章-底座-AI-CRM与客户数据.md) — The foundation: AI CRM and customer data
-- [Chapter 8](book/08-第8章-组织-人技能与变革.md) — Organization: people, skills, and change
-- [Chapter 9](book/09-第9章-行业篇-十一个行业的AI客户经营.md) — Industry playbook: eleven industries
-- [Chapter 10](book/10-第10章-反面与边界-反噬幻觉合规与责任.md) — The dark side: backlash, hallucination, compliance, responsibility
-- [Chapter 11](book/11-第11章-未来-当客户变成AI.md) — The future: when the customer is an AI
-- [Afterword](book/15-后记.md)
-- [Appendix A](book/12-附录A-案例索引与资料出处.md) — Case index and sources (399 entries)
-- [Appendix B](book/13-附录B-常用指标.md) — Key metrics
-- [Appendix C](book/14-附录C-版本历史与更新说明.md) — Version history and update notes
+*The Chinese edition is the source of truth for content; the English edition is updated in sync on every release. Chinese chapters live in the `book/` folder.*
 
 ## Acknowledgments
 

@@ -16,11 +16,11 @@ Why does this framework suddenly become important in the AI era? Because AI turn
 - **Retention**: AI churn prediction can spot risk signals months before a customer leaves;
 - **Expansion**: AI can identify upsell opportunities for each customer and push NDR (net dollar retention) higher.
 
-Traditional customer management split these five stages across different departments, each looking only at its own segment. The first change AI-powered customer operations brings is **reconnecting the five stages into one continuous line** — because AI needs complete customer data to work, and once complete customer data starts flowing, the barriers between the five stages naturally break down. ZoomInfo calls this CLM (customer lifecycle management): systematically optimizing every touchpoint on the customer journey, like a cross-functional operating system that unifies marketing, sales, customer success, and product teams<sup><a href="12-appendix-a-sources.md#1-17">[1-17]</a></sup>[third-party verified].
+Traditional customer management split these five stages across different departments, each looking only at its own segment. The first change AI-powered customer lifecycle management brings is **reconnecting the five stages into one continuous line** — because AI needs complete customer data to work, and once complete customer data starts flowing, the barriers between the five stages naturally break down. ZoomInfo calls this CLM (customer lifecycle management): systematically optimizing every touchpoint on the customer journey, like a cross-functional operating system that unifies marketing, sales, customer success, and product teams<sup><a href="12-appendix-a-sources.md#1-17">[1-17]</a></sup>[third-party verified].
 
 ## 2.2 AI-native vs. AI-assisted: A Spectrum
 
-Any discussion of AI-powered customer operations must confront a conceptual divide: **AI-native and AI-assisted**.
+Any discussion of AI-powered customer lifecycle management must confront a conceptual divide: **AI-native and AI-assisted**.
 
 Nutshell uses an "AI spectrum" to explain why so many companies invest in AI yet see no results: only a minority of companies achieve measurable enterprise-level gains; most CRMs are merely "AI-assisted" — layering an AI tier on top of legacy systems; whereas AI-native embeds AI into the core database, workflows, and automation — AI is not a feature attached to the database but the architecture itself<sup><a href="12-appendix-a-sources.md#1-05">[1-05]</a></sup>[third-party verified].
 
@@ -66,7 +66,7 @@ Combine the five-stage model with AI-native, and you get this book's organizing 
 
 ## 2.5 When Not to Use AI
 
-This section sits in the overview chapter because it is one of the most important judgments in this book: **the first step of AI-powered customer operations is not deciding where to use AI, but deciding where not to use it.**
+This section sits in the overview chapter because it is one of the most important judgments in this book: **the first step of AI-powered customer lifecycle management is not deciding where to use AI, but deciding where not to use it.**
 
 In 2026, an interesting counter-trend emerged: a group of brands turned "we don't use AI" into their strongest selling point. "No AI" is becoming a new marketing label after "all natural," triggered by consumers' rising aversion to AI content and their growing ability to recognize it<sup><a href="12-appendix-a-sources.md#1-01">[1-01]</a></sup>[third-party verified].
 

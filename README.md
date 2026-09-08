@@ -1,4 +1,6 @@
-# AI-Powered Customer Operations (English Edition)
+# AI Customer Lifecycle Management
+
+> *Acquisition, Conversion, Service, Retention, and Expansion in the Age of AI*
 
 > **简体中文版**：[README.zh.md](README.zh.md)（GitHub 会自动按你的浏览器语言切换；中文版内容与英文版同步更新）
 
@@ -14,7 +16,7 @@
 
 In 2024, Klarna replaced the workload of 700 full-time customer-service agents with an AI assistant — and the global media went wild. In 2026, its CEO said "we went too far" and started hiring people again.
 
-This is not a story about whether AI works. It is a story about **how customer operations should be run in the age of AI** — using AI as a cost-cutting machine hurts the customer relationship itself. The right way is not to replace humans, but to let humans and AI each do what they do best.
+This is not a story about whether AI works. It is a story about **how the full customer lifecycle should be managed in the age of AI** — using AI as a cost-cutting machine hurts the customer relationship itself. The right way is not to replace humans, but to let humans and AI each do what they do best.
 
 This book studies how AI reshapes the full customer lifecycle — **Acquisition → Conversion → Service → Retention → Expansion** — and answers four questions:
 

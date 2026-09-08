@@ -1,4 +1,6 @@
-# AI 客户经营（AI-Powered Customer Operations）
+# AI 客户经营（AI Customer Lifecycle Management）
+
+> *Acquisition, Conversion, Service, Retention, and Expansion in the Age of AI*
 
 > 当每个客户都值得被 AI 认真对待时，人做什么？
 > 免费公开 · 持续更新 · 欢迎在线阅读与分享

@@ -34,11 +34,11 @@ AI makes "customer operations" scalable for the first time. Traditional customer
 
 The blunter version comes from the B2C world: Blueshift's lifecycle marketing guide did the math—acquiring a new customer can cost 5 to 25 times as much as retaining one, and a 5% improvement in retention can lift profits by 25% to 95%<sup><a href="12-appendix-a-sources.md#1-06">[1-06]</a></sup> [official claims]. Once AI can automate and scale the business of operating existing customers, customers are no longer merely managed—they are actively operated.
 
-## 1.3 Data Can Lie: Three Truths About AI-Powered Customer Operations
+## 1.3 Data Can Lie: Three Truths About AI-Powered Customer Lifecycle Management
 
 Before we get to the substance, let me put three easily misleading "truths" on the table. They come from cross-validating 398 pieces of source material, and from observing a great many failure cases.
 
-**Truth one: adoption of AI-powered customer operations is badly overestimated.** Intercom surveyed 2,470 customer-service professionals worldwide: 82% of executives said they had invested in AI over the past 12 months, and 87% planned to keep investing in 2026—yet only 10% had reached "mature deployment" (AI deeply integrated into core operations and running at scale)<sup><a href="12-appendix-a-sources.md#1-09">[1-09]</a></sup> [official claims]. Between buying AI and using it well lies an enormous gap.
+**Truth one: adoption of AI-powered customer lifecycle management is badly overestimated.** Intercom surveyed 2,470 customer-service professionals worldwide: 82% of executives said they had invested in AI over the past 12 months, and 87% planned to keep investing in 2026—yet only 10% had reached "mature deployment" (AI deeply integrated into core operations and running at scale)<sup><a href="12-appendix-a-sources.md#1-09">[1-09]</a></sup> [official claims]. Between buying AI and using it well lies an enormous gap.
 
 **Truth two: vendor-reported ROI runs 30–40 percentage points above independent data.** The 53 AI customer-service ROI studies compiled by Digital Applied show an average return of $3.50 for every $1 invested by vendors' own accounting, while independent benchmarks are markedly lower<sup><a href="12-appendix-a-sources.md#5-04">[5-04]</a></sup> [third-party verified]. It is not that all vendors are lying; rather, vendors tend to count "the volume of conversations AI handled," not "the improvement in customer satisfaction and retention."
 
@@ -48,15 +48,15 @@ Before we get to the substance, let me put three easily misleading "truths" on t
 
 This book unfolds along the five stages of the customer lifecycle: **Acquisition → Conversion → Service → Retention → Expansion**. Each chapter answers one question:
 
-- Chapter 2: the overall framework of AI-powered customer operations—the lifecycle model, the divide between AI-native and AI-assisted approaches, and when AI should not be used;
+- Chapter 2: the overall framework of AI-powered customer lifecycle management—the lifecycle model, the divide between AI-native and AI-assisted approaches, and when AI should not be used;
 - Chapter 3: acquisition—how AI turns prospecting into capacity, and why AI outbound is killing cold email;
 - Chapter 4: conversion—personalization, pricing, and conversational commerce: how AI is changing the business of "getting customers to pay";
 - Chapter 5: service—AI customer-service platforms, human–AI collaboration, and the failure scenes;
 - Chapter 6: retention and expansion—AI-powered customer success: churn prediction, health scores, and NDR;
 - Chapter 7: the foundation—AI CRM and customer data: without data, everything else is empty talk;
 - Chapter 8: organization—rebuilding the GTM, sales training, and the psychology of organizational change;
-- Chapter 9: industries—a map of AI-powered customer operations across eleven industries;
-- Chapter 10: the flip side—backlash, hallucination, compliance, and liability: the boundaries of AI-powered customer operations;
+- Chapter 9: industries—a map of AI-powered customer lifecycle management across eleven industries;
+- Chapter 10: the flip side—backlash, hallucination, compliance, and liability: the boundaries of AI-powered customer lifecycle management;
 - Chapter 11: the future—when customers themselves become AI.
 
-Every chapter follows the same writing discipline: **success stories and failure stories are told side by side.** In the field of AI-powered customer operations, failure cases often teach us more than success stories—and Klarna is the best example.
+Every chapter follows the same writing discipline: **success stories and failure stories are told side by side.** In the field of AI-powered customer lifecycle management, failure cases often teach us more than success stories—and Klarna is the best example.

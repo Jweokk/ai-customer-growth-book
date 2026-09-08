@@ -1,6 +1,6 @@
 # Appendix B: Common Metrics
 
-A quick-reference table of the metrics commonly used in AI-powered customer operations, organized by stage of the customer lifecycle.
+A quick-reference table of the metrics commonly used in AI-powered customer lifecycle management, organized by stage of the customer lifecycle.
 
 ## Acquisition
 

@@ -72,7 +72,7 @@ The far-reaching significance of this precedent: every word an AI support agent 
 
 ## 5.7 Summary
 
-Customer service is the stage of AI-powered customer operations with the most material and the densest lessons. Core takeaways:
+Customer service is the stage of AI-powered customer lifecycle management with the most material and the densest lessons. Core takeaways:
 
 1. **AI support's capacity is real** — Klarna's 700-person equivalent, Fin's 50-70% autonomous resolution rate, and China's intelligent customer-service market growing 55% a year;
 2. **AI support's boundaries are equally real** — DPD insulting its own company, Air Canada paying damages, 53-77% of users having bad experiences, and a failure rate four times that of other AI use cases;

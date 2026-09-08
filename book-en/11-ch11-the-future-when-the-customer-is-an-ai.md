@@ -53,7 +53,7 @@ Taken together, the two pictures point to a clear future: **routine transactions
 
 ## 11.5 Closing: The Next Decade of Customer Operations
 
-Threading the whole book together, the evolution of AI-powered customer operations can be summarized in three phases:
+Threading the whole book together, the evolution of AI-powered customer lifecycle management can be summarized in three phases:
 
 **Phase 1 (2023-2025): Tool substitution.** Companies treat AI as a tool that replaces repetitive work — AI support, AI outbound, AI analytics. The winners in this phase are the most efficient companies; the losers are those that optimized customer service as a pure cost center (the Klarna lesson).
 
@@ -65,4 +65,4 @@ The three phases are not replacements for one another; they stack. The reality o
 
 What this book can do is lay out the map across the three phases: the engine (Chapters 3-6), the foundation (Chapter 7), the organization (Chapter 8), the industry (Chapter 9), and the boundaries (Chapter 10). The rest of the road, operators must walk themselves.
 
-Finally, back to Klarna from the preface. It went from "AI does the work of 700 support agents" to "we went too far" and then back to hiring people again — a complete cycle in two years. The value of this cycle lies not in its conclusion but in its process: it proved the enormous capacity of AI-powered customer operations, and it proved that customers are people, not tickets. **The entire art of AI-powered customer operations is to use the scale of AI to serve every individual person well.**
+Finally, back to Klarna from the preface. It went from "AI does the work of 700 support agents" to "we went too far" and then back to hiring people again — a complete cycle in two years. The value of this cycle lies not in its conclusion but in its process: it proved the enormous capacity of AI-powered customer lifecycle management, and it proved that customers are people, not tickets. **The entire art of AI-powered customer lifecycle management is to use the scale of AI to serve every individual person well.**

@@ -50,13 +50,13 @@ The consensus across the whole CRM market: **the biggest bottleneck for AI CRM i
 
 ## 7.5 Privacy and Compliance: The Ceiling of Customer Data
 
-More data, stronger AI — but there are red lines on how data may be used. Privacy compliance is the ceiling of AI-powered customer operations, and this section needs to say it plainly.
+More data, stronger AI — but there are red lines on how data may be used. Privacy compliance is the ceiling of AI-powered customer lifecycle management, and this section needs to say it plainly.
 
 The regulatory landscape: GDPR governs Europe, CCPA/CPRA governs California, and PIPL governs China. The core principle of marketing data compliance: in the vast majority of cases, the safest path is to provide notice and obtain consent<sup><a href="12-appendix-a-sources.md#7-02">[7-02]</a></sup>[third-party verified]. King & Wood Mallesons sets out the essentials of omni-channel retail marketing under the PIPL: behavioral data collected automatically may identify individuals once it is linked with other information, and therefore constitutes personal information; data provided voluntarily by users requires full disclosure, and general consent must be distinguished from separate consent<sup><a href="12-appendix-a-sources.md#7-33">[7-33]</a></sup>[third-party verified].
 
 New solutions to the technology-versus-privacy balance are emerging. Federated learning lets vast numbers of edge devices participate in model training with their local data — only model parameters leave the devices, while raw data never leaves them<sup><a href="12-appendix-a-sources.md#7-25">[7-25]</a></sup>[third-party verified]. At the same time, AI is also helping companies stay compliant: 60% of large enterprises used AI to automate GDPR compliance processes in 2025<sup><a href="12-appendix-a-sources.md#7-05">[7-05]</a></sup>[third-party verified].
 
-Consumer attitudes are contradictory: 44% of consumers are disappointed when a brand fails to deliver a personalized experience, while 70% worry about how their data is being used<sup><a href="12-appendix-a-sources.md#7-05">[7-05]</a></sup>[third-party research]. Those running AI-powered customer operations must manage this pair of contradictions at the same time — the expectation of personalization and the worry about privacy are two sides of the same customers.
+Consumer attitudes are contradictory: 44% of consumers are disappointed when a brand fails to deliver a personalized experience, while 70% worry about how their data is being used<sup><a href="12-appendix-a-sources.md#7-05">[7-05]</a></sup>[third-party research]. Those running AI-powered customer lifecycle management must manage this pair of contradictions at the same time — the expectation of personalization and the worry about privacy are two sides of the same customers.
 
 ## 7.6 Summary
 

@@ -1,6 +1,6 @@
 # Chapter 10 The Dark Side and Boundaries: Backlash, Hallucination, Compliance, and Liability
 
-The earlier chapters covered the bright side of AI-powered customer operations. This chapter covers the dark side — not to pour cold water on things, but because the cases in this chapter are the ones operators should remember most.
+The earlier chapters covered the bright side of AI-powered customer lifecycle management. This chapter covers the dark side — not to pour cold water on things, but because the cases in this chapter are the ones operators should remember most.
 
 ## 10.1 Backlash: AI Outbound Is Killing Itself
 
@@ -37,17 +37,17 @@ The 2024-2026 period saw AI regulation land intensively. Three landmark actions:
 
 **Article 50 of the EU AI Act** (in effect August 2, 2026): customer-facing AI interactions must disclose that they are AI, and coverage is not limited to high-risk systems; human review can serve as an exemption from liability<sup><a href="12-appendix-a-sources.md#10-07">[10-07]</a></sup> [third-party verified].
 
-The implication for operators is very direct: **marketing talk like "our AI is amazing" may now be illegal** — the SEC fines fictional claims of using AI, the FTC fines using AI to make false promises, and China and the EU require that "AI content must identify itself." The compliance red line for AI-powered customer operations is not in the future tense; it is in the present tense.
+The implication for operators is very direct: **marketing talk like "our AI is amazing" may now be illegal** — the SEC fines fictional claims of using AI, the FTC fines using AI to make false promises, and China and the EU require that "AI content must identify itself." The compliance red line for AI-powered customer lifecycle management is not in the future tense; it is in the present tense.
 
 ## 10.4 The Human-Machine Boundary: The Red Line on AI Impersonating Humans
 
-There is one boundary in AI-powered customer operations that is the most tempting to test and the most dangerous: **Can AI pass itself off as a real person?**
+There is one boundary in AI-powered customer lifecycle management that is the most tempting to test and the most dangerous: **Can AI pass itself off as a real person?**
 
 Regulators' answers are increasingly aligned: it cannot. The FCC ruled AI-generated-voice robocalls illegal (February 2024)<sup><a href="12-appendix-a-sources.md#10-08">[10-08]</a></sup> [third-party verified]; the FTC has an impersonation rule targeting AI that impersonates real people<sup><a href="12-appendix-a-sources.md#10-10">[10-10]</a></sup> [third-party verified]; and China's governance of AI outbound calling is following suit [third-party verified].
 
 Analysis from the U.S. think tank CDT (the Center for Democracy & Technology) reveals a deeper risk: conversational AI is producing new kinds of dark patterns — AI using empathetic rhetoric to manipulate users into decisions, blurring the line between AI and real people, and exploiting the intimacy of conversation to win trust<sup><a href="12-appendix-a-sources.md#10-03">[10-03]</a></sup> [third-party verified].
 
-Why is "AI impersonating a real person" a red line? Because customer operations are built on trust, and impersonation is a fundamental destruction of trust. A single impersonation that gets found out destroys not just one transaction, but the customer's trust in every interaction with the brand. **The first ethical bottom line of AI-powered customer operations: always let customers know who they are talking to.**
+Why is "AI impersonating a real person" a red line? Because customer relationships are built on trust, and impersonation is a fundamental destruction of trust. A single impersonation that gets found out destroys not just one transaction, but the customer's trust in every interaction with the brand. **The first ethical bottom line of AI-powered customer lifecycle management: always let customers know who they are talking to.**
 
 ## 10.5 Liability: Who Pays When AI Messes Up
 
@@ -65,7 +65,7 @@ A liability checklist for operators:
 
 ## 10.6 Summary
 
-The boundaries of AI-powered customer operations can be condensed into five points:
+The boundaries of AI-powered customer lifecycle management can be condensed into five points:
 
 1. **Backlash**: AI outbound is killing cold email — channel dividends are one-time, and restraint is a strategy;
 2. **Hallucination**: AI's mistakes are the company's mistakes — Air Canada paid, and the Hangzhou case was exempted (with disclosure); guardrails determine liability;

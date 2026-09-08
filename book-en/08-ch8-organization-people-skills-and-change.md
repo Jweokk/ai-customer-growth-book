@@ -1,6 +1,6 @@
 # Chapter 8 Organization: People, Skills, and Change
 
-The previous chapters were about which tools to use. This chapter is about who uses them and how things change. Organizational change is the slowest, the most expensive, and the most easily underestimated part of AI-powered customer operations.
+The previous chapters were about which tools to use. This chapter is about who uses them and how things change. Organizational change is the slowest, the most expensive, and the most easily underestimated part of AI-powered customer lifecycle management.
 
 ## 8.1 Three CEOs, Three Extreme Answers
 
@@ -14,7 +14,7 @@ Between 2023 and 2026, three CEOs answered the same question in three completely
 
 The three stories have something in common: all of them acknowledged that AI is structural, all of them touched headcount, and all of them went through pain. The difference lies in the approach: IgniteTech's 80% workforce renewal was radical, Salesforce's 4,000 cuts were direct cost reduction, and Intercom's layoffs were part of a transformation — its growth engine switched from "human-delivered service" to "AI products."
 
-None of these answers is the standard answer. But stacked together, the three point to a clear reality: **organizational change in AI-powered customer operations cannot get around the question of "what happens to the people."** This chapter breaks that question into three parts: how GTM is rebuilt (8.2), what new skills people need (8.3), and why change fails (8.4-8.5).
+None of these answers is the standard answer. But stacked together, the three point to a clear reality: **organizational change in AI-powered customer lifecycle management cannot get around the question of "what happens to the people."** This chapter breaks that question into three parts: how GTM is rebuilt (8.2), what new skills people need (8.3), and why change fails (8.4-8.5).
 
 ## 8.2 Rebuilding GTM: AI Agents Enter the Revenue Organization
 
@@ -51,7 +51,7 @@ Category reviews covering more than eight platforms have already appeared (Knowl
 
 ## 8.5 The Psychology of Change: Why 74% of Companies Are Stuck in Pilots
 
-The tools are bought and the training is done — so why do most AI-powered customer operations programs still get stuck in pilots?
+The tools are bought and the training is done — so why do most AI-powered customer lifecycle management programs still get stuck in pilots?
 
 BCG's report *Where's the Value in AI?* (surveying 1,000 CxOs across 59 countries and more than 20 industries) offers an attribution: only 26% of companies have the ability to move beyond proof of concept and deliver real value, and 74% have yet to see visible value from AI — **roughly 70% of implementation barriers come from "people," not from technology or algorithms**<sup><a href="12-appendix-a-sources.md#8-21">[8-21]</a></sup>[official claims].
 
@@ -67,7 +67,7 @@ Change management has no silver bullet, but several principles have been repeate
 
 ## 8.6 Summary
 
-Organizational change is the hardest part of AI-powered customer operations to replicate:
+Organizational change is the hardest part of AI-powered customer lifecycle management to replicate:
 
 1. **Three CEOs, three answers** — IgniteTech replaced its workforce, Salesforce cut headcount, Intercom transformed; there is no standard answer, but all of them moved people;
 2. **GTM rebuilt** — AI agents enter the revenue organization, RevOps becomes the "agent-fleet manager," and high-growth companies invest 3x more in AI than others;
@@ -75,4 +75,4 @@ Organizational change is the hardest part of AI-powered customer operations to r
 4. **AI sales training** — ramp time cut from 210 days to 72 days; practice is scalable for the first time;
 5. **The psychology of change** — 74% of companies are stuck in pilots, and roughly 70% of barriers come from people; anxiety needs an outlet, pilots need data, and change needs resolve that runs from the top down.
 
-The engine, the foundation, and the organization are all covered. The next chapter goes into the industries — what does AI-powered customer operations look like across eleven industries?
+The engine, the foundation, and the organization are all covered. The next chapter goes into the industries — what does AI-powered customer lifecycle management look like across eleven industries?

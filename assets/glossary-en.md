@@ -1,4 +1,4 @@
-# 英文版术语表（Glossary for EN edition）— AI-Powered Customer Operations
+# 英文版术语表（Glossary for EN edition）— AI Customer Lifecycle Management
 
 > 用途：英文版全书翻译的术语对照基准，保证一致性。
 > 翻译规则：概念术语按本表；公司/机构名查官方英文（见"公司名处理规则"）；人名用拼音。
@@ -7,8 +7,8 @@
 
 | 中文 | English | 备注 |
 |------|---------|------|
-| AI 客户经营 | AI-powered customer operations | 书名/核心术语（Customer Operations 为本书标题语义，非 IT "运维"） |
-| 客户经营 | customer operations | 对旧范式 customer management（客户管理） |
+| AI 客户经营 | AI Customer Lifecycle Management | 书名正式英文名（意译，不与狭义 operations 绑定） |
+| 客户经营 | customer operations | 正文核心术语；对旧范式 customer management（客户管理） |
 | 客户管理 | customer management | 工业时代旧范式：客户是流程的输入 |
 | 客户生命周期 | customer lifecycle | |
 | 开拓 | acquisition | 生命周期第 1 环节（获客） |

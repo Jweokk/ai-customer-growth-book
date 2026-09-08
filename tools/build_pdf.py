@@ -31,10 +31,10 @@ LANGS = {
         "dir": "book-en",
         "out": ".",         # repo 根目录，仅 GitHub 分发（域名只面向中文读者）
         "fname": "ai-customer-growth-en",
-        "title": "AI-Powered Customer Operations",
-        "subtitle": "What do humans do when every customer deserves an AI's full attention?",
+        "title": "AI Customer Lifecycle Management",
+        "subtitle": "Acquisition, Conversion, Service, Retention, and Expansion in the Age of AI",
         "meta": "Jweokk · {today} · v{version}",
-        "blurb": "In 2024, Klarna handled the workload of 700 full-time customer-service agents with an AI assistant — and the global media went wild. By 2026, its CEO said \"we went too far\" and started hiring people again.<br>Not a story about whether AI works, but about how customer operations should be run in the age of AI —<br>across the full lifecycle, from acquisition to expansion: successes and failures, both sides told.",
+        "blurb": "In 2024, Klarna handled the workload of 700 full-time customer-service agents with an AI assistant — and the global media went wild. By 2026, its CEO said \"we went too far\" and started hiring people again.<br>Not a story about whether AI works, but about how the full customer lifecycle should be managed in the age of AI —<br>across the full lifecycle, from acquisition to expansion: successes and failures, both sides told.",
         "disclaimer": "Copyright © Jweokk. Free for reading and non-commercial sharing; commercial use requires prior written permission.<br>Contact: weokk2025@gmail.com",
         "font": '"DejaVu Sans", "WenQuanYi Zen Hei", "Noto Sans", sans-serif',
         "toc_title": "Contents",

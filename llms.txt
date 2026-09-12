@@ -1,0 +1,30 @@
+# AI 客户经营 / AI Customer Lifecycle Management
+
+> 免费公开、持续更新的开源书：当每个客户都值得被 AI 认真对待时，人做什么？
+
+How should the full customer lifecycle be managed in the age of AI? Acquisition, Conversion, Service,
+Retention, and Expansion — what the cases (starting with Klarna's two-year turn) and the evidence say,
+plus what customer-operations teams need to change. 出处逐条可查：厂商标称与第三方报道分栏标注。
+
+- 作者 / Author：Jweokk｜在线阅读 / Read online：https://ai-customer-growth.fly2ai.top
+- 双语 / Languages：中文 11 章（站点 + `book/`）· English 11 chapters（`book-en/` + PDF）
+- 许可 / License：非商业分享（正文 CC BY-NC-SA 4.0）；商用须书面许可
+- 更新 / Updates：自动合并新素材持续增补，版本历史见附录 C / `CHANGELOG.md`
+
+## 章节目录 / Chapters
+- [自序](https://ai-customer-growth.fly2ai.top/00-自序/) / [Preface](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/00-preface.md) — 客户，是 AI 时代的最后一个战场
+- [第 1 章](https://ai-customer-growth.fly2ai.top/01-第1章-AI客户经营元年/) / [Ch.1](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/01-ch1-year-one-ai-customer-operations.md) — AI 客户经营元年：从 Klarna 到"我们走得太远了"
+- [第 2 章](https://ai-customer-growth.fly2ai.top/02-第2章-客户全生命周期与AI引擎/) / [Ch.2](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/02-ch2-the-customer-lifecycle-and-the-ai-engine.md) — 客户全生命周期与 AI 引擎
+- [第 3 章](https://ai-customer-growth.fly2ai.top/03-第3章-开拓-AI把获客变成产能/) / [Ch.3](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/03-ch3-acquisition-turning-prospecting-into-capacity.md) — 开拓：AI 把获客变成产能
+- [第 4 章](https://ai-customer-growth.fly2ai.top/04-第4章-转化-AI个性化定价与对话式成交/) / [Ch.4](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/04-ch4-conversion-personalization-pricing-conversational-commerce.md) — 转化：个性化定价与对话式成交
+- [第 5 章](https://ai-customer-growth.fly2ai.top/05-第5章-服务-AI客服与人工兜底/) / [Ch.5](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/05-ch5-service-ai-support-and-human-backup.md) — 服务：AI 客服与人工兜底
+- [第 6 章](https://ai-customer-growth.fly2ai.top/06-第6章-留存与扩展-客户成功AI化/) / [Ch.6](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/06-ch6-retention-and-expansion-ai-driven-customer-success.md) — 留存与扩展：客户成功 AI 化
+- [第 7 章](https://ai-customer-growth.fly2ai.top/07-第7章-底座-AI-CRM与客户数据/) / [Ch.7](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/07-ch7-the-foundation-ai-crm-and-customer-data.md) — 底座：AI CRM 与客户数据
+- [第 8 章](https://ai-customer-growth.fly2ai.top/08-第8章-组织-人技能与变革/) / [Ch.8](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/08-ch8-organization-people-skills-and-change.md) — 组织：人、技能与变革
+- [第 9 章](https://ai-customer-growth.fly2ai.top/09-第9章-行业篇-十一个行业的AI客户经营/) / [Ch.9](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/09-ch9-industry-playbook-eleven-industries.md) — 行业篇：十一个行业的 AI 客户经营
+- [第 10 章](https://ai-customer-growth.fly2ai.top/10-第10章-反面与边界-反噬幻觉合规与责任/) / [Ch.10](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/10-ch10-the-dark-side-backlash-hallucination-compliance.md) — 反面与边界：反噬、幻觉、合规与责任
+- [第 11 章](https://ai-customer-growth.fly2ai.top/11-第11章-未来-当客户变成AI/) / [Ch.11](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/11-ch11-the-future-when-the-customer-is-an-ai.md) — 未来：当客户变成 AI
+- [后记](https://ai-customer-growth.fly2ai.top/15-后记/) / [Afterword](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/15-afterword.md)
+- [附录 A](https://ai-customer-growth.fly2ai.top/12-附录A-案例索引与资料出处/) / [Appendix A](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/12-appendix-a-sources.md) — 案例索引与资料出处（含全部来源链接）
+- [附录 B](https://ai-customer-growth.fly2ai.top/13-附录B-常用指标/) / [Appendix B](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/13-appendix-b-metrics.md) — 常用指标
+- [附录 C](https://ai-customer-growth.fly2ai.top/14-附录C-版本历史与更新说明/) / [Appendix C](https://github.com/Jweokk/ai-customer-growth-book/blob/main/book-en/14-appendix-c-changelog.md) — 版本历史与更新说明

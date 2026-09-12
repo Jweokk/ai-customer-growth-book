@@ -1,0 +1,1122 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="AI Customer Lifecycle Management — 当每个客户都值得被 AI 认真对待时，人做什么？">
+      
+      
+      
+        <link rel="canonical" href="https://ai-customer-growth.fly2ai.top/02-%E7%AC%AC2%E7%AB%A0-%E5%AE%A2%E6%88%B7%E5%85%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E4%B8%8EAI%E5%BC%95%E6%93%8E/">
+      
+      
+        <link rel="prev" href="../01-%E7%AC%AC1%E7%AB%A0-AI%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%85%83%E5%B9%B4/">
+      
+      
+        <link rel="next" href="../03-%E7%AC%AC3%E7%AB%A0-%E5%BC%80%E6%8B%93-AI%E6%8A%8A%E8%8E%B7%E5%AE%A2%E5%8F%98%E6%88%90%E4%BA%A7%E8%83%BD/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>第 2 章 客户全生命周期与 AI 引擎 - AI 客户经营</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#2-ai" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href=".." title="AI 客户经营" class="md-header__button md-logo" aria-label="AI 客户经营" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            AI 客户经营
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              第 2 章 客户全生命周期与 AI 引擎
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="切换到深色模式"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="切换到深色模式" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="切换到浅色模式"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="切换到浅色模式" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Jweokk/ai-customer-growth-book" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="AI 客户经营" class="md-nav__button md-logo" aria-label="AI 客户经营" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    AI 客户经营
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Jweokk/ai-customer-growth-book" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    首页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00-%E8%87%AA%E5%BA%8F/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    自序
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01-%E7%AC%AC1%E7%AB%A0-AI%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%85%83%E5%B9%B4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 1 章 AI 客户经营元年
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 2 章 客户全生命周期与 AI 引擎
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 2 章 客户全生命周期与 AI 引擎
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.1 五环节模型：客户经营的总纲
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#22-ai-native-ai-assisted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.2 AI-native 与 AI-assisted：一条光谱
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#23-ai-native-gtm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.3 AI-native GTM 的六种模式
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.4 客户经营的引擎与底座
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#25-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.5 什么时候不该用 AI
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03-%E7%AC%AC3%E7%AB%A0-%E5%BC%80%E6%8B%93-AI%E6%8A%8A%E8%8E%B7%E5%AE%A2%E5%8F%98%E6%88%90%E4%BA%A7%E8%83%BD/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 3 章 开拓——AI 把获客变成产能
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04-%E7%AC%AC4%E7%AB%A0-%E8%BD%AC%E5%8C%96-AI%E4%B8%AA%E6%80%A7%E5%8C%96%E5%AE%9A%E4%BB%B7%E4%B8%8E%E5%AF%B9%E8%AF%9D%E5%BC%8F%E6%88%90%E4%BA%A4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 4 章 转化——个性化定价与对话式成交
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05-%E7%AC%AC5%E7%AB%A0-%E6%9C%8D%E5%8A%A1-AI%E5%AE%A2%E6%9C%8D%E4%B8%8E%E4%BA%BA%E5%B7%A5%E5%85%9C%E5%BA%95/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 5 章 服务——AI 客服与人工兜底
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06-%E7%AC%AC6%E7%AB%A0-%E7%95%99%E5%AD%98%E4%B8%8E%E6%89%A9%E5%B1%95-%E5%AE%A2%E6%88%B7%E6%88%90%E5%8A%9FAI%E5%8C%96/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 6 章 留存与扩展——客户成功 AI 化
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../07-%E7%AC%AC7%E7%AB%A0-%E5%BA%95%E5%BA%A7-AI-CRM%E4%B8%8E%E5%AE%A2%E6%88%B7%E6%95%B0%E6%8D%AE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 7 章 底座——AI CRM 与客户数据
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../08-%E7%AC%AC8%E7%AB%A0-%E7%BB%84%E7%BB%87-%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E5%8F%98%E9%9D%A9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 8 章 组织——人、技能与变革
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../09-%E7%AC%AC9%E7%AB%A0-%E8%A1%8C%E4%B8%9A%E7%AF%87-%E5%8D%81%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A%E7%9A%84AI%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 9 章 行业篇——十一个行业的 AI 客户经营
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10-%E7%AC%AC10%E7%AB%A0-%E5%8F%8D%E9%9D%A2%E4%B8%8E%E8%BE%B9%E7%95%8C-%E5%8F%8D%E5%99%AC%E5%B9%BB%E8%A7%89%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A3%E4%BB%BB/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 10 章 反面与边界——反噬、幻觉、合规与责任
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11-%E7%AC%AC11%E7%AB%A0-%E6%9C%AA%E6%9D%A5-%E5%BD%93%E5%AE%A2%E6%88%B7%E5%8F%98%E6%88%90AI/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    第 11 章 未来——当客户变成 AI
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../15-%E5%90%8E%E8%AE%B0/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    后记
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../12-%E9%99%84%E5%BD%95A-%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95%E4%B8%8E%E8%B5%84%E6%96%99%E5%87%BA%E5%A4%84/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 A 案例索引与资料出处
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../13-%E9%99%84%E5%BD%95B-%E5%B8%B8%E7%94%A8%E6%8C%87%E6%A0%87/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 B 常用指标
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../14-%E9%99%84%E5%BD%95C-%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2%E4%B8%8E%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    附录 C 版本历史与更新说明
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#21" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.1 五环节模型：客户经营的总纲
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#22-ai-native-ai-assisted" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.2 AI-native 与 AI-assisted：一条光谱
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#23-ai-native-gtm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.3 AI-native GTM 的六种模式
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#24" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.4 客户经营的引擎与底座
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#25-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2.5 什么时候不该用 AI
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="2-ai">第 2 章 客户全生命周期与 AI 引擎<a class="headerlink" href="#2-ai" title="Permanent link">&para;</a></h1>
+<h2 id="21">2.1 五环节模型：客户经营的总纲<a class="headerlink" href="#21" title="Permanent link">&para;</a></h2>
+<p>上一章说"客户管理正在死去，客户经营正在到来"。那客户经营具体经营什么？答案是一个五环节的框架：</p>
+<p><strong>开拓（Acquisition）→ 转化（Conversion）→ 服务（Service）→ 留存（Retention）→ 扩展（Expansion）</strong></p>
+<p>这套框架不是新发明。Blueshift 的 B2C 生命周期营销指南把它表述为"获客、上手、参与、留存、赢回"五阶段<sup><a href="/12-附录A-案例索引与资料出处/#1-06">[1-06]</a></sup>【官方宣称】；monday.com 的 2026 生命周期营销指南认为行业正从"campaign 中心"转向"客户中心"——传统营销是带起止日期的孤立战役，生命周期营销则按客户所处关系阶段持续推送个性化信息，衡量口径从点击/打开转向客户终身价值与留存增长<sup><a href="/12-附录A-案例索引与资料出处/#1-21">[1-21]</a></sup>【第三方报道验证】。</p>
+<p>为什么 AI 时代这套框架突然变得重要？因为 AI 让每一个环节都从"人力密集型"变成了"可规模化经营"：</p>
+<ul>
+<li><strong>开拓</strong>：AI SDR 一天能外联几千个线索，人类销售做不到；</li>
+<li><strong>转化</strong>：AI 个性化推荐能同时服务几百万个不同需求的客户；</li>
+<li><strong>服务</strong>：AI 客服能同时处理几千个对话；</li>
+<li><strong>留存</strong>：AI 流失预测能在客户离开前几个月发现风险信号；</li>
+<li><strong>扩展</strong>：AI 能识别每个客户的增购机会，把 NDR（净收入留存率）做上去。</li>
+</ul>
+<p>传统客户管理把这五个环节拆给不同部门，每个部门只看自己那一段。AI 客户经营的第一个改变，就是<strong>把这五个环节重新连成一条线</strong>——因为 AI 需要完整的客户数据才能工作，而完整的客户数据一旦流动起来，五个环节的隔阂自然就被打破了。ZoomInfo 把这称为 CLM（客户生命周期管理）：系统性优化客户旅程每个触点，像一个跨职能的操作系统，统一市场、销售、客户成功与产品团队<sup><a href="/12-附录A-案例索引与资料出处/#1-17">[1-17]</a></sup>【第三方报道验证】。</p>
+<h2 id="22-ai-native-ai-assisted">2.2 AI-native 与 AI-assisted：一条光谱<a class="headerlink" href="#22-ai-native-ai-assisted" title="Permanent link">&para;</a></h2>
+<p>讨论 AI 客户经营，绕不开一个概念分界：<strong>AI-native（AI 原生）与 AI-assisted（AI 辅助）</strong>。</p>
+<p>Nutshell 用一条"AI 光谱"解释为什么大量企业投了 AI 却拿不到结果：真正取得企业级可衡量收益的公司只占少数，多数 CRM 只是"AI-assisted"——在旧系统上叠加 AI 层；而 AI-native 是把 AI 嵌入核心数据库、工作流与自动化，AI 不是贴在数据库上的功能，而是架构本身<sup><a href="/12-附录A-案例索引与资料出处/#1-05">[1-05]</a></sup>【第三方报道验证】。</p>
+<p>区别在哪？举一个具体的例子。AI-assisted 的 CRM，是销售手动录入客户信息，AI 在旁边提示"这个客户可能感兴趣"；AI-native 的 CRM，是系统自动捕获每一封邮件、每一通电话、每一场会议，自动保持记录新鲜，并为人类准备好<sup><a href="/12-附录A-案例索引与资料出处/#1-12">[1-12]</a></sup>"待批准的下一步动作"——AI 干活，人做决定<sup><a href="/12-附录A-案例索引与资料出处/#1-12">[1-12]</a></sup>【官方宣称】。</p>
+<p>这个分野同样适用于整个客户经营：</p>
+<table>
+<thead>
+<tr>
+<th>维度</th>
+<th>AI-assisted</th>
+<th>AI-native</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AI 的位置</td>
+<td>附加功能</td>
+<td>架构本身</td>
+</tr>
+<tr>
+<td>数据</td>
+<td>人录入，AI 分析</td>
+<td>AI 自动捕获，人审核</td>
+</tr>
+<tr>
+<td>工作流</td>
+<td>原有流程 + AI 加速</td>
+<td>围绕 AI 设计流程</td>
+</tr>
+<tr>
+<td>人的角色</td>
+<td>执行者</td>
+<td>决策者/审批者</td>
+</tr>
+<tr>
+<td>典型结局</td>
+<td>使用率 15%，年终复盘"没效果"</td>
+<td>指标可衡量，持续运转</td>
+</tr>
+</tbody>
+</table>
+<p>书中反复出现的"买了 AI 没效果"案例，绝大多数是 AI-assisted 的产物：工具买了、培训做了、激励给了，但组织架构、决策流程、考核标准全是传统的——AI 只是被贴在旧系统上。</p>
+<p>判断一个客户经营系统是不是 AI-native，有一个简单的检验标准：<strong>如果明天从零开始设计，AI 会不会被写进蓝图里？</strong> 答案是不会，那只是贴膏药。</p>
+<h2 id="23-ai-native-gtm">2.3 AI-native GTM 的六种模式<a class="headerlink" href="#23-ai-native-gtm" title="Permanent link">&para;</a></h2>
+<p>当客户经营以 AI 为架构核心，获客与营收的方式也变了。一份针对冲刺 100M 美元公司的研究，总结了 AI-native GTM 的六种模式<sup><a href="/12-附录A-案例索引与资料出处/#1-19">[1-19]</a></sup>【第三方报道验证】：</p>
+<ol>
+<li><strong>AI 生成内容获客</strong>：用 AI 批量生产高质量内容，让搜索引擎和 AI 搜索推荐源源不断地带来流量。Jasper 靠程序化内容，18 个月获得 10 万以上自然搜索流量<sup><a href="/12-附录A-案例索引与资料出处/#3-24">[3-24]</a></sup>；Zapier 的程序化 SEO 让自然流量翻了 4 倍<sup><a href="/12-附录A-案例索引与资料出处/#3-22">[3-22]</a></sup>【第三方报道验证】。</li>
+<li><strong>AI 个性化转化</strong>：AI 实时理解每个访客的意图，在正确的时刻给出正确的信息。</li>
+<li><strong>Agentic 销售</strong>：AI agent 自主完成外联、跟进、预约，人类只处理最后的高价值环节。</li>
+<li><strong>AI 客户成功</strong>：AI 主动监控客户健康度，在客户流失前介入。</li>
+<li><strong>AI 定价</strong>：按结果定价（outcome-based pricing），客户为"工作完成"付费而不是为"软件席位"付费。</li>
+<li><strong>AI 分析决策</strong>：AI 综合客户、价格、竞争与交易信号，直接推荐下一步行动。</li>
+</ol>
+<p>这六种模式的共同点：<strong>AI 不是辅助人类做原来的事，而是改变了做事的方式本身</strong>。EY-Parthenon 的观察更尖锐：代理式 AI 使 SaaS 公司的 go-to-market 复杂度骤升，"赢家将由商业模式的重构能力决定，而不是由销售团队的规模决定"<sup><a href="/12-附录A-案例索引与资料出处/#1-14">[1-14]</a></sup>【第三方报道验证】。</p>
+<h2 id="24">2.4 客户经营的引擎与底座<a class="headerlink" href="#24" title="Permanent link">&para;</a></h2>
+<p>把五环节模型和 AI-native 放在一起，就得到这本书的组织框架：</p>
+<ul>
+<li><strong>引擎</strong>：开拓、转化、服务、留存、扩展——五个环节各自被 AI 改造成什么样子（第 3-6 章）；</li>
+<li><strong>底座</strong>：AI CRM 与客户数据——所有引擎的燃料（第 7 章）；</li>
+<li><strong>组织</strong>：谁来驾驶这些引擎——GTM 团队、销售培训与变革管理（第 8 章）；</li>
+<li><strong>行业</strong>：不同行业的引擎配置不一样（第 9 章）；</li>
+<li><strong>边界</strong>：引擎的刹车系统——反噬、合规、责任（第 10 章）；</li>
+<li><strong>未来</strong>：当客户本身变成 AI，引擎要重新设计（第 11 章）。</li>
+</ul>
+<h2 id="25-ai">2.5 什么时候不该用 AI<a class="headerlink" href="#25-ai" title="Permanent link">&para;</a></h2>
+<p>这一节放在总论里，是因为它是全书最重要的判断之一：<strong>AI 客户经营的第一步，不是决定用 AI，而是决定哪些地方不用 AI。</strong></p>
+<p>2026 年出现了一个有趣的反向潮流：一批品牌把"我们没用 AI"变成最强卖点。"No AI"正在成为继"纯天然"之后的新营销标签，其触发点是消费者对 AI 内容的反感与识别力上升<sup><a href="/12-附录A-案例索引与资料出处/#1-01">[1-01]</a></sup>【第三方报道验证】。</p>
+<p>这不是反智，而是市场在用脚投票。研究给出了清晰的边界：</p>
+<p><strong>高信任场景，人不可替代。</strong> 西北互惠银行（Northwestern Mutual）委托 Harris Poll 的调查显示：美国人做财务决策时，信任真人顾问的程度显著高于 AI<sup><a href="/12-附录A-案例索引与资料出处/#1-08">[1-08]</a></sup>【官方宣称】。哥伦比亚大学师范学院的心理学家警告：AI 最流行的用例——情感支持与陪伴——恰恰是 AI 的架构最不适合的，因为 AI 无法真正共情<sup><a href="/12-附录A-案例索引与资料出处/#1-07">[1-07]</a></sup>【第三方报道验证】。</p>
+<p><strong>奢侈品与体验场景，AI 要退后。</strong> McKinsey 的奢侈品研究（调研 300 名消费者与 90 家商户）发现，85% 的奢侈品消费者已经使用生成式 AI，但在购买决策上，他们期待的是"人的触感"——AI 可以辅助，不能主导<sup><a href="/12-附录A-案例索引与资料出处/#1-10">[1-10]</a></sup>【第三方报道验证】。</p>
+<p><strong>情绪化与复杂场景，AI 会翻车。</strong> Klarna 的教训在这里：AI 能高效解决流程问题，但客户带着情绪来时，机器人越礼貌越让人崩溃。</p>
+<p>那 AI 该用在哪？答案是：<strong>重复、标准化、高容量、低情绪的场景</strong>——外联第一轮触达、常见问题解答、账单查询、流程引导、行为分析、风险预警。一句话：<strong>AI 负责规模和效率，人负责信任和判断</strong>。IBM 的思想领导力文章说得更漂亮：AI 正在让客户服务"变得更有人性"——因为它把需要情商的复杂案件留给了人<sup><a href="/12-附录A-案例索引与资料出处/#1-18">[1-18]</a></sup>【第三方报道验证】。</p>
+<p>这个边界不是静止的。随着 AI 能力提升，边界会移动；但随着客户对 AI 的识别力提升，"人味"的价值也在上升。经营者的任务不是一次划好边界，而是持续校准。</p>
+<p>下一章开始，进入五个环节的第一站：开拓。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="页脚" >
+        
+          
+          <a href="../01-%E7%AC%AC1%E7%AB%A0-AI%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%85%83%E5%B9%B4/" class="md-footer__link md-footer__link--prev" aria-label="上一页: 第 1 章 AI 客户经营元年">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                上一页
+              </span>
+              <div class="md-ellipsis">
+                第 1 章 AI 客户经营元年
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../03-%E7%AC%AC3%E7%AB%A0-%E5%BC%80%E6%8B%93-AI%E6%8A%8A%E8%8E%B7%E5%AE%A2%E5%8F%98%E6%88%90%E4%BA%A7%E8%83%BD/" class="md-footer__link md-footer__link--next" aria-label="下一页: 第 3 章 开拓——AI 把获客变成产能">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                下一页
+              </span>
+              <div class="md-ellipsis">
+                第 3 章 开拓——AI 把获客变成产能
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      著作权归作者 Jweokk 所有 · 免费阅读与非商业性分享 · 联系 weokk2025@gmail.com
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/Jweokk" target="_blank" rel="noopener" title="GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.sections", "navigation.top", "navigation.footer", "search.suggest", "search.highlight", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

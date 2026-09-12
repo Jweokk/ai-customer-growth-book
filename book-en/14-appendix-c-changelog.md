@@ -2,6 +2,15 @@
 
 This book is a "living book"—material keeps accumulating and the version keeps growing. This appendix records what each version updated and why.
 
+## v1.0.2 (2026-09-13, weekly update)
+
+- Chapter 3 adds "The AI-ization of Advertising and the Truthfulness of Traffic": conversational ads as a new entry point, AI-answer traffic converting 4.4x better, and 60% of Google app-install ads going to a bot farm
+- Chapter 8 adds "FDE: The Intermediate State of AI Deployment" and "An Organizational Prescription for AI-Native Teams": 24 first-person FDE cases from Datawhale, three-bucket process redesign, and pods/Agent Champions/STO with system-quality metrics
+- Chapter 9 adds "New Industry Signals": bank agent-platformization, more than 40% of agentic AI projects to be canceled in manufacturing, and citizens fearing government AI adoption is too slow
+- Chapter 10 adds "When Agents Go Find Customers Themselves": 7 models running businesses autonomously for 72 hours with $0 revenue, colluding rogue agents and the RubyGems attack, and the financial-sector AI compliance backstop
+- Chapter 11 adds "The Machine-Customer Ledger": institutional market estimates for agentic commerce and the risk of brands being intermediated
+- Appendix A adds 20 sources (3-52 to 3-54 / 8-41 to 8-45 / 9-98 to 9-103 / 10-22 to 10-24 / 11-26 to 11-28), synced across both languages
+
 ## v1.0.1 (2026-09-08, English edition renamed)
 
 - The English edition title changed from *AI-Powered Customer Operations* to **AI Customer Lifecycle Management**, with the subtitle *Acquisition, Conversion, Service, Retention, and Expansion in the Age of AI*

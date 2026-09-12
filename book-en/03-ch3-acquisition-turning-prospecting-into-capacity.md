@@ -86,7 +86,19 @@ Hence a paradox that emerged in 2026: **AI has driven the cost of proactive outr
 
 That explains why the acquisition consensus in 2026 is turning toward "relationship-driven": rather than casting a wide net with AI, use AI to precisely identify "who is in the market right now" (intent data), then reach them in a high-quality, personalized way. The second half of AI-driven acquisition is a contest of restraint, not intensity.
 
-## 3.9 Summary
+## 3.9 The AI-ization of Advertising and the Truthfulness of Traffic
+
+Section 3.7 described how AI turns ad budgets into algorithms. Since then, two new shifts have appeared in this channel: the entry points are migrating, and the credibility of measurement is weakening.
+
+**Migrating entry points.** In September 2026, Amazon and OpenAI struck a partnership: advertisers can extend campaigns through Amazon's DSP (demand-side platform) into ChatGPT's conversational ad slots, which surface as text and image units beneath the answers with clearly marked "sponsored" labels; the pilot is limited to the U.S. at launch, and Delta Vacations is among the first brands. ChatGPT Ads has been live for a little over half a year and has reached a $1 billion annualized revenue run rate, with tens of thousands of advertisers using it<sup><a href="12-appendix-a-sources.md#3-52">[3-52]</a></sup> [third-party verified]. When "conversation" itself becomes ad inventory, the AI assistant stops being a "substitute for search" and becomes "a new medium" — acquisition entry points are no longer just search engines and social platforms, but also the conversation between a brand and an AI assistant.
+
+**Conversion quality.** The new entry point's traffic quality is documented: Semrush's search research found that users arriving via AI-generated answers convert 4.4 times better than those arriving from traditional search results<sup><a href="12-appendix-a-sources.md#3-53">[3-53]</a></sup> [third-party verified]. The intent is clearer — the user has already walked to the last step of the decision, and the AI merely walks them to the door.
+
+**But the foundation of measurement is loosening.** An indie developer ran a Google app-install campaign for his puzzle app and was billed for 56 installs in two weeks; going back through the raw panel data, 33 of them showed the same "bot pattern" — an old app version the store had stopped serving, a single open per device, zero seconds on any screen, and 28 phone models across 19 states<sup><a href="12-appendix-a-sources.md#3-54">[3-54]</a></sup> [third-party verified]. The loop is the ironic part: Google optimizes for whatever goal the advertiser sets, and "a view followed by an install" counts as a conversion, so the more the farm "installed" the app, the more budget the algorithm sent the farm's way, and the spend was systematically fed to bots. His fix was to change the campaign goal from "opened the app" to "won a puzzle" — making faking more expensive than genuinely playing.
+
+For the acquisition stage of AI-powered customer lifecycle management, the lesson is valuable: when a channel's raw metric can be forged by machines, **the objective function must land on deep behaviors that only real customers produce**. Entry points can go AI-native; measurement cannot be lazy.
+
+## 3.10 Summary
 
 Pulling Chapter 3 together, the picture of AI-powered prospecting is:
 

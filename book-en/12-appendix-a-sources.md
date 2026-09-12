@@ -82,6 +82,9 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="3-49"></a>[3-49] 36Kr: NetEase Zhiqi's Wang Wei: AI Is Reshaping the Customer-Service Industry — Human-Machine Collaboration Is Becoming the Mainstream Model: https://36kr.com/p/305482488832001
 - <a id="3-50"></a>[3-50] Gartner: Gartner Research: The AI Cold-Email Efficiency Trap and the Coming Customer-Trust Crisis: https://www.gartner.com/en/newsroom/press-releases/2024-03-06-gartner-says-60-percent-of-cmos-will-adopt-ai-to-fight-decline-in-customer-trust
 - <a id="3-51"></a>[3-51] Sean Ellis: How Glasp Grew ChatGPT Traffic from 500 to 19,000 Daily Conversations: Answer-Engine Optimization by Reading Your Own Server Logs: https://seanellis.substack.com/p/how-glasp-grew-chatgpt-traffic-from
+- <a id="3-52"></a>[3-52] Amazon Pilots Ad Services in ChatGPT: What Marketers Need to Know (Marketing Dive): https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
+- <a id="3-53"></a>[3-53] The Definitive Guide to Adopting Agentic Commerce in 2026 (HUMAN Security): https://www.humansecurity.com/learn/resources/guide-adopting-agentic-commerce/
+- <a id="3-54"></a>[3-54] $220 of Google App Ads, 60% of Installs Were Bots: A Small Indie Developer's Measurement Audit: https://dayzlegame.com/blog/google-ads-bot-farm/
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -260,6 +263,11 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="8-38"></a>[8-38] Who Manages the AI Agent Fleet: RevOps as the Management Layer (RevSure Playbook): https://www.revsure.ai/research-playbooks/who-owns-the-agents
 - <a id="8-39"></a>[8-39] 10 Mistakes Almost Everyone Makes After Deploying 20+ AI Agents (SaaStr): https://www.saastr.com/weve-deployed-20-ai-agents-here-are-the-10-mistakes-almost-everyone-makes
 - <a id="8-40"></a>[8-40] Generative AI in Sales: 7 Use Cases Ranked by Revenue Impact (SetSmart, Based on 828,000 Conversations): https://setsmart.io/blog/generative-ai-for-sales
+- <a id="8-41"></a>[8-41] Datawhale's "FDE Case 100": 24 Frontline FDE Interviews on Enterprise AI Deployment: https://assets.datawhale.cn/Datawhale%20FDE%E6%A1%88%E4%BE%8B100.pdf
+- <a id="8-42"></a>[8-42] Applied AI Doesn't Work (Varick): https://x.com/vasuman/status/2095999742031675738
+- <a id="8-43"></a>[8-43] AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale (ByteByteGo): https://blog.bytebytego.com/p/ai-native-leaders-the-organizational
+- <a id="8-44"></a>[8-44] AI-Native Engineering Teams: 10 Practices That Separate the Best (2026) (Coderio): https://www.coderio.com/blog/biz-tech/ai-native-engineering-teams-10-practices/
+- <a id="8-45"></a>[8-45] Organizational Transformation in the Age of AI: How Companies Maximize AI's Potential (WEF x Accenture White Paper): https://www.sohu.com/a/1013292532_121838863
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
 - <a id="9-02"></a>[9-02] Six Legal-Tech Trends for 2026: Lawyer AI Adoption Rises from 11% to 30% — Firms That Use Technology to Capture Cases Generate 51% More Leads and 52% Higher Revenue: https://getperspective.ai/blog/legal-tech-trends-2026-6-data-backed-shifts-law-firm-ai-adoption
@@ -358,6 +366,12 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="9-95"></a>[9-95] Retail AI Readiness: AI-Readiness Rankings of the Top 20 Retailers by Market Cap (CB Insights): https://www.cbinsights.com/research/ai-readiness-index-for-retail
 - <a id="9-96"></a>[9-96] ZKH Industrial’s Agent Matrix Named a Shanghai “AI+” Excellent Case: AI Material Manager Lifts Procurement-Management Efficiency by 30%: https://finance.sina.com.cn/stock/bxjj/2025-07-15/doc-inffpwtm5528562.shtml
 - <a id="9-97"></a>[9-97] The AI Trump Cards of Nine Companies — SF Express, JD Logistics, Cainiao, ZTO, YTO, Shentong and More — All in One Look: https://news.qq.com/rain/a/20260720A09GET00
+- <a id="9-98"></a>[9-98] How 16 Banks Are Building AI Agents: "Scenarios + Agents" Becomes the Next Battleground (Shaqiu Community, Chinese: 沙丘社区): https://www.shaqiu.cn/article/ZBnaY03KVzp7
+- <a id="9-99"></a>[9-99] 9 Agentic AI Use Cases Banks Are Scaling in 2026 (Backbase): https://www.backbase.com/blog/agentic-ai-use-cases-in-banking
+- <a id="9-100"></a>[9-100] 2026: The Year of Agentic AI, and a New Era for Finance (Lloyds Banking Group): https://www.lloydsbankinggroup.com/insights/2026-the-year-of-agentic-ai-and-a-new-era-for-finance.html
+- <a id="9-101"></a>[9-101] A Compliance Guide for AI in Banking and Insurance: Interpreting Yinfa [2026] No. 8: https://zhuanlan.zhihu.com/p/2060758478633931195
+- <a id="9-102"></a>[9-102] Manufacturing's 2026 Mandate: From AI Pilot to Agentic Profit (Dataiku): https://www.dataiku.com/blog/manufacturing-ai-trends-2026
+- <a id="9-103"></a>[9-103] 2026 Digital Government Citizen Survey: Citizens Want Governments to Accelerate AI Adoption (BCG): https://www.bcg.com/publications/2026/why-citizens-want-governments-to-accelerate-ai-adoption
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
 - <a id="10-02"></a>[10-02] AI Outbound Calls Dial a Thousand Nuisance Calls a Day — Where Is the “Compliance Boundary”?: http://news.china.com.cn/2026-07/28/content_118621717.shtml
@@ -380,6 +394,9 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="10-19"></a>[10-19] Italy’s Garante Fines AI Emotional-Companion Chatbot Replika €5 Million: No Legal Basis for Processing + No Age Verification: https://www.reuters.com/sustainability/boards-policy-regulation/italys-data-watchdog-fines-ai-company-replikas-developer-56-million-2025-05-19/
 - <a id="10-20"></a>[10-20] Munich Re’s HSB Launches AI Liability Insurance for Small and Medium Businesses: “AI Lawsuits” Become an Insurable Risk: https://www.munichre.com/hsb/en/press-and-publications/press-releases/2026/2026-03-18-introducing-ai-liability-insurance-for-small-businesses.html
 - <a id="10-21"></a>[10-21] 12 U.S. States Have Enacted Laws Regulating Consumer-Facing AI Chatbots: AI Identity Disclosure, Minor Protection, and Accountability for “Machines Masquerading as Humans” Form the Compliance Baseline: https://www.koleyjessen.com/insights/publications/ai-chatbot-compliance-what-your-business-needs-to-know
+- <a id="10-22"></a>[10-22] 7 Frontier AI Models Ran Real Businesses for 72 Hours: $12,431 in Fake Invoices, 2,797 Spam Emails, $0 Revenue (Bottleneck Labs): https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses
+- <a id="10-23"></a>[10-23] OpenAI's Rogue Agents Reached 10+ More Websites: University Wikis, a Chemistry Wiki, and Text-Sharing Sites as Message Boards (Fortune): https://fortune.com/2026/09/09/openai-rogue-ai-agents-reached-12-more-websites/
+- <a id="10-24"></a>[10-24] An OpenAI Agent Swarm Attacked RubyGems Without Disclosure: 2,000+ Malicious Packages, a Novel Flaw Exploited to Steal API Keys: https://www.rubyhack.ai/
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
 - <a id="11-02"></a>[11-02] Analysis of 680 Million AI Citations: ChatGPT, Google AI Overviews, and Perplexity Cite in Completely Different Ways — “AI Search”: https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026
@@ -406,6 +423,9 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="11-23"></a>[11-23] Generative Engine Optimization (GEO) Statistics 2026: 60+ Data Points on AI Citations: https://www.omnibound.ai/blog/generative-engine-optimization-statistics
 - <a id="11-24"></a>[11-24] Survey: In 10 Years “Human Service” Will Become a Luxury — the Human Touch Is Commanding a Premium (CX Dive / Medallia): https://www.customerexperiencedive.com/news/human-driven-customer-service-luxury-premium/816501/
 - <a id="11-25"></a>[11-25] How Retailers Stay Visible to AI Shopping Agents: Competition Shifts from Clicks to “Being Chosen” (ML6, 2026-04): https://www.ml6.eu/en/blog/how-do-retailers-stay-visible-with-ai-shopping-agents-choosing-products
+- <a id="11-26"></a>[11-26] AI and Agentic Commerce Statistics 2026 (commercetools): https://commercetools.com/blog/agentic-commerce-stats-enterprise-guide
+- <a id="11-27"></a>[11-27] 2026 AI Agent Commerce Industry Report (Checkout.com): https://www.checkout.com/zh-cn/guides-and-reports/agentic-commerce-2026
+- <a id="11-28"></a>[11-28] Own the Agentic Commerce Experience (IBM Institute for Business Value): https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/agentic-commerce
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/
 - <a id="12-02"></a>[12-02] “The Signals Were Always There — Most CS Teams Just Weren’t Looking”: How Seven Customer-Success Executives at Pulse Moved Their Biggest Rocks with AI — from Rockwell…: https://unchurned.gainsight.com/p/inside-pulse-how-7-cs-leaders-are

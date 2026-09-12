@@ -51,7 +51,19 @@ The data paints two pictures that seem contradictory but are actually consistent
 
 Taken together, the two pictures point to a clear future: **routine transactions go to AI (consumers welcome this); at critical moments, they want a human (consumers vote with their feet)**. Human service will not disappear; it will become a "luxury good" — and once AI handles 95% of standardized interactions, the remaining 5% of human interactions are the brand's entire battleground for differentiation. The boundary described in Chapter 2 will be drawn even wider in the future: AI handles scale, humans handle trust, and the premium on trust keeps rising.
 
-## 11.5 Closing: The Next Decade of Customer Operations
+## 11.5 The Machine-Customer Ledger: Early Numbers
+
+The previous sections covered trends. This section pulls "machine customers" from narrative back to numbers.
+
+One vendor compilation gathers the estimates of various institutions on agentic commerce: Bain forecasts the U.S. market at $300–500 billion by 2030, 15%–25% of e-commerce; Gartner predicts 20% of digital commerce transactions will go through AI platforms or agents by 2030; Morgan Stanley forecasts 10%–20% of U.S. e-commerce sales driven by agents; McKinsey estimates it can create about $1 trillion in orchestrated U.S. retail revenue and $3–5 trillion globally; J.P. Morgan expects up to 25% of U.S. online sales to flow via agents by 2030, concentrated in recurring, low-risk categories such as groceries and subscriptions. The consumer side is moving too: by 2030 nearly 50% of online shoppers are expected to use AI agents and contribute about 25% of spending, adding roughly $115 billion to U.S. e-commerce; Kearney estimates 60% of consumers expect to use AI agents in the next 12 months and 73% are familiar with AI tools; 63% of European consumers already use AI for shopping<sup><a href="12-appendix-a-sources.md#11-26">[11-26]</a></sup> [official claims]. These numbers come from different institutions with different methodologies, but the direction is the same — **"agents as the shopping entry point" is no longer a forecast but a ledger being cashed out.**
+
+Merchant adoption is running ahead too: a payment provider's report says 42% of U.K. and U.S. merchants have already moved first on "AI agent commerce," with AI entry points reshaping the discover-compare-order chain<sup><a href="12-appendix-a-sources.md#11-27">[11-27]</a></sup> [official claims].
+
+For brands, the real strategic question is not "whether to enter this entry point" but "once I'm in, am I still the protagonist." IBM's Institute for Business Value sums it up in one word — **own**: brands should "own" the agentic commerce experience rather than being intermediated by AI entry points. When purchase decisions are made by consumers' AI agents, brands' control over discovery, comparison, and purchase weakens, and they must win back the "right to be recommended" through data and experience<sup><a href="12-appendix-a-sources.md#11-28">[11-28]</a></sup> [third-party verified]. This echoes the conclusion in 11.2: when the buyer is an AI, what you sell is a set of data and experiences that machines can read, verify, and trust.
+
+Taken together with the earlier sections, the machine-customer ledger carries two numbers: an incremental market measured in hundreds of billions of dollars, and an existing risk of being "intermediated." The operator's job is to keep ownership of the customer relationship between those two numbers.
+
+## 11.6 Closing: The Next Decade of Customer Operations
 
 Threading the whole book together, the evolution of AI-powered customer lifecycle management can be summarized in three phases:
 

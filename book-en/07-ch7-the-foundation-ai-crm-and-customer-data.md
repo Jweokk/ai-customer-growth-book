@@ -58,7 +58,17 @@ New solutions to the technology-versus-privacy balance are emerging. Federated l
 
 Consumer attitudes are contradictory: 44% of consumers are disappointed when a brand fails to deliver a personalized experience, while 70% worry about how their data is being used<sup><a href="12-appendix-a-sources.md#7-05">[7-05]</a></sup>[third-party research]. Those running AI-powered customer lifecycle management must manage this pair of contradictions at the same time — the expectation of personalization and the worry about privacy are two sides of the same customers.
 
-## 7.6 Summary
+## 7.6 Segmentation and Reach: A Postmortem on 4.04%
+
+Earlier sections of this chapter described how to build the data foundation. This section takes the opposite view: how concrete the losses are when the foundation is missing.
+
+One company's private-domain assets comprised more than 80,000 enterprise-WeChat contacts, over 100,000 mini-program users, and more than 150,000 mobile-number customers. In a "new member exclusive benefits" campaign all 693 new members were issued the benefit, yet only 28 actually received the notification — a reach rate of 4.04%. The offer itself was flawless: members who received it converted from visit to purchase at 99.86%, and more than 30% went from visit to payment. The bottleneck was not the offer design but **who the message reached**<sup><a href="12-appendix-a-sources.md#7-34">[7-34]</a></sup> [third-party verified].
+
+The root cause is entirely typical: the platform's built-in segmentation was too coarse — just three behavioral buckets (visited without paying, added to cart without paying, ordered without paying) plus four fixed RFM labels. A single "visited without paying" pool could hold more than 100,000 people, lumping together someone who browsed 20 product pages with someone who tapped in on a whim; and the labels were static within the window, with no predictive power at all. The rebuild combined three-dimensional dynamic segmentation with block-based operations, intelligent channel matching, and data-driven iteration; the store's repurchase rate rose 5% year over year, and the estimated reach rate went from 4.04% to above 10%. The author's three retrospective lessons are more valuable than the methodology: keep the MVP more focused; put channel coverage first (part of the 4.04% root cause was that users had not added the enterprise-WeChat contact, had not authorized the mini-program, and SMS was blocked — the reachable channel set itself was incomplete, so "nudge users to add the contact and subscribe" must be part of the project from day one); and validate scoring weights early with small-batch A/B tests rather than relying entirely on historical behavior analysis.
+
+**This gap has a new AI-era version.** Research on China's GEO market notes that marketing teams generally want to use existing CDP data to build cognition in AI scenarios, but CDP data is largely accumulated by ad platforms and covers only existing customers, missing the new cognition formed in AI scenarios<sup><a href="12-appendix-a-sources.md#3-65">[3-65]</a></sup>. Both cases point to the same conclusion: a gap in the data foundation does not show up as "the system is broken" — it shows up as "it looked like we sent it, but it never arrived," and, in new entry-point formats, as "nobody knows who you are."
+
+## 7.7 Summary
 
 Three takeaways on the foundation:
 

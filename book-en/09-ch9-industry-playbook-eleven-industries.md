@@ -56,7 +56,15 @@ The previous four sections went industry by industry. This section adds a few cr
 
 Together, the three signals point to one judgment: the gap between industries is no longer about who adopts AI first, but about who can put AI into a governed, measurable, sustainably operable system.
 
-## 9.6 Patterns Across Industries
+## 9.6 New Industry Signals (Part Two): Turning "Someone Has to Watch It" into Capacity
+
+Section 9.5 covered platformization, the culling line, and slow adoption. This section adds two kinds of industry sample: one that puts AI on the standardized judgments salespeople never have time to finish, and one that swapped the defense of a marketing budget for checkable outcome numbers.
+
+**Foreign trade: turning time zones and language into controllable variables.** A company with more than two decades in foreign-trade SaaS wired agents into its private-domain marketing and management cloud platform, assigning them specific links in the chain: customer background checks for salespeople, lead-quality scoring, quote generation, and round-the-clock multilingual auto-replies. The starting point was an industry-wide pain: overseas buyers send inquiries across a dozen time zones, salespeople must stand by around the clock, and missed opportunities "vanish into the vast internet"; even a timely reply can lose a deal through language and cultural missteps. The vendor reports that after 60,000 foreign-trade companies adopted the system, deal conversion rates rose 100%<sup><a href="12-appendix-a-sources.md#9-104">[9-104]</a></sup> [official claims]. The transferable design choice is putting AI on the standardized judgments salespeople cannot keep up with rather than replacing the salespeople themselves.
+
+**Healthcare: defensible ROI comes from a list, outreach, and compliance infrastructure.** Marketing leaders at three U.S. health systems are pressed to defend budgets with "a number for a specific outcome." One health network's digital marketing director offered two figures: using CRM-driven outreach to patients "already identified as good surgical candidates who had not scheduled," online seminars for the surgical service line produced 7,000 unique registrants, and the same actions corresponded to a 7.5% increase in system surgical volume over the prior six months (inviting patients, with their physician's permission, to one-on-one Q&As with surgeons and clinical specialists). Another behavioral-health organization offered "an ugly number" instead: it noticed that a single extension had received 2,000 voicemails in three weeks, investigated with IT, found the voicemail product had been the wrong selection, and replaced the entire phone system — turning the experience from "just an IT thing" into a marketing-friendly patient experience<sup><a href="12-appendix-a-sources.md#9-105">[9-105]</a></sup> [third-party verified]. For industries under compliance constraints, growth leakage often has to be fixed at the IT touchpoint before a single extra dollar of media spend is added.
+
+## 9.7 Patterns Across Industries
 
 Read the eleven industries together and several cross-industry patterns in AI customer lifecycle management emerge:
 

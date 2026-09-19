@@ -2,6 +2,18 @@
 
 This book is a "living book"—material keeps accumulating and the version keeps growing. This appendix records what each version updated and why.
 
+## v1.0.3 (2026-09-20, weekly update)
+
+- Chapter 3 adds "Entry Points: In the Chinese Market, the Search Box Is Turning into a Dialogue Box," "AI Visibility: A Second Report Card Beyond Rankings," and "Agentish: The Boundary of Autonomous Prospecting"
+- Chapter 5 adds "The Cost Ledger of Human Handoff Is Becoming a Compliance Ledger" and "Resolution Rate Becomes an Industry Unit, and People Are Re-Tiered by Value"
+- Chapter 6 adds "From Health Scores to Triggers"
+- Chapter 7 adds "Segmentation and Reach: A Postmortem on 4.04%"
+- Chapter 8 adds "AI Will Not Save a Bad Process"
+- Chapter 9 adds "New Industry Signals (Part Two): Turning 'Someone Has to Watch It' into Capacity"
+- Chapter 10 adds "The Liability of AI Output Is Being Priced," "The Governance Time Lag on Outbound Calling," and "AI Poisoning: The Supply Chain of GEO Gray Markets"
+- Chapter 11 adds "Protocols and Admission Tickets: The Barrier to Entry in the Machine-Customer Era" and "Machine Customers' Money and Trust"
+- Appendix A adds 44 sources (3-55 to 3-68 / 5-48 to 5-51 / 6-30 to 6-32 / 7-34 / 8-46 to 8-49 / 9-104 to 9-105 / 10-25 to 10-33 / 11-29 to 11-40), synced across both languages
+
 ## v1.0.2 (2026-09-13, weekly update)
 
 - Chapter 3 adds "The AI-ization of Advertising and the Truthfulness of Traffic": conversational ads as a new entry point, AI-answer traffic converting 4.4x better, and 60% of Google app-install ads going to a bot farm

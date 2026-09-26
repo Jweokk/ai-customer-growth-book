@@ -99,6 +99,19 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="3-66"></a>[3-66] Forrester: Seven Reasons to Be Skeptical of Agentic Prospecting: https://www.forrester.com/blogs/seven-reasons-to-be-skeptical-of-agentic-prospecting/
 - <a id="3-67"></a>[3-67] Forrester: Agentish vs. Agentic in GTM — Choose Control Over Autonomy: https://www.forrester.com/blogs/agentish-vs-agentic-in-gtm-choose-control-over-autonomy/
 - <a id="3-68"></a>[3-68] Salesforce (press release): Siemens and Salesforce Redefine Industrial Sales and Service with Agentforce: https://www.salesforce.com/news/press-releases/2026/09/15/siemens-agentforce-redefine-industrial-sales-service/
+- <a id="3-69"></a>[3-69] Fortune: Exclusive — As AI Threatens Search, Profound Raises $96 Million to Help Brands Stay Visible: https://fortune.com/2026/02/24/exclusive-as-ai-threatens-search-profound-raises-96-million-to-help-brands-stay-visible/
+- <a id="3-70"></a>[3-70] arXiv: Optimizing Visibility in Generative Engines — A Critical Survey of Generative Engine Optimization (2023-2026): https://arxiv.org/abs/2607.14035
+- <a id="3-71"></a>[3-71] Semrush: Most Cited Domains in AI — 13 Weeks of Weekly Snapshots: https://www.semrush.com/blog/most-cited-domains-ai/
+- <a id="3-72"></a>[3-72] Muck Rack / Generative Pulse: What Is AI Reading? AI Citations Across 17 Industries: https://muckrack.com/blog/what-is-ai-reading-may-2026
+- <a id="3-73"></a>[3-73] G2: G2 Research — The Answer Economy (1,076 B2B Software Buyers and Decision-Makers Surveyed): https://company.g2.com/news/g2-research-the-answer-economy
+- <a id="3-74"></a>[3-74] Forrester: Preference Matters More Than In-Market Intent Alone in Modern B2B Buying: https://www.forrester.com/blogs/preference-matters-more-than-in-market-intent-alone-in-modern-b2b-buying/
+- <a id="3-75"></a>[3-75] Search Engine Land: Google AI Mode Cuts Clicks, and Satisfaction Doesn't Rise — A 1,100-Person Field Experiment: https://searchengineland.com/google-ai-mode-cuts-clicks-satisfaction-study-490494
+- <a id="3-76"></a>[3-76] Yage Daily Notes: Why Agent Stores Never Found Product-Market Fit — Doubao's 8 Million Agents and Under 1 Million Yuan of Daily Revenue: https://yage.ai/share/uga-sunset-20260704.html
+- <a id="3-77"></a>[3-77] Growth Hacking AI Weekly EP.71: GEO Franchising Borders on Fraud — The First Business GEO Nailed Was Collecting Franchise Fees from City Agents: https://mp.weixin.qq.com/s?__biz=MzA4MTc3NzY0Mg==&mid=2652351009&idx=1&sn=b1ef2564fc89ae3083641db5096a2f96
+- <a id="3-78"></a>[3-78] Forbes: AI Wrote Your Cold Email. Now It Carries an Invisible Watermark: https://www.forbes.com/sites/terdawn-deboe/2026/08/16/ai-wrote-your-cold-email-now-it-carries-an-invisible-watermark/
+- <a id="3-79"></a>[3-79] TitanX: Can AI SDR Agents Replace Human Sellers? Lessons from 400+ Hours of Building One: https://titanx.io/news/can-ai-sdr-agents-replace-human-sellers
+- <a id="3-80"></a>[3-80] 21st Century Business Herald: After 80,000 Cold Emails Sank Without a Trace, Jintai Technology's Sales Agent Brought Inquiries Equal to the Prior Three Years: https://www.21jingji.com/article/20260708/herald/7b8cfddafbdd81b0a06cd84014170d10.html
+- <a id="3-81"></a>[3-81] 21st Century Business Herald (citing QuestMobile): WeChat AI Search Reaches 160 Million Monthly Active Users, Surpassing Native AI Apps Such as Doubao and Yuanbao: https://www.21jingji.com/article/20250923/herald/a6cdb8dc7c606154d8959d6ac550c50d.html
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -120,6 +133,7 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="4-17"></a>[4-17] McKinsey & Company: Unlocking the Next Frontier of Personalized Marketing (2025): https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/unlocking-the-next-frontier-of-personalized-marketing
 - <a id="4-18"></a>[4-18] Sina Finance: A Deep Analysis of Neocrm's AI CRM: From Ground-Up Rebuild to Business Results (2026-05): https://t.cj.sina.com.cn/articles/view/3948743169/eb5d0a0100101cvuk
 - <a id="4-19"></a>[4-19] Grocery Dive: AI Pricing Retailers Must Know: The Opportunities and the Risks (2025): https://www.grocerydive.com/news/promise-peril-artificial-intelligence-driven-pricing-retailers/812037/
+- <a id="4-20"></a>[4-20] Modern Retail: Instacart Launches Custom AI Assistants for Retailers — and Its Own: https://www.modernretail.co/technology/instacart-launches-custom-ai-assistants-for-retailers-and-its-own/
 
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
@@ -173,6 +187,7 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="5-49"></a>[5-49] Sohu Tech: AI Customer-Service Complaints Are Rising — More Than 4,800 on the Black Cat Platform, and "The AI's Answer Doesn't Represent the Company" Stops Being a Liability Shield From September: https://timeline.sohu.com/news/jyultl60Zy
 - <a id="5-50"></a>[5-50] VentureBeat: Intercom's New Post-Trained Fin Apex 1.0 Beats GPT-5.4 and Claude Sonnet 4.6: https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
 - <a id="5-51"></a>[5-51] CX Dive: Klarna Pursues an "Uber-Style" Customer Service Model: https://www.customerexperiencedive.com/news/klarna-pursues-uber-style-customer-service-model/812763/
+- <a id="5-52"></a>[5-52] Decagon (customer case study, Notion Head of Global Customer Experience Emma Auscher): How Notion Scaled Global Customer Experience with Decagon: https://decagon.ai/case-studies/notion
 
 ## Sources for Chapter 6
 - <a id="6-01"></a>[6-01] ChurnZero: 2025 Customer Revenue Leadership Study: NRR Stabilizes — How Team Composition and Tech Stack Correlate with NRR: https://churnzero.com/customer-success-leadership-study/
@@ -207,6 +222,11 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="6-30"></a>[6-30] Gainsight: What Customer Success Teams Are Prioritizing in 2026 — and What the Data Shows Is Working: https://www.gainsight.com/blog/what-customer-success-teams-are-prioritizing-in-2026-and-what-the-data-shows-is-working
 - <a id="6-31"></a>[6-31] 1337 Sales (vendor case study): AI Customer Success Expansion Agent — Churn Down 40%, $1.2M in New Expansion Revenue in Six Months, NRR Above 115%: https://1337sales.com/case-studies/customer-success-expansion-agent
 - <a id="6-32"></a>[6-32] Bain & Company: Why SaaS Stocks Have Dropped and What It Signals for Software's Next Chapter: https://www.bain.com/insights/why-saas-stocks-have-dropped-and-what-it-signals-for-softwares-next-chapter/
+- <a id="6-33"></a>[6-33] ChurnZero: ChurnZero Launches Retrospective AI Churn Analysis Agent: https://churnzero.com/press-release/churnzero-launches-retrospective-ai-churn-analysis-agent/
+- <a id="6-34"></a>[6-34] ChurnZero (customer case study): Lunit International — CSMs as Business Owners: https://churnzero.com/case-studies/lunit-international/
+- <a id="6-35"></a>[6-35] AdExchanger: Sam's Club Debuts Ad Targeting Suite That Confidently Asserts Future Buyers: https://www.adexchanger.com/commerce/sams-club-debuts-ad-targeting-suite-that-confidently-assert-future-buyers/
+- <a id="6-36"></a>[6-36] SaaStr (author Jason Lemkin): Should You Discount to Save a Renewal? The NRR Trap Says No: https://www.saastr.com/should-you-discount-to-save-a-renewal-the-nrr-trap-says-no-you-probably-should-anyway/
+- <a id="6-37"></a>[6-37] Huxiu: The Real Life-or-Death Line for Children's AI Hardware Is 180-Day Retention — An Interview with Tinglixiong Founder Yuan Lin: https://www.huxiu.com/article/4892015.html
 
 ## Sources for Chapter 7
 - <a id="7-01"></a>[7-01] Tealium: 2025 State of the CDP Report: 92% of CDP Users Meet Their Goals and 84% Say the CDP Simplified AI Projects (Official Survey): https://tealium.com/resource/whitepaper/2025-state-of-the-cdp/
@@ -243,6 +263,10 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="7-32"></a>[7-32] OmniFunnelMarketing: Zero-Party Data Strategy: Collection Methods in the Age of Customer Trust — and How AI Amplifies Them (Strategy Overview): https://www.omnifunnelmarketing.com/blog/building-zero-party-data-collection-strategy-customers-trust
 - <a id="7-33"></a>[7-33] King & Wood Mallesons: Mastering Uni Marketing: Data-Compliance Paths for Retail Marketing in the Digital Era (Part 2) (PIPL in Practice): https://www.kingandwood.com/cn/zh/insights/latest-thinking/uni-marketing-data-compliance-in-retail-marketing-in-era-of-digitalization.html
 - <a id="7-34"></a>[7-34] Everyone Is a Product Manager (author Congcong): Private-Domain Reach Rate From 4.04% to Above 10% — Replacing "Three Behavior Buckets + Four Fixed RFM Labels" with AI-Driven Three-Dimensional Dynamic Segmentation Lifted Repurchase Rate 5% Year Over Year: https://www.woshipm.com/ai/6464019.html
+- <a id="7-35"></a>[7-35] OpenInstall: Meituan's AI Agent Xiaomei Connects Into Tencent Yuanbao — The Attribution Blind Spot of Cross-Ecosystem Agents: https://www.openinstall.com/article/news/meituan-xiaomei-tencent-yuanbao-agent
+- <a id="7-36"></a>[7-36] Forbes Technology Council (author Celebrus CEO Bill Bruno): Why the Next Evolution of the CDP Starts Before Customer Data: https://www.forbes.com/councils/forbestechcouncil/2026/09/02/why-the-next-evolution-of-the-cdp-starts-before-customer-data/
+- <a id="7-37"></a>[7-37] 6sense: 6sense MCP Server — Expanded Capabilities and New Sales Intelligence Features: https://revcity.6sense.com/home/discussion/2584/6sense-mcp-server-expanded-capabilities-new-sales-intelligence-features
+- <a id="7-38"></a>[7-38] Salesforce (Dreamforce 2026): Introducing AIforce — CRM Capabilities Everywhere Agents Work: https://www.salesforce.com/news/stories/aiforce-announcement/
 
 ## Chapter 8 Sources
 - <a id="8-01"></a>[8-01] From 0 to 20 AI Agents in 10 Months: SaaStr’s Production-Deployment Playbook: https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work
@@ -294,6 +318,8 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="8-47"></a>[8-47] Atlassian: The State of Teams 2026 — CMO Brief (94% Use AI; 3% of CMOs Are Confident Returns Are Quantifiable): https://www.atlassian.com/blog/guides-research/the-state-of-teams-2026-cmo-brief
 - <a id="8-48"></a>[8-48] Salesforce: What Leaders Should Do About American Workers' AI Skepticism (1,500+ Office Workers Surveyed): https://www.salesforce.com/news/stories/what-leaders-should-do-about-american-workers-ai-skepticism/
 - <a id="8-49"></a>[8-49] Salesforce: Agentic AI Leaders Survey on ROI (2,025 Enterprise Decision-Makers Surveyed): https://www.salesforce.com/news/stories/agentic-ai-leaders-survey-on-roi/
+- <a id="8-50"></a>[8-50] TMTPost: Zhipu and MiniMax Double Revenue While Cutting Sales Spending — The Sales Role Shifts From Pre-Sales to Mid- and Post-Sales: https://www.tmtpost.com/8141022.html
+- <a id="8-51"></a>[8-51] Salesforce: Agentic Enterprise Index Insights 2026: https://www.salesforce.com/uk/news/stories/agentic-enterprise-index-insights-2026/
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
 - <a id="9-02"></a>[9-02] Six Legal-Tech Trends for 2026: Lawyer AI Adoption Rises from 11% to 30% — Firms That Use Technology to Capture Cases Generate 51% More Leads and 52% Higher Revenue: https://getperspective.ai/blog/legal-tech-trends-2026-6-data-backed-shifts-law-firm-ai-adoption
@@ -400,6 +426,7 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="9-103"></a>[9-103] 2026 Digital Government Citizen Survey: Citizens Want Governments to Accelerate AI Adoption (BCG): https://www.bcg.com/publications/2026/why-citizens-want-governments-to-accelerate-ai-adoption
 - <a id="9-104"></a>[9-104] 36Kr: Futong Tianxia Wires Agents Into the Entire Foreign-Trade Chain — 24/7 Multilingual Replies, Automated Background Checks, Lead Scoring, and Quote Generation; 60,000 Foreign-Trade Firms Onboarded: https://www.36kr.com/p/3844402952391177
 - <a id="9-105"></a>[9-105] Becker's Hospital Review: 7,000 Registrants, 350 Appointments — 3 Health Systems Prove Digital Marketing ROI: https://www.beckershospitalreview.com/digital-marketing/7000-registrants-350-appointments-3-health-systems-prove-digital-marketing-roi/
+- <a id="9-106"></a>[9-106] The Paper (interview): Ping An's Fu Xin — AI Applications Are Judged on Scale, Entry Point, Scenario, and Substitutability, and Every Project Must Cost the Business Volume It Will Generate at Approval: https://www.thepaper.cn/newsDetail_forward_33846502
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
 - <a id="10-02"></a>[10-02] AI Outbound Calls Dial a Thousand Nuisance Calls a Day — Where Is the “Compliance Boundary”?: http://news.china.com.cn/2026-07/28/content_118621717.shtml
@@ -434,6 +461,11 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="10-31"></a>[10-31] MIIT and Other Agencies: Work Plan for the Special Campaign to Comprehensively Rectify Nuisance Calls (full text republished by Security Inside Reference): https://www.secrss.com/articles/6129
 - <a id="10-32"></a>[10-32] Xinhuanet (carrying the State Administration for Market Regulation): SAMR Publishes Ten Representative Illegal-Advertising Cases — 44,521 Advertising Violations Handled Nationwide in 2025: https://www.news.cn/fortune/20260131/b7a71709bc5f4ec2bf6dff05ce08486d/c.html
 - <a id="10-33"></a>[10-33] 21st Century Business Herald: The March 15 Program Exposes the AI "Poisoning" Gray Supply Chain, Revealing High-Risk Algorithmic Gaps Behind Large Models: https://www.21jingji.com/article/20260316/herald/8cf9afdb3bc8ba06b10b2f89aef3bc17.html
+- <a id="10-34"></a>[10-34] Xinhua: The Hangzhou Internet Court Rules That "Inaccurate AI Information" Is Not Necessarily Infringing — Liability Turns on Whether the Developer Met Its Obligations: https://www.news.cn/legal/20260330/670d3456cc1a48be8dd9df42ad13e472/c.html
+- <a id="10-35"></a>[10-35] BBC Media Centre (2025-02-11): BBC Research Shows Issues With Answers From Artificial Intelligence Assistants: https://www.bbc.com/mediacentre/2025/bbc-research-shows-issues-with-answers-from-artificial-intelligence-assistants
+- <a id="10-36"></a>[10-36] Jiefang Daily / Shangguan News (4,308 valid responses): Shanghai Consumer Council's 2026 "618" Online Shopping Experience Survey — AI Matching Accuracy at Only 16.06% and 38.79% Reporting That Higher-Priced Items Are Pushed First: https://www.jfdaily.com/wx/detail.do?id=1134996
+- <a id="10-37"></a>[10-37] Volcano Engine Developer Community: Three Numbers on Brand Hallucination — 23% of AI Answers Contain Factual Errors and Brand-Related Content Errs at 31%: https://developer.volcengine.com/articles/7621130200160682038
+- <a id="10-38"></a>[10-38] Growth Hacking AI Weekly EP.71: "Mass-Automated Heartbreak Farming" — Dating Apps Put Large Models Into the Matching Pool to Impersonate Real People: https://mp.weixin.qq.com/s?__biz=Mzg5ODU4OTU3MQ==&mid=2247502366&idx=1&sn=07d845ffa276a6eb68edd0a82cf0ac5b
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
 - <a id="11-02"></a>[11-02] Analysis of 680 Million AI Citations: ChatGPT, Google AI Overviews, and Perplexity Cite in Completely Different Ways — “AI Search”: https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026
@@ -475,6 +507,13 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="11-38"></a>[11-38] Digital Commerce 360 (citing Adobe Analytics): Adobe — AI Referral Traffic Keeps Doubling and Converts Better Than Other Channels: https://www.digitalcommerce360.com/2026/08/19/adobe-ai-referral-traffic-data-july-2026
 - <a id="11-39"></a>[11-39] Demand Local: 23 AI Agent and Autonomous Shopping Statistics for Retailers in 2026: https://www.demandlocal.com/blog/ai-agent-autonomous-shopping-statistics
 - <a id="11-40"></a>[11-40] Braze: Agentic Commerce — A Complete Guide for Brands (citing the Retail Customer Engagement Review and IBM Institute for Business Value): https://www.braze.com/resources/articles/agentic-commerce
+- <a id="11-41"></a>[11-41] Mastercard (press release, 2026-06-10): Mastercard Launches Agent Pay for Machines: https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html
+- <a id="11-42"></a>[11-42] Visa (official product page): Visa Intelligent Commerce — A Trust Layer for AI Agent Shopping: https://www.visa.com/en-us/solutions/intelligent-commerce
+- <a id="11-43"></a>[11-43] Gartner (2026-05-27): Gartner Survey Finds Consumers Want AI Shopping Help but Not AI Purchase Decisions: https://www.gartner.com/en/newsroom/press-releases/2026-05-27-gartner-survey-finds-consumers-want-ai-shopping-help-but-not-ai-purchase-decisions
+- <a id="11-44"></a>[11-44] Checkout.com ("Agentic Commerce 2026"): Consumer Demand for AI Shopping Is Forming Fast, but Trust for Agentic Commerce Is Still Catching Up: https://www.checkout.com/newsroom/consumer-demand-for-ai-shopping-is-forming-fast-but-trust-for-agentic-commerce-is-still-catching-up
+- <a id="11-45"></a>[11-45] Mastercard (press release): Mastercard Report Predicts That One in 10 People Will Routinely Use AI Agents to Shop and Pay by 2030: https://www.mastercard.com/news/europe/en/newsroom/press-releases/en/2026/mastercard-report-predicts-that-one-in-10-people-will-routinely-use-ai-agents-to-shop-and-pay-by-2030/
+- <a id="11-46"></a>[11-46] Deloitte (2026-06-26): Agentic Commerce — The Future of B2B Commerce: https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/b2b-agentic-commerce.html
+- <a id="11-47"></a>[11-47] The Keyword (2026-06-29): Perplexity Shopping GMV Run Rate Estimated Near $2 Billion: https://www.thekeyword.co/news/perplexity-commerce-gmv-run-rate
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/
 - <a id="12-02"></a>[12-02] “The Signals Were Always There — Most CS Teams Just Weren’t Looking”: How Seven Customer-Success Executives at Pulse Moved Their Biggest Rocks with AI — from Rockwell…: https://unchurned.gainsight.com/p/inside-pulse-how-7-cs-leaders-are

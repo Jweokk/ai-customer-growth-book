@@ -88,6 +88,8 @@ For AI-powered customer operations the lesson is direct: optimizing "route to hu
 
 This is not "AI takes half and humans take half" but a tiering by customer value: low-value interactions fully automated, high-value interactions turned into a scarce resource, with a flexible labor market (customer part-timers) providing elasticity. It contrasts with Klarna's earlier claim that its AI agent was doing the work of 853 employees — the same company, two years apart, two logics. That contrast is itself the maturation curve of this business.
 
+**Buyers' selection criteria are shifting from "can it answer" to "who is accountable."** After a stringent RFP process, Notion's global head of customer experience adopted Decagon's AI support agent, reporting publicly that ticket resolution speed improved 34%, deflection doubled, and only 3.4% of conversations required escalation to a human; her framing was not "how much can AI save" but that CX had long been treated as a transactional department (handling complaints, high attrition, work routinely undervalued) and that Notion wanted to turn it into a growth function<sup><a href="12-appendix-a-sources.md#5-52">[5-52]</a></sup>[official claims]. Placed alongside Intercom's 73.1% resolution rate, it shows where the buyer's evaluation has moved: interaction quality, interface, integration depth, product roadmap, and security and compliance standards are now procurement line items on par with resolution rate — and none of them is a model capability, they are platform capabilities.
+
 ## 5.9 Summary
 
 Customer service is the stage of AI-powered customer lifecycle management with the most material and the densest lessons. Core takeaways:

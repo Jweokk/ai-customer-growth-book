@@ -80,7 +80,19 @@ Section 7.1 argued that the bottleneck in AI CRM is not AI but data. This sectio
 
 Read the three together and the direction of the foundation rebuild is clear: **from "a page employees must open" to "a capability and data layer agents can call."** That drags two very practical consequences along with it — the seat-based pricing model of CRM, and the boundaries of the data asset (once data is to be read by external agents, "who authorizes it and who audits it" becomes part of the product).
 
-## 7.8 Summary
+## 7.8 The Directory and Shelf of Agents: The MCP Registry and AI App Marketplaces
+
+Acquisition entry points are changing, and so are the entry points for distributing tools. As customer operations increasingly start from AI, **"can an agent retrieve your capability" becomes a new directory position** — yet another outward expansion of the foundation layer.
+
+**The public directory came first.** The official Model Context Protocol registry (registry.modelcontextprotocol.io) is positioned as an open catalog and API of publicly available MCP servers, meant to improve their discoverability and implementation and to become a "source of truth" on which sub-registries can be built; it continuously lists MCP server versions submitted by developers and vendors worldwide, ordered by most recent update<sup><a href="12-appendix-a-sources.md#7-39">[7-39]</a></sup>[official claims]. The acquisition implication is direct: being listed, retrieved, and recommended is becoming the new directory-style distribution slot of the agent era.
+
+**Cloud vendors turned it into an app marketplace.** In September 2026 Alibaba Cloud released version 2.0 of its "Fanhua Program" for AI product partners, upgrading its cloud marketplace into an "AI application marketplace" — from a traditional software-and-services trading platform into a one-stop platform gathering large models, AI applications, and industry solutions across education, finance, healthcare, retail, manufacturing, research, and gaming, and across scenarios such as customer service, marketing, and digital employees; version 2.0 focuses on five directions: Skills (domain skill products), data (industry and professional datasets), connectors (connecting CRM, ERP, and other SaaS applications within authorized scope), Agents (commercial agent products), and industry co-creation<sup><a href="12-appendix-a-sources.md#7-40">[7-40]</a></sup>[third-party verified]. This in effect commoditizes the foundation layer — customer-operations connectors, industry datasets, and agents are packaged, listed, and procured on demand.
+
+**Underlying capabilities are being packaged as standard components.** At Agents Week 2026, Cloudflare released a batch of agent infrastructure: Project Think (a preview of a next-generation Agents SDK that lets agents think, act, and persist), an experimental voice pipeline for the Agents SDK (continuous STT/TTS in about 30 lines of server-side code), Cloudflare Email Service (in beta, letting agents send and receive email natively), Agent Memory (a managed persistent-memory service), AI Search (a search primitive for agents supporting hybrid retrieval and relevance weighting), and Browser Run (with live view, human intervention, CDP access, and session recording, at four times the concurrency limit)<sup><a href="12-appendix-a-sources.md#7-41">[7-41]</a></sup>[official claims]. The trend is cloud vendors packaging memory, search, voice, email, and browsers into standard components any agent can call.
+
+In one sentence: **when "who gets called by an agent" becomes the distribution logic, directories, marketplaces, and standard components become the next foundation layer of customer operations** — they don't generate leads directly, but they decide whether leads can find you in the AI world.
+
+## 7.9 Summary
 
 Three takeaways on the foundation:
 

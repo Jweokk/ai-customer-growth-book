@@ -90,7 +90,15 @@ This is not "AI takes half and humans take half" but a tiering by customer value
 
 **Buyers' selection criteria are shifting from "can it answer" to "who is accountable."** After a stringent RFP process, Notion's global head of customer experience adopted Decagon's AI support agent, reporting publicly that ticket resolution speed improved 34%, deflection doubled, and only 3.4% of conversations required escalation to a human; her framing was not "how much can AI save" but that CX had long been treated as a transactional department (handling complaints, high attrition, work routinely undervalued) and that Notion wanted to turn it into a growth function<sup><a href="12-appendix-a-sources.md#5-52">[5-52]</a></sup>[official claims]. Placed alongside Intercom's 73.1% resolution rate, it shows where the buyer's evaluation has moved: interaction quality, interface, integration depth, product roadmap, and security and compliance standards are now procurement line items on par with resolution rate — and none of them is a model capability, they are platform capabilities.
 
-## 5.9 Summary
+## 5.9 AI Support's Rocky Start: AI Amplifies the Company's Incentives
+
+The first half of Chapter 5 covered the platform landscape of AI support and human-backup design. A 2026 consumer survey delivered a chilly opening review.
+
+CNBC, citing Qualtrics' 2026 Customer Experience Trends Report, reports that nearly one in five consumers who have used AI customer service consider the experience "useless" — a failure rate about four times that of AI in general use; consumers rate customer-service AI among the worst on convenience, time savings, and usefulness. The report quotes Cognizant's Ben Wiener: **"AI doesn't change company incentives, it amplifies them"** — if management's goals are to compress refunds, reduce human handoffs, and shorten calls, an AI agent will execute exactly that, more consistently and at greater scale. The same piece offers several industry coordinates: Zendesk CEO Tom Eggemeier predicts 50% of digital customer-service interactions will be handled by AI within three years and 80% within five, and criticizes too many companies for defining "resolved" to include transfers and non-answers; Decagon says it signed 100-plus enterprise deals in 2025, with its valuation rising to $4.5 billion; Sierra uses outcome-based pricing; Klarna's AI assistant initially did the work of 700 agents, since raised to 800, with satisfaction on par with humans (vendor claim)<sup><a href="12-appendix-a-sources.md#5-53">[5-53]</a></sup>[third-party verified].
+
+This material and Section 5.5's Klarna are two sides of the same lesson: **whether AI customer service works well often depends not on model capability but on what goal the company connects it to.** If the goal is "close the conversation faster," AI will make the bad experience faster and more hidden.
+
+## 5.10 Summary
 
 Customer service is the stage of AI-powered customer lifecycle management with the most material and the densest lessons. Core takeaways:
 

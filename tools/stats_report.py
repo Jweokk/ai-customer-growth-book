@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""《AI 原生组织》项目统计报告（供每周日 cron 调用）。
+"""《AI 客户经营》项目统计报告（供每周日 cron 调用）。
 
 收集：
 1. GitHub 仓库：stars / forks / watchers / 14天 clones / 14天 views（gh api）
@@ -97,7 +97,7 @@ def load_history():
 def main():
     today = datetime.now().strftime("%Y-%m-%d")
     lines = []
-    lines.append(f"### 📊 《AI 原生组织》项目统计（{today}）")
+    lines.append(f"### 📊 《AI 客户经营》项目统计（{today}）")
     lines.append("")
 
     # ── GitHub ──

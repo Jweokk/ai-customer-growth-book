@@ -56,7 +56,13 @@
 | 中文角标 | 英文 |
 |---|---|
 | 【官方宣称】 | [official claims] |
+| 【官方】 | [official] |
+| 【官方口径】 | [official] |
+| 【官方媒体】 | [state media] |
+| 【厂商内容】 | [vendor content] |
 | 【第三方报道验证】 | [third-party verified] |
+| 【第三方报道验证/服务商口径】 | [third-party verified: vendor figures] |
+| 【第三方报道解读】 | [third-party interpretation] |
 | 【第三方】 | [third-party verified] |
 | 【官方宣称+第三方报道验证】 | [official claims + third-party verified] |
 | 【第三方报道验证/CEO 公开访谈】 | [third-party verified / CEO public interviews] |

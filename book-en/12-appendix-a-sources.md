@@ -1,12 +1,3 @@
-# Appendix A: Case Index and Sources
-
-This appendix lists the sources behind every figure and case in this book. Numbering scheme: `[chapter-sequence]`; in the main text, a `<sup>` superscript link after each key figure points to the corresponding entry here.
-
-> Source conventions: the material in this book comes from a continuously running collection pipeline. Each entry is tagged 【official claims】 (figures self-reported by companies/institutions) or 【third-party verified】 (independent media, research institutions, or academic sources) — click the link to check the original text.
-> Entries not cited in the main text are further reading on the same topic.
-
-This part covers the sources for Chapters 1–2 through Chapter 7.
-
 ## Sources for Chapters 1–2
 - <a id="1-01"></a>[1-01] Inc: 'No AI' Is the New 'All Natural'—and Brands Are Winning Big With It: https://www.inc.com/emily-cody/no-ai-is-the-new-all-natural-and-brands-are-winning-big-with-it/91375451
 - <a id="1-02"></a>[1-02] Elevate GTM Research: State of AI-Native GTM 2026 Report: Agentic AI Is Rewriting How Revenue Organizations Operate: https://www.elevategtmsolutions.com/resources/gtm-research/state-of-ai-native-gtm-2026
@@ -124,6 +115,21 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="3-91"></a>[3-91] Securities Times: The Internet Giants Are Going All In — the Battle for AI Entry Points Officially Begins: https://www.stcn.com/article/detail/3598560.html
 - <a id="3-92"></a>[3-92] National Business Daily × QuestMobile: Nearly 40% of Chinese Internet Users Have AI on Their Phones — Q1 2026 AI App Value Ranking: https://www.nbd.com.cn/articles/2026-04-21/4350446.html
 - <a id="3-93"></a>[3-93] 36Kr: The Offense and Defense of China's Three Major Content-Commerce Platforms in 2026: https://m.36kr.com/p/3903803401127811
+- <a id="3-94"></a>[3-94] SparkToro: In 2026, Less Than One Third of Google Searches Still Send a Click: https://sparktoro.com/blog/in-2026-less-than-one-third-of-google-searches-still-send-a-click/
+- <a id="3-95"></a>[3-95] Search Engine Land: Google AI Overviews Cut Search Clicks 42%: Report: https://searchengineland.com/google-ai-overviews-cut-search-clicks-report-471497
+- <a id="3-96"></a>[3-96] Omnibound: Google AI Overviews Statistics (2026) - 56+ Data Points on Coverage, CTR Impact, and Citations: https://www.omnibound.ai/blog/google-ai-overviews-statistics
+- <a id="3-97"></a>[3-97] Nieman Lab: Search Traffic Has Declined So Much That Some Publishers Are Considering Opting Out of Google Entirely: https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/
+- <a id="3-98"></a>[3-98] Google Search Console Help: Search Generative AI Control: https://support.google.com/webmasters/answer/16908024?hl=en
+- <a id="3-99"></a>[3-99] SearchScore: 19,998 Sites Block GPTBot While Allowing OpenAI Search: https://searchscore.io/research/ai-crawler-policy-2026/
+- <a id="3-100"></a>[3-100] OpenAI: Overview of OpenAI Crawlers: https://developers.openai.com/api/docs/bots
+- <a id="3-101"></a>[3-101] OpenAI Help Center: Publishers and Developers - FAQ: https://help.openai.com/en/articles/12627856-publishers-and-developers-faq
+- <a id="3-102"></a>[3-102] Cloudflare: Google's AI Advantage - Why Crawler Separation Is the Only Path to a Fair Internet: https://blog.cloudflare.com/uk-google-ai-crawler-policy/
+- <a id="3-103"></a>[3-103] BCW (Burson) x Profound: The Credibility Paradox - From Visibility to Credibility (85 Companies, 55,000+ Credibility Predictions): https://www.bursonglobal.com/newsroom/china/%E4%BB%8E%E5%8F%AF%E8%A7%81%E5%BA%A6%E8%BD%AC%E5%90%91%E5%8F%AF%E4%BF%A1%E5%BA%A6-%E5%8D%9A%E9%9B%85%E9%9B%86%E5%9B%A2%E7%A0%94%E7%A9%B6%E6%B4%9E%E8%A7%81geo%E5%85%B3%E9%94%AE%E9%B8%BF%E6%B2%9F
+- <a id="3-104"></a>[3-104] BrightLocal: Local Consumer Review Survey 2026 - Nearly Half of Consumers Are Asking AI for Business Recommendations: https://www.brightlocal.com/research/lcrs-ai-trust/
+- <a id="3-105"></a>[3-105] Attentive: 2026 State of AI in Retail Report (3,000+ U.S. Consumers Surveyed; Adobe Traffic Data): https://www.attentive.com/state-of-ai-in-retail-2026
+- <a id="3-106"></a>[3-106] Digital Applied: AI SDR Real Performance - 100K Email Analysis 2026: https://www.digitalapplied.com/blog/ai-sdr-real-performance-100k-email-analysis-2026
+- <a id="3-107"></a>[3-107] OneAway: AI SDR Agent Benchmarks and Trends Every Sales Leader Needs in 2026: https://oneaway.io/blog/ai-sdr-agents
+- <a id="3-108"></a>[3-108] Email Awesome: Google Bulk Sender Rules 2026 - Compliance Checklist and the Misquoted 0.08% Threshold: https://www.emailawesome.com/blog/google-bulk-sender-guidelines
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -149,6 +155,10 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="4-21"></a>[4-21] GoodyAds: Attribution Is Not Incrementality — How Overseas Advertisers Use Controlled Experiments to Answer Causal Questions: https://www.goodyclick.com/incrementality-vs-attribution-causal-measurement-guide
 - <a id="4-22"></a>[4-22] Growth Hackers Taiwan: What Is a Holdout Incrementality Test — Finding the Ads That Actually Work: https://growthhackers.tw/blog/click-here-ep3-holdout-incremental-test
 - <a id="4-23"></a>[4-23] PyMC Labs: Synthetic Consumers — A Practical Guide: https://www.pymc-labs.com/blog-posts/synthetic-consumers-a-practical-guide
+- <a id="4-24"></a>[4-24] The Pricing Conundrum (Utpal Dholakia): Outcome-Based Pricing in Practice - What Outcomes Are AI Companies Really Charging For?: https://thepricingconundrum.substack.com/p/outcome-based-pricing-in-practice
+- <a id="4-25"></a>[4-25] Intercom: Fin AI Agent Outcomes (Official Help Documentation): https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes
+- <a id="4-26"></a>[4-26] Chargebee Pricing Labs: Outcome-Based Pricing in the AI Era - How SaaS Companies Prove Value Without Losing Control: https://www.chargebee.com/pricing-labs/ai-saas-pricing-outcome-value-models/
+- <a id="4-27"></a>[4-27] Growth Unhinged: The State of B2B SaaS and AI Monetization in 2026 (240+ Software Companies): https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026
 
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
@@ -204,6 +214,13 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="5-51"></a>[5-51] CX Dive: Klarna Pursues an "Uber-Style" Customer Service Model: https://www.customerexperiencedive.com/news/klarna-pursues-uber-style-customer-service-model/812763/
 - <a id="5-52"></a>[5-52] Decagon (customer case study, Notion Head of Global Customer Experience Emma Auscher): How Notion Scaled Global Customer Experience with Decagon: https://decagon.ai/case-studies/notion
 - <a id="5-53"></a>[5-53] CNBC (citing Qualtrics): "I Hate Customer-Service Chatbots" — AI Support's Rocky Consumer Debut: https://www.cnbc.com/2026/04/01/ai-chatbot-customer-service-complaints-refunds.html
+- <a id="5-54"></a>[5-54] AI for Automation: AI Customer Service Rollback - 74% of Enterprises Are Reverting to Human Agents: https://aiforautomation.io/news/2026-05-14-ai-customer-service-74-percent-rollback-workers-devalued
+- <a id="5-55"></a>[5-55] Business Analytics (Substack): Klarna's Customer Support Transformation - How Klarna Cut Costs 40%, and What Broke Along the Way: https://businessanalytics.substack.com/p/klarnas-customer-support-transformation
+- <a id="5-56"></a>[5-56] Twig: Klarna's AI Saved $40M on Support - Then Walked It Back: https://www.twig.so/blog/klarna-ai-customer-support-efficiency
+- <a id="5-57"></a>[5-57] Intercom: Fin vs Decagon - Detailed Comparison (2026): https://fin.ai/learn/fin-vs-decagon
+- <a id="5-58"></a>[5-58] Superkind: The Best AI Customer Support Agents in 2026 - Decagon, Sierra, Intercom Fin, and When to Build Your Own: https://superkind.ai/blog/ai-customer-support-agents
+- <a id="5-59"></a>[5-59] Decagon: Best Intercom Alternatives - Customer Results: https://decagon.ai/blog/intercom-alternatives
+- <a id="5-60"></a>[5-60] Fin (Intercom): AI Customer Service Business Case Template 2026: https://fin.ai/learn/ai-customer-service-business-case-template
 
 ## Sources for Chapter 6
 - <a id="6-01"></a>[6-01] ChurnZero: 2025 Customer Revenue Leadership Study: NRR Stabilizes — How Team Composition and Tech Stack Correlate with NRR: https://churnzero.com/customer-success-leadership-study/
@@ -243,6 +260,12 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="6-35"></a>[6-35] AdExchanger: Sam's Club Debuts Ad Targeting Suite That Confidently Asserts Future Buyers: https://www.adexchanger.com/commerce/sams-club-debuts-ad-targeting-suite-that-confidently-assert-future-buyers/
 - <a id="6-36"></a>[6-36] SaaStr (author Jason Lemkin): Should You Discount to Save a Renewal? The NRR Trap Says No: https://www.saastr.com/should-you-discount-to-save-a-renewal-the-nrr-trap-says-no-you-probably-should-anyway/
 - <a id="6-37"></a>[6-37] Huxiu: The Real Life-or-Death Line for Children's AI Hardware Is 180-Day Retention — An Interview with Tinglixiong Founder Yuan Lin: https://www.huxiu.com/article/4892015.html
+- <a id="6-38"></a>[6-38] ChartMogul: The SaaS Retention Report - The AI Churn Wave (3,500 Software Companies Analyzed): https://chartmogul.com/reports/saas-retention-the-ai-churn-wave/
+- <a id="6-39"></a>[6-39] Yesoptimist: SaaS Growth Strategy - The 2026 Playbook for Building Compounding Pipeline: https://www.yesoptimist.com/saas-growth-strategy/
+- <a id="6-40"></a>[6-40] Bessemer Venture Partners: Seven Product Strategies to Prevent Churn for B2B AI App Leaders: https://www.bvp.com/atlas/seven-product-strategies-to-prevent-churn-for-b2b-ai-app-leaders
+- <a id="6-41"></a>[6-41] Perspective AI: Customer Health Score Automation in 2026 - Signals That Actually Predict Churn: https://getperspective.ai/blog/customer-health-score-automation-2026-signals-that-predict-churn
+- <a id="6-42"></a>[6-42] AgentMelt: AI Customer Success Agents for Health Scoring - Predict Churn Before It Happens: https://agentmelt.com/blog/ai-customer-success-agent-health-scoring/
+- <a id="6-43"></a>[6-43] DevRev: AI Churn Prediction in 2026 - Predict and Resolve: https://devrev.ai/blog/ai-churn-prediction
 
 ## Sources for Chapter 7
 - <a id="7-01"></a>[7-01] Tealium: 2025 State of the CDP Report: 92% of CDP Users Meet Their Goals and 84% Say the CDP Simplified AI Projects (Official Survey): https://tealium.com/resource/whitepaper/2025-state-of-the-cdp/
@@ -286,6 +309,10 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="7-39"></a>[7-39] Model Context Protocol (official registry): The Official MCP Registry — The Distribution and Discovery Entry Point for Agent Tools: https://registry.modelcontextprotocol.io
 - <a id="7-40"></a>[7-40] Yilantop: Alibaba Cloud Releases Fanhua Program 2.0, Upgrading Its Cloud Marketplace into an AI Application Marketplace: https://www.yilantop.com/article/27146
 - <a id="7-41"></a>[7-41] Cloudflare Blog: Building the Agent Cloud — Cloudflare's Agents Week 2026 Product Announcements: https://blog.cloudflare.com/zh-cn/agents-week-in-review
+- <a id="7-42"></a>[7-42] Vantage Point: HubSpot vs Salesforce - Which CRM Is More AI-Agent Ready in 2026?: https://vantagepoint.io/blog/sf/hubspot-vs-salesforce-ai-agent-ready-2026-comparison
+- <a id="7-43"></a>[7-43] SalesHive: HubSpot vs Salesforce - AI Features Compared (2026): https://saleshive.com/blog/ai-hubspot-vs-salesforce-features-compared
+- <a id="7-44"></a>[7-44] WorkOS: Everything Your Team Needs to Know About MCP in 2026: https://workos.com/blog/everything-your-team-needs-to-know-about-mcp-in-2026
+- <a id="7-45"></a>[7-45] InfoWorld: How to Build an Enterprise-Grade MCP Registry: https://www.infoworld.com/article/4145014/how-to-build-an-enterprise-grade-mcp-registry.html
 
 ## Chapter 8 Sources
 - <a id="8-01"></a>[8-01] From 0 to 20 AI Agents in 10 Months: SaaStr’s Production-Deployment Playbook: https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work
@@ -341,6 +368,11 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="8-51"></a>[8-51] Salesforce: Agentic Enterprise Index Insights 2026: https://www.salesforce.com/uk/news/stories/agentic-enterprise-index-insights-2026/
 - <a id="8-52"></a>[8-52] ContentGrip (reading Gartner's CMO Spend Survey): CMO AI Spending Rises, but the Readiness Gap Remains (2026): https://www.contentgrip.com/cmo-ai-readiness-gap
 - <a id="8-53"></a>[8-53] The Ad Spend (based on Gartner's 2026 CMO Spend Survey): Marketing Org Design in the AI Era — A CMO Guide (2026): https://theadspend.com/blog/marketing-org-design-ai-era
+- <a id="8-54"></a>[8-54] AI CMO: State of AI Marketing 2026 - AI Tools' Share of Budget Rises to 18%: https://ai-cmo.net/assets/reports/state-of-ai-marketing-2026.pdf
+- <a id="8-55"></a>[8-55] Futurum Group: AI Agents Take Center Stage for Sales Teams in 2026 (Salesforce 2026 State of Sales): https://futurumgroup.com/insights/ai-agents-take-center-stage-will-sales-teams-that-automate-win-in-2026
+- <a id="8-56"></a>[8-56] Retorio: AI Sales Role Play - Complete Guide and Tools (2026): https://www.retorio.com/blog/ai-roleplay-sales
+- <a id="8-57"></a>[8-57] Mindtickle: AI Sales Role Play - 2026 Guide for Enablement Leaders: https://www.mindtickle.com/blog/ai-sales-role-play-complete-guide/
+
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
 - <a id="9-02"></a>[9-02] Six Legal-Tech Trends for 2026: Lawyer AI Adoption Rises from 11% to 30% — Firms That Use Technology to Capture Cases Generate 51% More Leads and 52% Higher Revenue: https://getperspective.ai/blog/legal-tech-trends-2026-6-data-backed-shifts-law-firm-ai-adoption
@@ -451,6 +483,10 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="9-107"></a>[9-107] Securities Times: The Agent Wave Sweeps the Securities Industry — Brokerages' AI Transformation Moves from Point Improvements to System Rebuilding: https://wap.eastmoney.com/a/202609283884544867.html
 - <a id="9-108"></a>[9-108] Freshfields (firm website): Tech, Data and AI — The Digital Frontier: https://www.freshfields.com/en/our-thinking/campaigns/tech-data-and-ai-the-digital-frontier
 - <a id="9-109"></a>[9-109] Warner Music Group (official news): Warner Music Group Opens a Technology and Engineering Hub in Bengaluru: https://www.wmg.com/news/warner-music-group-signs-ai-licensing-deal-with-music-technology-company-klay
+- <a id="9-110"></a>[9-110] Capgemini: Banks and Insurers Deploy AI Agents to Fight Fraud and Process Applications, with Plans for New Roles to Supervise the AI (World Cloud Report in Financial Services 2026): https://www.capgemini.com/us-en/news/press-releases/banks-and-insurers-deploy-ai-agents-to-fight-fraud-and-process-applications-with-plans-for-new-roles-to-supervise-the-ai/
+- <a id="9-111"></a>[9-111] Microfusion: AI Transformation in Financial Services 2026 - How Agentic AI Delivers Real ROI: https://www.microfusion.cloud/news/financial-services-agentic-ai-roi-trends-2026
+- <a id="9-112"></a>[9-112] Consumer Finance Monitor (Ballard Spahr): The End of Shopping? Agentic AI and the Future of Consumer Financial Services: https://www.consumerfinancemonitor.com/2026/09/17/the-end-of-shopping-agentic-ai-and-the-future-of-consumer-financial-services-introduction/
+
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
 - <a id="10-02"></a>[10-02] AI Outbound Calls Dial a Thousand Nuisance Calls a Day — Where Is the “Compliance Boundary”?: http://news.china.com.cn/2026-07/28/content_118621717.shtml
@@ -497,6 +533,13 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="10-43"></a>[10-43] Xinhua (via Legal Daily): Some Users Misled by AI "Hallucinations" — Experts Urge Clarifying the Multiple Liability Boundaries: https://app.xinhuanet.com/news/article.html?articleId=20260629ff39cf20d4b4482e8b1e0e9da60d2bb3
 - <a id="10-44"></a>[10-44] Sina Finance (via Southern Metropolis Daily): Yuanbao, Doubao, and Qwen Take Their Agent Features Offline as New AI-Anthropomorphism Rules Take Effect: https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxv2472777.shtml
 - <a id="10-45"></a>[10-45] ByeRisk Blog: New Rules on Labeling AI-Generated Content — How Douyin, Xiaohongshu, and WeChat Channels Differ in Implementation: https://www.byerisk.com/blog/aigc-content-labeling-3-platform-comparison
+- <a id="10-46"></a>[10-46] Seekr: AI Hallucination Examples - 9 Real Enterprise Cases (2026): https://www.seekr.com/resource/ai-hallucination-examples/
+- <a id="10-47"></a>[10-47] Swept: When AI Customer Service Agents Fail - Real Examples: https://www.swept.ai/post/when-ai-customer-service-agents-fail-real-examples
+- <a id="10-48"></a>[10-48] Inspect Agents: The Complete List of AI Chatbot Failures (2025-2026): https://inspectagents.com/blog/ai-chatbot-failures-2025-2026/
+- <a id="10-49"></a>[10-49] Kaizen AI Lab: Anthropic's Overnight OAuth Ban - A Case Study in Platform Dependency Risk: https://kaizenailab.com/blog/anthropic-oauth-ban-platform-dependency-risk-2026/
+- <a id="10-50"></a>[10-50] Cyberspace Administration of China, MIIT, and MPS: Announcement on the 2026 Special Campaign on Personal Information Protection: https://www.cac.gov.cn/2026-04/02/c_1776867645836849.htm
+- <a id="10-51"></a>[10-51] SICSI: Interpreting the 2026 Special Campaign on Personal Information Protection - Shifts in Regulatory Priorities and Corporate Response: https://www.sicsi.org.cn/opinion/1561/
+
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
 - <a id="11-02"></a>[11-02] Analysis of 680 Million AI Citations: ChatGPT, Google AI Overviews, and Perplexity Cite in Completely Different Ways — “AI Search”: https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026
@@ -555,6 +598,16 @@ This part covers the sources for Chapters 1–2 through Chapter 7.
 - <a id="11-55"></a>[11-55] Klaviyo (2026 AI Consumer Trends Report): Consumer Trust in AI — What Brands Need to Know in 2026: https://www.klaviyo.com/solutions/ai/consumer-trust-in-ai
 - <a id="11-56"></a>[11-56] Alchemer (2026 Retail Report): Retail AI Adoption Outpaces Consumer Trust: https://www.alchemer.com/resources/benchmark-report/2026-retail-report-ai
 - <a id="11-57"></a>[11-57] paperclipped: Amazon Rufus AI Shopping Agent — $12B Sales, Buy for Me & Auto Buy: https://www.paperclipped.de/en/blog/amazon-rufus-ai-shopping-agent
+- <a id="11-58"></a>[11-58] Pento AI: ACP vs UCP - Which Agentic Commerce Protocol Should You Build For in 2026?: https://www.pento.ai/blog/acp-vs-ucp
+- <a id="11-59"></a>[11-59] Crossmint: Agentic Payments Protocols Compared - Which Is Best for Your AI Agents? (MPP, ACP, AP2, x402): https://www.crossmint.com/learn/agentic-payments-protocols-compared
+- <a id="11-60"></a>[11-60] Snowflake: A Revolution Unfolding - AI Actively Reshaping Decades of Consumer Shopping Habits: https://www.snowflake.com/en/blog/AI-Reshaping-Consumer-Shopping-Habits/
+- <a id="11-61"></a>[11-61] Stripe: Supporting Additional Payment Methods for Agentic Commerce: https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce
+- <a id="11-62"></a>[11-62] Checkout.com: When AI Pays for You - Is Agentic Commerce Threatening Cross-Border E-Commerce?: https://www.checkout.com/zh-cn/blog/how-checkout-is-thinking-about-agentic-commerce
+- <a id="11-63"></a>[11-63] People's Daily Online: The Autonomous Agent Payment Protocol - Making AI "Spending" Understand Intent Better: http://finance.people.com.cn/n1/2026/0616/c1004-40741623.html
+- <a id="11-64"></a>[11-64] Presenc AI: AI Agent Marketplaces Landscape 2026 - Converging Distribution Entries: https://presenc.ai/research/ai-agent-marketplaces-landscape-2026
+- <a id="11-65"></a>[11-65] Salesforce: AgentExchange - The Unified Marketplace for the Agent Era: https://www.salesforce.com/agentforce/agentexchange/
+- <a id="11-66"></a>[11-66] Digital Applied: Amazon AI Agent Policy - Automated Seller Rules for 2026: https://www.digitalapplied.com/blog/amazon-ai-agent-policy-march-2026-automated-seller-rules
+
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/
 - <a id="12-02"></a>[12-02] “The Signals Were Always There — Most CS Teams Just Weren’t Looking”: How Seven Customer-Success Executives at Pulse Moved Their Biggest Rocks with AI — from Rockwell…: https://unchurned.gainsight.com/p/inside-pulse-how-7-cs-leaders-are

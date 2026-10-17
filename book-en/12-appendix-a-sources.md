@@ -130,6 +130,10 @@
 - <a id="3-106"></a>[3-106] Digital Applied: AI SDR Real Performance - 100K Email Analysis 2026: https://www.digitalapplied.com/blog/ai-sdr-real-performance-100k-email-analysis-2026
 - <a id="3-107"></a>[3-107] OneAway: AI SDR Agent Benchmarks and Trends Every Sales Leader Needs in 2026: https://oneaway.io/blog/ai-sdr-agents
 - <a id="3-108"></a>[3-108] Email Awesome: Google Bulk Sender Rules 2026 - Compliance Checklist and the Misquoted 0.08% Threshold: https://www.emailawesome.com/blog/google-bulk-sender-guidelines
+- <a id="3-109"></a>[3-109] Hendricks: The Answer Index, Edition 1 - Four Engines, 480 Questions, 16,069 Citations in a Single Collection (open data package with DOI): https://hendricks.ai/research/the-answer-index
+- <a id="3-110"></a>[3-110] Walker Sands: B2B AI Search Visibility Benchmark - 828 Large B2B Companies and 45 Million Keywords: https://www.walkersands.com/about/blog/b2b-ai-search-visibility-benchmark/
+- <a id="3-111"></a>[3-111] Discovered Labs: Do G2 Reviews Change AI Perception? Rating-to-Description Correlation of 0.030: https://discoveredlabs.com/blog/do-g2-reviews-change-ai-perception
+- <a id="3-112"></a>[3-112] AuthorityTech: AI Share of Voice Measurement Guide 2026 - Sampling and Counting Rules for Voice and Citation Share: https://authoritytech.io/blog/ai-share-of-voice-measurement-guide-2026
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -159,6 +163,7 @@
 - <a id="4-25"></a>[4-25] Intercom: Fin AI Agent Outcomes (Official Help Documentation): https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes
 - <a id="4-26"></a>[4-26] Chargebee Pricing Labs: Outcome-Based Pricing in the AI Era - How SaaS Companies Prove Value Without Losing Control: https://www.chargebee.com/pricing-labs/ai-saas-pricing-outcome-value-models/
 - <a id="4-27"></a>[4-27] Growth Unhinged: The State of B2B SaaS and AI Monetization in 2026 (240+ Software Companies): https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026
+- <a id="4-28"></a>[4-28] Digital Applied: AI Unit Economics - Pricing and Margins Framework 2026 (with Bessemer's 2026 pricing handbook and ICONIQ's 2026 survey): https://www.digitalapplied.com/blog/ai-unit-economics-pricing-margins-services-2026-framework
 
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
@@ -486,6 +491,8 @@
 - <a id="9-110"></a>[9-110] Capgemini: Banks and Insurers Deploy AI Agents to Fight Fraud and Process Applications, with Plans for New Roles to Supervise the AI (World Cloud Report in Financial Services 2026): https://www.capgemini.com/us-en/news/press-releases/banks-and-insurers-deploy-ai-agents-to-fight-fraud-and-process-applications-with-plans-for-new-roles-to-supervise-the-ai/
 - <a id="9-111"></a>[9-111] Microfusion: AI Transformation in Financial Services 2026 - How Agentic AI Delivers Real ROI: https://www.microfusion.cloud/news/financial-services-agentic-ai-roi-trends-2026
 - <a id="9-112"></a>[9-112] Consumer Finance Monitor (Ballard Spahr): The End of Shopping? Agentic AI and the Future of Consumer Financial Services: https://www.consumerfinancemonitor.com/2026/09/17/the-end-of-shopping-agentic-ai-and-the-future-of-consumer-financial-services-introduction/
+- <a id="9-113"></a>[9-113] AI Vortex: Harvey AI Review - Seats Bought, Fewer Than Half Used (2026, third-party review): https://www.aivortex.io/legal/ai-tools/harvey-ai/
+- <a id="9-114"></a>[9-114] Master of Code: AI Use Cases in Logistics - Seven Companies, Seven Problems, Seven Solutions: https://masterofcode.com/blog/ai-use-cases-in-logistics
 
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
@@ -539,6 +546,9 @@
 - <a id="10-49"></a>[10-49] Kaizen AI Lab: Anthropic's Overnight OAuth Ban - A Case Study in Platform Dependency Risk: https://kaizenailab.com/blog/anthropic-oauth-ban-platform-dependency-risk-2026/
 - <a id="10-50"></a>[10-50] Cyberspace Administration of China, MIIT, and MPS: Announcement on the 2026 Special Campaign on Personal Information Protection: https://www.cac.gov.cn/2026-04/02/c_1776867645836849.htm
 - <a id="10-51"></a>[10-51] SICSI: Interpreting the 2026 Special Campaign on Personal Information Protection - Shifts in Regulatory Priorities and Corporate Response: https://www.sicsi.org.cn/opinion/1561/
+- <a id="10-52"></a>[10-52] Transparency Coalition: German Court Holds Google Liable for AI Hallucination - Read the Full Decision Here (English translation of the Regional Court of Munich ruling of 2026-05-28): https://www.transparencycoalition.ai/news/german-court-holds-google-liable-for-ai-hallucination-read-the-full-decision-here
+- <a id="10-53"></a>[10-53] Library of Congress (Global Legal Monitor): Germany - Court Rules Chatbot Operators Are Liable for AI Hallucinations (2026-06-09): https://www.loc.gov/item/global-legal-monitor/2026-06-09/germany-court-rules-chatbot-operators-are-liable-for-ai-hallucinations/
+- <a id="10-54"></a>[10-54] Everything-PR: When AI Generates Your Crisis - A Playbook for Hallucinated Reputational Harm (2026-06): https://everything-pr.com/when-ai-generates-your-crisis-a-playbook-for-hallucinated-reputational-harm
 
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
@@ -607,6 +617,9 @@
 - <a id="11-64"></a>[11-64] Presenc AI: AI Agent Marketplaces Landscape 2026 - Converging Distribution Entries: https://presenc.ai/research/ai-agent-marketplaces-landscape-2026
 - <a id="11-65"></a>[11-65] Salesforce: AgentExchange - The Unified Marketplace for the Agent Era: https://www.salesforce.com/agentforce/agentexchange/
 - <a id="11-66"></a>[11-66] Digital Applied: Amazon AI Agent Policy - Automated Seller Rules for 2026: https://www.digitalapplied.com/blog/amazon-ai-agent-policy-march-2026-automated-seller-rules
+- <a id="11-67"></a>[11-67] Digital Commerce 360: Google Universal Cart Launches in the U.S. - Features, Retailers and How It Works (2026-10-16): https://www.digitalcommerce360.com/2026/10/16/google-universal-cart-launch-features/
+- <a id="11-68"></a>[11-68] Business Wire (Chinese release, citing Ant Group data): 120 Million AI Payments in a Single Week - Alipay AI Pay's Actual Transaction Volume (2026-07-30): https://www.businesswire.com/news/home/20260730777519/zh-CN
+- <a id="11-69"></a>[11-69] Checkout.com (Chinese site): Consumer Demand for AI Shopping Is Forming Fast, but Trust in Agentic Commerce Is Still Catching Up: https://www.checkout.com/zh-cn/newsroom/consumer-demand-for-ai-shopping-is-forming-fast-but-trust-for-agentic-commerce-is-still-catching-up
 
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/

@@ -2,6 +2,15 @@
 
 This book is a "living book"—material keeps accumulating and the version keeps growing. This appendix records what each version updated and why.
 
+## v1.0.7 (2026-10-18, weekly update)
+
+- Chapter 3 adds "Three Ledgers for AI Visibility": Hendricks' 480-question, four-engine collection (16,069 citations, only 72 of ChatGPT's 480 answers carrying a citation, maximum cross-engine Jaccard of 0.181), Walker Sands on 828 large B2B firms (the median company cited in just 3% of the relevant AI Overviews), Discovered Labs' 0.030 correlation between review scores and AI descriptions, and AuthorityTech's sampling rules for Share of Voice versus Share of Citation
+- Chapter 4 adds "The Margin Sheet": ICONIQ's 52% gross margin for AI companies (41% in 2024), inference rising from 20% to 23% of spend, a 5x price spread within one vendor and roughly 90% cache-read discounts, GitHub Copilot moving to usage-based billing after agentic loops lost money, and 18% of AI companies pricing on outcomes
+- Chapter 9 adds "New Industry Signals (Part Five)": Harvey at $150–300 per seat per month with 30–50% of seats sitting at low usage, and seven logistics cases (Ryder, Walmart's 19% e-commerce return rate, Maersk, freight identity fraud)
+- Chapter 10 adds "Whose Statement Is It?": the Regional Court of Munich holding an AI Overview to be Google's own "independent statement," a German medical company held liable for its own chatbot, and a three-layer playbook for hallucinated reputational harm (discover, correct, narrate)
+- Chapter 11 adds "After the Cart Is Merged": Google Universal Cart opening to U.S. users, Alipay AI Pay processing 120 million transactions in a single week, and Checkout.com's "trust infrastructure" gap
+- Appendix A adds 13 sources (3-109 to 3-112 / 4-28 / 9-113 to 9-114 / 10-52 to 10-54 / 11-67 to 11-69), synced across both languages
+
 ## v1.0.6 (2026-10-11, weekly update)
 
 - Chapter 3 adds "The Third Reading on Zero-Click," "The Second Layer of Visibility," and "The Second Check-Up for AI SDRs": SparkToro's 68.01% zero-click figure, Define Media Group's 42% click decline, Seer's AIO CTR falling 65% before rebounding, Google's three-tier "Search generative AI control," SearchScore's finding that 19,998 domains block GPTBot while allowing OAI-SearchBot, BCW's Credibility Paradox, BrightLocal on AI local recommendations rising from 6% to 45%, Attentive (AI traffic up 62% but only 10% of purchases completed inside the chat), a 100,000-email cold-email comparison (AI 4.1% versus human 5.2%), OneAway (41% of enterprise teams running an AI SDR, 40–60% of pilots shut down within 90 days), and Gmail's 0.08% complaint-rate threshold

@@ -134,6 +134,19 @@
 - <a id="3-110"></a>[3-110] Walker Sands: B2B AI Search Visibility Benchmark - 828 Large B2B Companies and 45 Million Keywords: https://www.walkersands.com/about/blog/b2b-ai-search-visibility-benchmark/
 - <a id="3-111"></a>[3-111] Discovered Labs: Do G2 Reviews Change AI Perception? Rating-to-Description Correlation of 0.030: https://discoveredlabs.com/blog/do-g2-reviews-change-ai-perception
 - <a id="3-112"></a>[3-112] AuthorityTech: AI Share of Voice Measurement Guide 2026 - Sampling and Counting Rules for Voice and Citation Share: https://authoritytech.io/blog/ai-share-of-voice-measurement-guide-2026
+- <a id="3-113"></a>[3-113] LaCleo AI: 2026 Cold Email Reply Rate Benchmarks: Mean 3.43%, 8-12% Already Top Decile: https://www.lacleo.ai/blog/cold-email-benchmarks-deliverability-2026
+- <a id="3-114"></a>[3-114] Explorium: After Bulk Personalized Email Peaked: Signal, Intent and Account-Level Prospecting: https://www.explorium.ai/blog/salestech-content/ai-sales-prospecting/
+- <a id="3-115"></a>[3-115] AI SDR: Three Ways AI SDR Rollouts Fail: No Memory, No Branching, No Segmentation: https://aisdr.com/blog/ai-sdr-implementation-fail/
+- <a id="3-116"></a>[3-116] Single Grain: We Uninstalled Our AI SDR: Healthy Dashboard, Flat Revenue: https://www.singlegrain.com/artificial-intelligence/ai-sdr-what-breaks/
+- <a id="3-117"></a>[3-117] SISTRIX: Citation Worthiness: Which GEO Tactics Actually Hold Across 96,418 URLs: https://www.sistrix.com/blog/citation-worthiness-study/
+- <a id="3-118"></a>[3-118] CMSWire: Does Structured Data Actually Improve Answer-Engine Citations? Ahrefs' Matched Experiment Says No: https://www.cmswire.com/digital-marketing/does-structured-data-actually-improve-answer-engine-citations/
+- <a id="3-119"></a>[3-119] Obsurfable (citing Provena primary research): Copilot Cites Category Guides, Not Comparison Pages: A 165-Article B2B Citation Study: https://obsurfable.com/resources/articles/copilot-cites-category-guides-not-comparison-pages
+- <a id="3-120"></a>[3-120] Search Engine Journal: Google's Mueller Says llms.txt Cannot Help LLMs Differentiate Sites: https://www.searchenginejournal.com/googles-mueller-says-llms-txt-cant-help-llms-differentiate-sites/579304/
+- <a id="3-121"></a>[3-121] AthenaHQ: 84% of AI Answers Cite No Brand-Owned Domain At All: https://athenahq.ai/blog/how-do-you-handle-ai-generated-misinformation-hallucinations-or-inaccurate-brand-mentions
+- <a id="3-122"></a>[3-122] Business Insider (CMO Insider): Ameresco's CMO Found ChatGPT Got the Company Wrong, Then Spent a Year Fixing the Record: https://www.businessinsider.com/how-ameresco-built-geo-strategy-boost-ai-search-brand-visibility-2026-10
+- <a id="3-123"></a>[3-123] Hongshu Technology: Three Months of Platform-by-Platform Appeals Left the Error Rate Unchanged: https://www.hongshu18.com/article-detail/BXX5v0MB
+- <a id="3-124"></a>[3-124] Andreessen Horowitz: Lighthouse or Landgrab: How to Pick Your AI Sales Strategy: https://a16z.com/lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy/
+- <a id="3-125"></a>[3-125] Andreessen Horowitz: Need for Speed in AI Sales: AI Doesn't Just Change What You Sell, It Changes How You Sell It: https://a16z.com/need-for-speed-in-ai-sales-ai-doesnt-just-change-what-you-sell-it-also-changes-how-you-sell-it/
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -164,6 +177,10 @@
 - <a id="4-26"></a>[4-26] Chargebee Pricing Labs: Outcome-Based Pricing in the AI Era - How SaaS Companies Prove Value Without Losing Control: https://www.chargebee.com/pricing-labs/ai-saas-pricing-outcome-value-models/
 - <a id="4-27"></a>[4-27] Growth Unhinged: The State of B2B SaaS and AI Monetization in 2026 (240+ Software Companies): https://www.growthunhinged.com/p/the-state-of-b2b-monetization-in-2026
 - <a id="4-28"></a>[4-28] Digital Applied: AI Unit Economics - Pricing and Margins Framework 2026 (with Bessemer's 2026 pricing handbook and ICONIQ's 2026 survey): https://www.digitalapplied.com/blog/ai-unit-economics-pricing-margins-services-2026-framework
+- <a id="4-29"></a>[4-29] G2 (via TMCnet / PR Newswire): G2 2026 Buyer Behavior Report: AI Makes Software Easier to Find but Harder to Buy: https://www.tmcnet.com/usubmit/2026/07/22/10418570.htm
+- <a id="4-30"></a>[4-30] ARNnet (citing Gartner): Gartner: 89% of Global Buyers Use GenAI or Agents in Late-Stage Procurement: https://www.arnnet.com.au/article/4168709/gartner-buyers-and-providers-must-adapt-to-ai-in-the-tech-buying-cycle.html
+- <a id="4-31"></a>[4-31] Jiemian News (Xinke Du): Shopping With AI: 84.56% Have Tried It, Only 16.06% Think the Recommendations Are Accurate: https://www.jiemian.com/article/14873566.html
+- <a id="4-32"></a>[4-32] Jiemian News (Qujie Business): The 18th Double 11: AI Moves From Traffic Allocator to the Front Line of Shelf Commerce: https://www.jiemian.com/article/15231326.html
 
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
@@ -226,6 +243,9 @@
 - <a id="5-58"></a>[5-58] Superkind: The Best AI Customer Support Agents in 2026 - Decagon, Sierra, Intercom Fin, and When to Build Your Own: https://superkind.ai/blog/ai-customer-support-agents
 - <a id="5-59"></a>[5-59] Decagon: Best Intercom Alternatives - Customer Results: https://decagon.ai/blog/intercom-alternatives
 - <a id="5-60"></a>[5-60] Fin (Intercom): AI Customer Service Business Case Template 2026: https://fin.ai/learn/ai-customer-service-business-case-template
+- <a id="5-61"></a>[5-61] CX Today: Agentforce Passes $1 Billion ARR: AI Seats Now Handle Twice the Volume of Humans: https://cxtoday.com/agentforce-hits-1-billion-arr-ai-agents-customer-service
+- <a id="5-62"></a>[5-62] ITHome: Alibaba AI Dianxiaomi: Vendor Says AI-Plus-Human Inquiry Conversion Beats Pure Human Handling for the First Time: https://m.ithome.com/html/948909.htm
+- <a id="5-63"></a>[5-63] TechCrunch: Amazon Ring Hands 100% of Inbound Calls to AI After Choosing Vapi Over 40 Rivals: https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/
 
 ## Sources for Chapter 6
 - <a id="6-01"></a>[6-01] ChurnZero: 2025 Customer Revenue Leadership Study: NRR Stabilizes — How Team Composition and Tech Stack Correlate with NRR: https://churnzero.com/customer-success-leadership-study/
@@ -271,6 +291,10 @@
 - <a id="6-41"></a>[6-41] Perspective AI: Customer Health Score Automation in 2026 - Signals That Actually Predict Churn: https://getperspective.ai/blog/customer-health-score-automation-2026-signals-that-predict-churn
 - <a id="6-42"></a>[6-42] AgentMelt: AI Customer Success Agents for Health Scoring - Predict Churn Before It Happens: https://agentmelt.com/blog/ai-customer-success-agent-health-scoring/
 - <a id="6-43"></a>[6-43] DevRev: AI Churn Prediction in 2026 - Predict and Resolve: https://devrev.ai/blog/ai-churn-prediction
+- <a id="6-44"></a>[6-44] MarTech: It's Time to Rethink Voice-of-Customer Programs: Over Half of Consumers No Longer Answer Surveys, They Just Leave Quietly: https://martech.org/its-time-to-re-think-voice-of-the-customer-programs/
+- <a id="6-45"></a>[6-45] Digital Applied: Time-to-Value Framework 2026: Average Activation 37.5%, 98% of New Users Who Never Reach Value Churn Within Two Weeks: https://www.digitalapplied.com/blog/customer-onboarding-time-to-value-2026-saas-metrics-framework
+- <a id="6-46"></a>[6-46] SaaSHero: CAC Payback Benchmarks and the Order of Interventions in 2026: Median 16 Months, the Largest Annual Improvement in Four Years: https://www.saashero.net/strategy/improve-cac-payback-period-saas
+- <a id="6-47"></a>[6-47] SaasDash.ai: The Four Stages From $0 to $1 Million ARR: The Binding Metric Is Different at Each One: https://saasdash.ai/blog/saas-growth-stages
 
 ## Sources for Chapter 7
 - <a id="7-01"></a>[7-01] Tealium: 2025 State of the CDP Report: 92% of CDP Users Meet Their Goals and 84% Say the CDP Simplified AI Projects (Official Survey): https://tealium.com/resource/whitepaper/2025-state-of-the-cdp/
@@ -318,6 +342,8 @@
 - <a id="7-43"></a>[7-43] SalesHive: HubSpot vs Salesforce - AI Features Compared (2026): https://saleshive.com/blog/ai-hubspot-vs-salesforce-features-compared
 - <a id="7-44"></a>[7-44] WorkOS: Everything Your Team Needs to Know About MCP in 2026: https://workos.com/blog/everything-your-team-needs-to-know-about-mcp-in-2026
 - <a id="7-45"></a>[7-45] InfoWorld: How to Build an Enterprise-Grade MCP Registry: https://www.infoworld.com/article/4145014/how-to-build-an-enterprise-grade-mcp-registry.html
+- <a id="7-46"></a>[7-46] Visionary Marketing: 2026 Martech Stack Benchmarks: 121 Tools on Average, Only 34.1% Used Monthly: https://visionary-marketing.co.uk/blog/martech-stack-statistics-2026
+- <a id="7-47"></a>[7-47] Tencent Cloud Developer Community: Private Domain in 2026: Revenue Up, Efficiency Down, Fatigue and Compliance Tightening Together: https://cloud.tencent.com.cn/developer/article/2703970
 
 ## Chapter 8 Sources
 - <a id="8-01"></a>[8-01] From 0 to 20 AI Agents in 10 Months: SaaStr’s Production-Deployment Playbook: https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work
@@ -377,6 +403,12 @@
 - <a id="8-55"></a>[8-55] Futurum Group: AI Agents Take Center Stage for Sales Teams in 2026 (Salesforce 2026 State of Sales): https://futurumgroup.com/insights/ai-agents-take-center-stage-will-sales-teams-that-automate-win-in-2026
 - <a id="8-56"></a>[8-56] Retorio: AI Sales Role Play - Complete Guide and Tools (2026): https://www.retorio.com/blog/ai-roleplay-sales
 - <a id="8-57"></a>[8-57] Mindtickle: AI Sales Role Play - 2026 Guide for Enablement Leaders: https://www.mindtickle.com/blog/ai-sales-role-play-complete-guide/
+- <a id="8-58"></a>[8-58] Yahoo Finance (Newsweek webinar): Microsoft's Own Sales Team Stopped Using Copilot: The Resistance to AI Sits Inside the Business: https://finance.yahoo.com/technology/ai/articles/biggest-barriers-ai-transformation-inside-194431668.html
+- <a id="8-59"></a>[8-59] The CMO Survey (35th edition): AI Usage Nearly Doubled in Two Years, Performance Did Not Follow: https://cmosurvey.org/wp-content/uploads/2026/04/The_CMO_Survey-Highlights_and_Insights_Report-2026.pdf
+- <a id="8-60"></a>[8-60] GrowthGPT: The Half-Job Era of Growth Teams: Three Overlapping Layers Compress Full-Time Workloads: https://docs.growthgpt.com/zh/blog/the-half-job-era-in-growth-teams
+- <a id="8-61"></a>[8-61] MarTech (citing Semrush research): 42% of Marketers Increased Budget Because of AI, a Third Say Headcount Rose Too: https://martech.org/the-real-impact-of-ai-on-budgets-stacks-and-teams/
+- <a id="8-62"></a>[8-62] Hyperbound: Revenue Activation Report 2026: 84% of Reps Missed Quota, New Hires Take 381 Days to Full Productivity: https://www.hyperbound.ai/blog/revenue-activation-report-2026
+- <a id="8-63"></a>[8-63] TechCrunch: Mining Real Conversations to Train Sales and Service Agents: Encore AI Raises $30 Million: https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
 
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
@@ -493,6 +525,8 @@
 - <a id="9-112"></a>[9-112] Consumer Finance Monitor (Ballard Spahr): The End of Shopping? Agentic AI and the Future of Consumer Financial Services: https://www.consumerfinancemonitor.com/2026/09/17/the-end-of-shopping-agentic-ai-and-the-future-of-consumer-financial-services-introduction/
 - <a id="9-113"></a>[9-113] AI Vortex: Harvey AI Review - Seats Bought, Fewer Than Half Used (2026, third-party review): https://www.aivortex.io/legal/ai-tools/harvey-ai/
 - <a id="9-114"></a>[9-114] Master of Code: AI Use Cases in Logistics - Seven Companies, Seven Problems, Seven Solutions: https://masterofcode.com/blog/ai-use-cases-in-logistics
+- <a id="9-115"></a>[9-115] McKinsey & Company: Agentic AI in CPG: The Real Payoff Is Growth, Not Savings: https://www.mckinsey.com/jp/en/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth
+- <a id="9-116"></a>[9-116] TechCrunch: The AI Front Desk for Car Dealers: 50,000 Appointments a Month and 20x Revenue: https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/
 
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
@@ -549,6 +583,13 @@
 - <a id="10-52"></a>[10-52] Transparency Coalition: German Court Holds Google Liable for AI Hallucination - Read the Full Decision Here (English translation of the Regional Court of Munich ruling of 2026-05-28): https://www.transparencycoalition.ai/news/german-court-holds-google-liable-for-ai-hallucination-read-the-full-decision-here
 - <a id="10-53"></a>[10-53] Library of Congress (Global Legal Monitor): Germany - Court Rules Chatbot Operators Are Liable for AI Hallucinations (2026-06-09): https://www.loc.gov/item/global-legal-monitor/2026-06-09/germany-court-rules-chatbot-operators-are-liable-for-ai-hallucinations/
 - <a id="10-54"></a>[10-54] Everything-PR: When AI Generates Your Crisis - A Playbook for Hallucinated Reputational Harm (2026-06): https://everything-pr.com/when-ai-generates-your-crisis-a-playbook-for-hallucinated-reputational-harm
+- <a id="10-55"></a>[10-55] China Industry News (relaying CCTV): CCTV Investigation: A Single AI Outbound Bot Dials 800-1,500 Numbers a Day at Just Over RMB 0.10 a Minute: https://www.cinn.cn/2026/07-28/nDMQlqnD.html
+- <a id="10-56"></a>[10-56] Tide News: Field Investigation: There Is No Human on the Other End, and Where Governance Can Get a Grip: https://www.toutiao.com/article/7699268653216203291/
+- <a id="10-57"></a>[10-57] C114: AI Outbound From 'Can Dial' to 'Can Dial Compliantly': Five Regulatory Handholds: https://www.c114.com.cn/other/241/a1318790.html
+- <a id="10-58"></a>[10-58] Compliance Headlines: A Beauty Brand Used AI to Fabricate Before-and-After Images: 2,000-Plus Violating Pieces in Three Months: http://www.csrcare.com/Cultrue/Show?id=3778
+- <a id="10-59"></a>[10-59] CCTV.com: China's First Verdict on AI Ghostwritten 'Seeding Notes': Mass-Produced Fabricated Consumption Experiences: https://news.cctv.cn/2026/05/12/ARTI8WYlR9mPd6KyPj3GhncE260512.shtml
+- <a id="10-60"></a>[10-60] Llinks Law Offices: Mini-Program Ordered Offline for Failing to Label AI-Generated Content and Skipping Security Assessment: https://www.llinkslaw.com/Public/Uploads/uploadfile3/files/20260929/file-484e23ca1b.pdf
+- <a id="10-61"></a>[10-61] Llinks Law Offices: 5,000 Facial Records Used for Matching Marketing Without Notification or Separate Consent: Warning and Fine: https://www.llinkslaw.com/Public/Uploads/uploadfile3/files/20260929/file-0235d3df29.pdf
 
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
@@ -620,6 +661,15 @@
 - <a id="11-67"></a>[11-67] Digital Commerce 360: Google Universal Cart Launches in the U.S. - Features, Retailers and How It Works (2026-10-16): https://www.digitalcommerce360.com/2026/10/16/google-universal-cart-launch-features/
 - <a id="11-68"></a>[11-68] Business Wire (Chinese release, citing Ant Group data): 120 Million AI Payments in a Single Week - Alipay AI Pay's Actual Transaction Volume (2026-07-30): https://www.businesswire.com/news/home/20260730777519/zh-CN
 - <a id="11-69"></a>[11-69] Checkout.com (Chinese site): Consumer Demand for AI Shopping Is Forming Fast, but Trust in Agentic Commerce Is Still Catching Up: https://www.checkout.com/zh-cn/newsroom/consumer-demand-for-ai-shopping-is-forming-fast-but-trust-for-agentic-commerce-is-still-catching-up
+- <a id="11-70"></a>[11-70] Digital Today: Cafe24 Adopts WebMCP: Every D2C Store Becomes Agent-Shoppable at Once: https://www.digitaltoday.co.kr/cn/view/117917/cafe24-connects-ai-agents-across-all-its-online-stores
+- <a id="11-71"></a>[11-71] Newrank: Testing Six AI Platforms: Only Qwen and Doubao Complete a Purchase Inside the Conversation: https://a.newrank.cn/trade/news/9976
+- <a id="11-72"></a>[11-72] Aiqi SEM: Doubao Orders Become Traceable: GEO Can Be Measured for ROI for the First Time: https://www.27sem.com/article/18401
+- <a id="11-73"></a>[11-73] BT Finance: Seven Ministries Require E-Commerce Search and Recommendation to Favor Quality, Reputation and Credit: https://businesstimescn.com/articles/628870.html
+- <a id="11-74"></a>[11-74] Securities Times: Three Ministries' Implementation Opinions on Standardized Application and Innovative Development of Agents: Writing Agent Stores Into Top-Level Design: https://www.stcn.com/article/detail/3900484.html
+- <a id="11-75"></a>[11-75] Shanghai Securities News (cnstock): MIIT Action Plan for 'AI Plus Software': Building Agent Software Stores: https://www.cnstock.com/commonDetail/788815
+- <a id="11-76"></a>[11-76] Cloudflare Official Documentation: Pay Per Crawl: The Official Mechanism for Pricing and Signing AI Crawlers: https://developers.cloudflare.com/ai-crawl-control/features/pay-per-crawl/
+- <a id="11-77"></a>[11-77] heise online: Comet Lands on iOS: The AI Browser's Shopping Capability Runs Through Cloud Virtual Browsers: https://www.heise.de/en/news/Perplexity-s-AI-browser-Comet-launches-on-iOS-11217715.html
+- <a id="11-78"></a>[11-78] Machine Heart: Atlas Lasted Only 292 Days: Where the Standalone AI Browser Went Wrong: https://m.163.com/dy/article/L405K88H0511AQHO.html
 
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/

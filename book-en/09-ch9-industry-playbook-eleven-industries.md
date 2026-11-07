@@ -116,7 +116,15 @@ The previous four sets of industry signals looked at how AI runs inside operatio
 
 **Two reminders for every industry fall out of that set.** The technical one: as open-source and on-premise deployment bring "tech parity," model capability becomes general infrastructure and competition shifts to industry knowledge bases, reusable business rules and data assets. The compliance one: insurance is heavily regulated, so AI must not only deliver results but explain its basis and satisfy audit — which is exactly why marketing, closest to the money, comes later. For customer operations the implication is that AI in insurance first proves "pay out less, err less, wait less" rather than "sell more"; the value of renewals and cross-sell rests on the customer data quality sedimented by underwriting and claims, not on more aggressive outbound<sup><a href="12-appendix-a-sources.md#9-121">[9-121]</a></sup> [third-party verified].
 
-## 9.13 Patterns Across Industries
+## 9.13 Industry Signals (IX): A Three-Layer Agent for Manufacturers Going Global
+
+The contradiction in manufacturing going global is usually framed as "not enough reach." Zhengkai Group (Chinese: 正凯集团) frames it differently. The company, whose core businesses are PET and textiles and whose operations span more than a hundred countries, won first prize in the sales-and-after-sales track of a Yangtze Delta enterprise agent development competition held around the 2026 Wuzhen World Internet Conference with a "matrix-style overseas marketing agent"; the industry context it cites: in the first half of 2026 China's cross-border e-commerce exports reached 1.16 trillion yuan, up 6.3% year on year, while three long-standing bottlenecks in overseas marketing persist — multilingual content capacity cannot keep up, a 6–12 hour time difference lets high-intent leads leak away while they wait, and multi-platform data stays fragmented so nothing closes the loop. The conclusion: the crux is not reach but the inability to catch what arrives<sup><a href="12-appendix-a-sources.md#9-122">[9-122]</a></sup> [official claims].
+
+The design has three layers: a matrix management hub that produces once and distributes across the matrix, lowering multi-platform operating cost; a multi-agent coordination hub that generates content according to each country's culture and each platform's tone, cutting content labor cost; and an integrated marketing-and-service loop that automatically identifies and captures omnichannel overseas leads, shortening the sales cycle. What must be noted is that the case currently offers only an award and a design description, with no verifiable numbers on conversion, lead volume or content throughput — it is a directional sample whose value lies in the problem definition rather than in results.
+
+**For manufacturers, the sequence is worth borrowing: close the response gap caused by time zones and language first, then content capacity, and only then data integration.** Done in reverse, it usually means pouring more traffic into a funnel that cannot catch it.
+
+## 9.14 Patterns Across Industries
 
 Read the eleven industries together and several cross-industry patterns in AI customer lifecycle management emerge:
 

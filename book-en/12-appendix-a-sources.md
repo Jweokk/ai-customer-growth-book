@@ -162,6 +162,10 @@
 - <a id="3-137"></a>[3-137] Miyao New Media: "Can't Find It" in WeChat Search Is Usually Low Ranking, Not Blocking: https://www.jizhil.com/gzhdata/17877.html
 - <a id="3-138"></a>[3-138] Yunyingpai (reprinting Jianshi): WeChat Store Builds a "Recommended Product Pool": A 4.6 Experience Score Is the Ticket In: https://www.yunyingpai.com/product-operation/1059408.html
 - <a id="3-139"></a>[3-139] Sangepijiang Report (reading Xiaohongshu's official "seed marketing" report): Lead Acquisition in Xiaohongshu Search: 42% of New Users Search on Day One: https://www.sgpjbg.com/labelsyh/sousuochangyuxiansuohuoke/1/7601852.html
+- <a id="3-140"></a>[3-140] Qingdao Daily / Guanhai News: A Twenty-Person Tape Factory Made 28,000 AI Calls in Two Weeks: 300 Interested Prospects, 35 Closed, with the Owner Previously Carrying 90% of Sales: https://www.qingdaonews.com/app/content/2026-03/28/content_23725419.htm
+- <a id="3-141"></a>[3-141] Plura AI, citing Sales.co analysis of 1,288,605 Cold Emails: The Truth About 1.28 Million Cold Emails: 53.7% of "Replies" Are Machine-Generated and the True Positive Reply Rate Is 0.24%: https://www.plura.ai/articles/ai-sdr-response-rate
+- <a id="3-142"></a>[3-142] SmartReach.io Annual Cold Email Benchmark: A Review of 40 Million Cold Emails: Average Reply Rate Falls to 5%, and Domains with Full Authentication Reach the Inbox 2.7 Times More Often: https://smartreach.io/reports/state-of-cold-email/
+- <a id="3-143"></a>[3-143] Expertise AI: Cost per Meeting Held Matters More Than Cost per Meeting Booked: AI SDR Show-Up Rates of 40–60% Against 70–85% for Humans: https://www.expertise.ai/glossary/ai-sdr-vs-human-sdr
 
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
@@ -201,6 +205,9 @@
 - <a id="4-34"></a>[4-34] 36Kr: Jisi Technology's AI Sales Reached RMB 6 Billion in GMV in Three Years: "Context" Is a Wider Moat Than Visuals: https://m.36kr.com/p/3824179485233541
 - <a id="4-35"></a>[4-35] Cloudflight Engineering Blog (citing Adobe Analytics): AI Traffic Went from Worst-Converting to Best in a Year: A 42% Reversal: https://engineering.cloudflight.io/en/blog/ai-ready-product-data/
 - <a id="4-36"></a>[4-36] Stripe: How to Prepare for Agentic Commerce: A Technical Field Guide: https://stripe.com/zh-us/guides/how-to-prepare-for-agentic-commerce-technical-field-guide
+- <a id="4-37"></a>[4-37] Salesforce Official Customer Story: Uber for Business Chases Registration Drop-Off with Agentforce: A 30-Person Team Could Not Cover the Volume, and Two Weeks After Launch Conversion Ran 60% Above the Organic Baseline: https://www.salesforce.com/customer-stories/uber/agentic-outreach/
+- <a id="4-38"></a>[4-38] respond.io Customer Story, TrueCost Group: A US Health-Insurance Brokerage Cuts First Response from 15 Minutes to About 1, with AI Handling 87.5% of Conversations and Cost per Appointment Down to $20–$30: https://respond.io/tw/customers/health-insurance-broker-10x-faster-response-times-with-respondio
+- <a id="4-39"></a>[4-39] Pixis, citing 55,000 Meta Campaigns and Haus's 640 Incrementality Experiments: Advantage+ Reported ROAS Holds at 4.52 While New-Customer Acquisition Cost Rises from $257 to $528: https://pixis.ai/blog/advantage-vs-performance-max-head-to-head-2026/
 
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
@@ -271,6 +278,10 @@
 - <a id="5-65"></a>[5-65] Legal Daily / Legal Weekend: Who Is Liable When AI Support Breaks a Promise: 4,700 Complaints and a National Standard Effective September 1: http://m.legalweekly.cn/rwjs/2026-09/03/content_9451369.html
 - <a id="5-66"></a>[5-66] E-Commerce Brasil: Brazilian Fashion Retailer Riachuelo: Agentic AI on WhatsApp Resolves 84% of Requests, Against 30% for the Old Chatbot: https://www.ecommercebrasil.com.br/noticias/ia-agentica-resolve-demandas-de-84-dos-clientes-da-riachuelo-no-whatsapp
 - <a id="5-67"></a>[5-67] Xiaoduo Technology: The Cost Ledger Across Five Inquiry Scenarios: After-Sales Handling from 12 Minutes to 1.8, but Bargaining and Complaints Cost More with AI (vendor analysis of three store back ends): https://www.xiaoduoai.com/ecommerce/6448
+- <a id="5-68"></a>[5-68] SaaStr, Jason Lemkin's Breakdown: Gorgias Puts 8,356 Real Conversations Across 18 Vendors on the Public Web: First Overall, but Beaten on Automation by Yuma: https://www.saastr.com/everyone-should-publish-the-deepest-most-direct-competitive-evals-they-can-case-study-100m-arr-gorgias-for-ai-cx/
+- <a id="5-69"></a>[5-69] Drag: 76% or 45%? Four Definitions of AI Support "Resolution" That Can Move the Same Queue by 30 Points: https://www.dragapp.com/blog/ai-support-agent-resolution-rates/
+- <a id="5-70"></a>[5-70] AI Times Korea, with a Same-Day Yonhap Report: KT's AI Contact Center Handles 1.2 Million Calls a Month, Lifts First-Contact Resolution from 77% to 81% and Cuts Human Call Time by 31 Seconds: https://www.aitimes.kr/news/articleView.html?idxno=42474
+- <a id="5-71"></a>[5-71] Microsoft Power Platform Case Study: Nexi, Covering 65% of European Credit-Card Spending, Runs a Support Agent at 3,000 Interactions a Day and 70% Satisfaction, Able to Freeze and Replace Cards Directly: https://learn.microsoft.com/zh-tw/power-platform/guidance/case-studies/nexi-revolutionizes-customer-support
 
 ## Sources for Chapter 6
 - <a id="6-01"></a>[6-01] ChurnZero: 2025 Customer Revenue Leadership Study: NRR Stabilizes — How Team Composition and Tech Stack Correlate with NRR: https://churnzero.com/customer-success-leadership-study/
@@ -323,6 +334,10 @@
 
 - <a id="6-48"></a>[6-48] Perspective AI: The Amber-Zone Ceiling in Churn Prediction: Models Are Only 55–65% Accurate on the Accounts Most in Need of Intervention, and Only Conversation Closes the Gap: https://getperspective.ai/blog/customer-churn-prediction-with-ai-why-models-alone-aren-t-enough-in-2026
 - <a id="6-49"></a>[6-49] CRV: SaaS Churn Benchmarks by Stage: 3–5% Monthly at Seed, 4.1% a Month for SMB, 110–140% NRR in Enterprise: https://www.crv.com/content/saas-churn-rate
+- <a id="6-50"></a>[6-50] Dataconomy, reporting RevenueCat's State of Subscription Apps 2026: AI Apps Convert Trials 52% Better, Yet Annual Subscriptions Churn 30% Faster Than Non-AI Apps: https://dataconomy.com/2026/03/11/ai-apps-convert-trials-to-paid-users-52-better-than-traditional-apps/
+- <a id="6-51"></a>[6-51] ChurnZero, Interview with VP of Customer Success Lukas Alexander: By the Time the Health Score Turns Green the Relationship Is Already Broken — Making the "Relationship Score" a Leading Indicator of Churn: https://churnzero.com/blog/five-churn-mitigation-tips-for-2026/
+- <a id="6-52"></a>[6-52] UserTesting Insights Unlocked Podcast, in Conversation with Gainsight Strategic SVP Josh Schachter: Gainsight Turns Retention into a Service, with Agents Calling Customers for Voice of Customer and the Long Tail Turning from Cost into Intelligence: https://www.usertesting.com/resources/podcast/customer-success-retention-strategies-ai
+- <a id="6-53"></a>[6-53] Yellow.ai, 2026 Voice-of-Customer Program Handbook: The Bottleneck in Voice of Customer Is Not Hearing but Translating — Moving from a Survey Posture to Operational Listening: https://yellow.ai/conversational/voice-of-customer-program/
 
 ## Sources for Chapter 7
 - <a id="7-01"></a>[7-01] Tealium: 2025 State of the CDP Report: 92% of CDP Users Meet Their Goals and 84% Say the CDP Simplified AI Projects (Official Survey): https://tealium.com/resource/whitepaper/2025-state-of-the-cdp/
@@ -374,6 +389,7 @@
 - <a id="7-47"></a>[7-47] Tencent Cloud Developer Community: Private Domain in 2026: Revenue Up, Efficiency Down, Fatigue and Compliance Tightening Together: https://cloud.tencent.com.cn/developer/article/2703970
 - <a id="7-48"></a>[7-48] ZoomInfo press release (BusinessWire): ZoomInfo Acquires DoubleO: Turning "My Champion Changed Companies" into an Automated Dynamic-ICP Trigger: https://markets.ft.com/data/announce/full?dockey=600-202609300830BIZWIRE_USPRX____20260930_BW700553-1
 - <a id="7-49"></a>[7-49] ZoomInfo press release (BusinessWire): Salesforce's Autonomous Outbound Agent "Hunter": Show the Reasoning, Get Human Approval, with Data Supplied by ZoomInfo: https://markets-data-api-proxy.ft.com/data/announce/full?dockey=600-202610150830BIZWIRE_USPRX____20261015_BW320136-1
+- <a id="7-50"></a>[7-50] Beijing Business Today (reproduced on Sohu), De Rucci with Tencent Qidian Marketing Cloud: De Rucci Moves 15 Million Customers into a CDP — of 100 Leads Only 10 Close, and for the First Time It Can Answer Where the Other 90 Went: https://m.sohu.com/coo/zmtq/1096686151_115865
 
 ## Chapter 8 Sources
 - <a id="8-01"></a>[8-01] From 0 to 20 AI Agents in 10 Months: SaaStr’s Production-Deployment Playbook: https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work
@@ -441,6 +457,8 @@
 - <a id="8-63"></a>[8-63] TechCrunch: Mining Real Conversations to Train Sales and Service Agents: Encore AI Raises $30 Million: https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/
 - <a id="8-64"></a>[8-64] Digiday: AI Is Already in the Daily Work but Team Structures Have Barely Moved: The Case for a New "AI Checker" Role: https://digiday.com/marketing/amid-growing-tension-over-workplace-ai-agencies-have-a-window-to-reimagine-staffing/
 - <a id="8-65"></a>[8-65] 36Kr: APTSell Wants to Be an "AI Chief Sales Officer": 20+ Customers, Conversion Up 10–15%, Management Time Down 50%: https://36kr.com/p/3883591654895873
+- <a id="8-66"></a>[8-66] Degreed Customer Story: TEKsystems Cuts Time to First Customer Meeting Sixfold with One Hour of AI Role-Play, with 25% of the Pilot Group Closing Within Six Months: https://degreed.com/experience/success-stories/teksystems-ramps-new-sellers-6x-faster/
+- <a id="8-67"></a>[8-67] Growth Hacker AI Weekly EP.73: A Collapse Bought for 700,000 Yuan — A County-Town Owner Harvested in Reverse by "Pseudo-FDE plus Pseudo-Private Deployment": https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247500848&idx=1&sn=4b0eab1d7f060bb9f18e3e77612e7c9a
 
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
@@ -564,6 +582,7 @@
 - <a id="9-119"></a>[9-119] China Economic Times: Kunshan Rural Commercial Bank's "Kunxiaozhi" 2.0: Smaller Banks Move from "Can Answer" to "Can Do the Work": https://jjsb.cet.com.cn/show_545261.html
 - <a id="9-120"></a>[9-120] China Electronic Banking Network (via Xiaojinjie/Mobile Payment Network): Private Banks Double Down on Agents: Can AI Become a Second Growth Curve: https://www.cebnet.com.cn/20261030/103006960.html
 - <a id="9-121"></a>[9-121] Caijing Magazine: Insurance AI Enters the Income Statement: RMB 10.5 Billion in Anti-Fraud Loss Reduction, Underwriting Response 260 Times Faster, Transfer Rate Down 10%: http://yuanchuang.caijing.com.cn/2026/0610/5164638.shtml
+- <a id="9-122"></a>[9-122] Zhengkai Group Official Site: The Three Bottlenecks in Overseas Manufacturing Are Not "Reach" but "Catching What Arrives" — Zhengkai Splits Overseas Marketing into a Matrix of Agents: https://www.zhink.cc/index/news/detail.html?id=2118513276815806465
 
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
@@ -721,6 +740,9 @@
 - <a id="11-88"></a>[11-88] Weiyangx (Tsinghua PBCSF China Financial Case Center): From "Click to Buy" to "Delegate to Buy": Agentic Commerce's China Path and the Trust Gap: https://www.weiyangx.com/484136.html
 - <a id="11-89"></a>[11-89] NielsenIQ press release (Nasdaq): NIQ: 42% of Consumers Now Use AI Tools to Shop: https://www.nasdaq.com/press-release/42-consumers-now-use-ai-tools-shop-niq-data-shows-2026-05-05
 - <a id="11-90"></a>[11-90] Growth Hacker AI Weekly (EP.72, citing Ebang Power industrial-belt research): Chinese B2B Is Becoming A2A: More Than One-Fifth of Purchasing Requests on 1688 Now Start With an Agent: https://mp.weixin.qq.com/s?__biz=MjM5NjAxNDE2MA==&mid=2651119803&idx=1&sn=4ddc37747ee615493d73402ceca32339
+- <a id="11-91"></a>[11-91] Kearney Rolling Benchmark: Agentic-Commerce Readiness Across 106 Companies — the Closer to the Transaction the Further Ahead, with 6/6 Digital Retailers Holding a Strategy and Only 20/53 Consumer-Goods Companies: https://www.kearney.com/service/digital-analytics/article/the-state-of-agentic-commerce-insights-from-more-than-100-leading-global-companies
+- <a id="11-92"></a>[11-92] Nventory: Rufus Now Answers About 20% of Amazon Searches — Listings Must Be Readable, Not Merely Matched: https://nventory.io/blog/amazon-rufus-20-percent-searches-invisible
+- <a id="11-93"></a>[11-93] PYMNTS, Shopify Q3 Earnings Read: AI Traffic Up 2.6x and AI Orders Up 3.3x Year on Year, Yet Consumers Still End Up Ordering on Amazon: https://www.pymnts.com/earnings/2026/shopify-revenue-jumps-32percent-as-agent-driven-commerce-surges/
 
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/

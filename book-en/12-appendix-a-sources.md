@@ -167,6 +167,9 @@
 - <a id="3-142"></a>[3-142] SmartReach.io Annual Cold Email Benchmark: A Review of 40 Million Cold Emails: Average Reply Rate Falls to 5%, and Domains with Full Authentication Reach the Inbox 2.7 Times More Often: https://smartreach.io/reports/state-of-cold-email/
 - <a id="3-143"></a>[3-143] Expertise AI: Cost per Meeting Held Matters More Than Cost per Meeting Booked: AI SDR Show-Up Rates of 40–60% Against 70–85% for Humans: https://www.expertise.ai/glossary/ai-sdr-vs-human-sdr
 
+- <a id="3-144"></a>[3-144] AiSDR Official Blog: Self-Reported Benchmarks from 75 AI SDR Deployments — Baseline 2.4% Reply Rate and 12 Meetings a Month, 6.8% and 31 Meetings at Month Three, 8.2% and 38 at Month Six: https://aisdr.com/blog/ai-sdr-benchmarks/
+- <a id="3-145"></a>[3-145] Salesmotion: How Many Emails an AI SDR Can Safely Send — The 200-per-Mailbox Operating Ceiling and Quota Allocation: https://salesmotion.io/blog/ai-sales-email-deliverability-limits
+- <a id="3-146"></a>[3-146] HummingDeck: Cold Email No Longer Lands in Spam in 2026, It Gets Rejected — The Timeline of 5xx Hard Bounces: https://hummingdeck.com/blog/email-deliverability-2026
 ## Sources for Chapter 4
 - <a id="4-01"></a>[4-01] Bessemer Venture Partners (BVP Atlas): The AI Pricing and Monetization Playbook: How to Charge in a World Where Every Token Has a Cost (2026-02): https://www.bvp.com/atlas/the-ai-pricing-and-monetization-playbook
 - <a id="4-02"></a>[4-02] Genrise: AI Shopping Assistants 2026: What Rufus, Sparky, ChatGPT, and Perplexity Mean for Brands: https://genrise.ai/insights/ai-shopping-assistants-future-ecommerce
@@ -209,6 +212,10 @@
 - <a id="4-38"></a>[4-38] respond.io Customer Story, TrueCost Group: A US Health-Insurance Brokerage Cuts First Response from 15 Minutes to About 1, with AI Handling 87.5% of Conversations and Cost per Appointment Down to $20–$30: https://respond.io/tw/customers/health-insurance-broker-10x-faster-response-times-with-respondio
 - <a id="4-39"></a>[4-39] Pixis, citing 55,000 Meta Campaigns and Haus's 640 Incrementality Experiments: Advantage+ Reported ROAS Holds at 4.52 While New-Customer Acquisition Cost Rises from $257 to $528: https://pixis.ai/blog/advantage-vs-performance-max-head-to-head-2026/
 
+- <a id="4-40"></a>[4-40] Forkast, citing Public Pricing from Each Vendor and Gartner's Assessment: The Per-Resolution Price List Is Already Public — HubSpot $0.50, Zendesk $1.50-2.00, Agentforce $0.10 per Action: https://forkast.news/ai-agents-charge-per-resolution-now-the-per-seat-model-didnt-stand-a-chance/
+- <a id="4-41"></a>[4-41] AlixPartners: Outcome-Based Pricing Is Mostly Talk — Only 4 of 65 Major Software Companies Have Fully Switched, and More Than Half Still Lead with Seats: https://www.alixpartners.com/insights/2026-outcome-based-pricing-saas
+- <a id="4-42"></a>[4-42] CMO2CRO, citing ChartMogul, Growth Unhinged and ProductLed's 2026 Conversion Report: The 8% Free-to-Paid Benchmark Is an Illusion — 40% of Free Products Convert Below 5%, and a Credit-Card Gate Lifts Conversion Fivefold: https://cmo2cro.substack.com/p/the-most-misunderstood-metric-in
+- <a id="4-43"></a>[4-43] Founder Ventures, citing Userpilot's 2026 Analysis and the Nexus/Orange Case: ALG Pushes Free-to-Paid to 25-30% — Orange Lifted Conversion 50% in Four Weeks with an Onboarding Agent, a Single Agent Worth $6 Million in Annualized LTV: https://founderventures.io/intel/agent-led-growth-outperforms-plg-conversion
 ## Sources for Chapter 5
 - <a id="5-01"></a>[5-01] WeChat Official Account: 30-Day AI Practitioner | Day 14: AI + Operations Management (2) | Full-Lifecycle Customer Management: AI Automatically Maintains Existing Customers and Activates Repeat Purchases: https://mp.weixin.qq.com/s/xxx
 - <a id="5-02"></a>[5-02] Zendesk: AI for Customer Service & Support | Zendesk AI Platform: https://www.zendesk.com/service/ai/
@@ -283,6 +290,11 @@
 - <a id="5-70"></a>[5-70] AI Times Korea, with a Same-Day Yonhap Report: KT's AI Contact Center Handles 1.2 Million Calls a Month, Lifts First-Contact Resolution from 77% to 81% and Cuts Human Call Time by 31 Seconds: https://www.aitimes.kr/news/articleView.html?idxno=42474
 - <a id="5-71"></a>[5-71] Microsoft Power Platform Case Study: Nexi, Covering 65% of European Credit-Card Spending, Runs a Support Agent at 3,000 Interactions a Day and 70% Satisfaction, Able to Freeze and Replace Cards Directly: https://learn.microsoft.com/zh-tw/power-platform/guidance/case-studies/nexi-revolutionizes-customer-support
 
+- <a id="5-72"></a>[5-72] People's Data, Republishing China Consumer News with China Consumers Association Data: Back from "Interception Rate" to "Resolution Rate" — After-Sales Complaints at 26.79% and the National Standard in Force Force Companies to Recalculate the AI Support Ledger: https://peopledata.com.cn/html/web/NewsInformation/shujubobao/2102559487604518914.html
+- <a id="5-73"></a>[5-73] Pinecone Official Blog: Compiling What Support Engineers Know into Artifacts an Agent Can Query — Pinecone's Own Ticket Resolution Rose from 24.6% to 55.1%, with a 77.6% Handoff Rate Counting Fully Investigated Escalations: https://www.pinecone.io/blog/support-agent-nexus/
+- <a id="5-74"></a>[5-74] Hollycrm: The Gap Between 86% and 37% Zero-Touch Resolution Is Not the Model but Five Things — Knowledge Structure, Orchestration, Intent, Handoff Policy and Operations: https://www.hollycrm.com/innews/11501.html
+- <a id="5-75"></a>[5-75] Salesforce Customer Story: Trustpilot Cut a 15,000-Ticket Backlog by 99% with the Agent "Sam" — 28% of Inquiries Deflected, Handling Time for Escalated Tickets Down 45%: https://www.salesforce.com/eu/customer-stories/trustpilot/agentic-support/
+- <a id="5-76"></a>[5-76] TMCnet, Republishing a Hippo Holdings Release: Insurer Hippo's AI Representative Hannah — 100% of Inbound Triaged, 28,000 Calls, 97% Positive Sentiment, but Only 5% Fully Resolved Autonomously: https://www.tmcnet.com/usubmit/2026/05/28/10390378.htm
 ## Sources for Chapter 6
 - <a id="6-01"></a>[6-01] ChurnZero: 2025 Customer Revenue Leadership Study: NRR Stabilizes — How Team Composition and Tech Stack Correlate with NRR: https://churnzero.com/customer-success-leadership-study/
 - <a id="6-02"></a>[6-02] Greylock: The Rise of AI-Native User Research: From Scheduled Interviews to On-Demand Insights: https://greylock.com/blog/ai-user-research/
@@ -339,6 +351,10 @@
 - <a id="6-52"></a>[6-52] UserTesting Insights Unlocked Podcast, in Conversation with Gainsight Strategic SVP Josh Schachter: Gainsight Turns Retention into a Service, with Agents Calling Customers for Voice of Customer and the Long Tail Turning from Cost into Intelligence: https://www.usertesting.com/resources/podcast/customer-success-retention-strategies-ai
 - <a id="6-53"></a>[6-53] Yellow.ai, 2026 Voice-of-Customer Program Handbook: The Bottleneck in Voice of Customer Is Not Hearing but Translating — Moving from a Survey Posture to Operational Listening: https://yellow.ai/conversational/voice-of-customer-program/
 
+- <a id="6-54"></a>[6-54] Customerscore.io: A Test on 48,000 B2B SaaS Customers — the Top AI Risk Band Churned 16.1% Within 60 Days and the Bottom 0.5% (31x), Against 12x for a Rule-Based Health Score: https://www.customerscore.io/blog/churn-prediction-accuracy-study-2026
+- <a id="6-55"></a>[6-55] Nuevexa, citing Gainsight 2025 and ChurnZero 2024 Data: 74% of SaaS Companies Still Judge Health by Hand at 12-15 Hours a Week per CSM, While Automated Scores on Four or More Signals Reach 78-85% Accuracy 60 Days Before Churn: https://nuevexa.com/resources/automation-intelligence/items/customer-health-scoring-agent
+- <a id="6-56"></a>[6-56] ChurnZero with SaaS Capital's 15th Annual SaaS Industry Survey: NRR's Ceiling Fell While Its Floor Held — the Top Quartile Dropped from 120-125% to About 110% as GRR Stayed Flat: https://churnzero.com/blog/why-nrr-is-declining-what-to-do-about-it/
+- <a id="6-57"></a>[6-57] SaasRise, Aggregating 2,500 Companies Across 15+ Datasets: AI-Native Growth Is 4x Traditional SaaS at a Median 55% Versus 14%, While Industry-Wide Median NRR Has Compressed to 101-102%: https://www.saasrise.com/blog/saas-benchmark-report-2026
 ## Sources for Chapter 7
 - <a id="7-01"></a>[7-01] Tealium: 2025 State of the CDP Report: 92% of CDP Users Meet Their Goals and 84% Say the CDP Simplified AI Projects (Official Survey): https://tealium.com/resource/whitepaper/2025-state-of-the-cdp/
 - <a id="7-02"></a>[7-02] Osano: 2025 Marketing Data Privacy Compliance Guide: GDPR/CCPA Consent, Auditing, and Privacy-First Marketing (Practical Guide): https://www.osano.com/articles/marketing-data-privacy-guide
@@ -460,6 +476,8 @@
 - <a id="8-66"></a>[8-66] Degreed Customer Story: TEKsystems Cuts Time to First Customer Meeting Sixfold with One Hour of AI Role-Play, with 25% of the Pilot Group Closing Within Six Months: https://degreed.com/experience/success-stories/teksystems-ramps-new-sellers-6x-faster/
 - <a id="8-67"></a>[8-67] Growth Hacker AI Weekly EP.73: A Collapse Bought for 700,000 Yuan — A County-Town Owner Harvested in Reverse by "Pseudo-FDE plus Pseudo-Private Deployment": https://mp.weixin.qq.com/s?__biz=MzkxNzUwMTk5NQ==&mid=2247500848&idx=1&sn=4b0eab1d7f060bb9f18e3e77612e7c9a
 
+- <a id="8-68"></a>[8-68] Beisen: An AI Role-Play Comparison Table — Ramp Time Down 40-60%, Time to First Deal from 90 Days to 35-50, New-Hire Retention from 65% to 85%: https://www.beisen.com/res/2463.html
+- <a id="8-69"></a>[8-69] Zhongguancun Kejin (Dedu Intelligence): A 200-Store Retail Chain Cut New-Hire Ramp from 46 Days to 15 and New-Product Training from 13 Days to 3: https://www.zkj.com/industry_news/9301.html
 ## Chapter 9 Sources
 - <a id="9-01"></a>[9-01] 2025 Year-End Recommendations for Intelligent AI Customer-Service Vendors: Focusing on Government/Enterprise and E-Commerce Scenarios: https://www.cnblogs.com/pinpaituijan/p/19351238
 - <a id="9-02"></a>[9-02] Six Legal-Tech Trends for 2026: Lawyer AI Adoption Rises from 11% to 30% — Firms That Use Technology to Capture Cases Generate 51% More Leads and 52% Higher Revenue: https://getperspective.ai/blog/legal-tech-trends-2026-6-data-backed-shifts-law-firm-ai-adoption
@@ -584,6 +602,9 @@
 - <a id="9-121"></a>[9-121] Caijing Magazine: Insurance AI Enters the Income Statement: RMB 10.5 Billion in Anti-Fraud Loss Reduction, Underwriting Response 260 Times Faster, Transfer Rate Down 10%: http://yuanchuang.caijing.com.cn/2026/0610/5164638.shtml
 - <a id="9-122"></a>[9-122] Zhengkai Group Official Site: The Three Bottlenecks in Overseas Manufacturing Are Not "Reach" but "Catching What Arrives" — Zhengkai Splits Overseas Marketing into a Matrix of Agents: https://www.zhink.cc/index/news/detail.html?id=2118513276815806465
 
+- <a id="9-123"></a>[9-123] Zhongan Xinke: The "Big Agent plus Many Skills" Model for Insurance Sales and Service — One Client Moved Non-Auto New-Business Premium from RMB 110 Million to RMB 250 Million, Output per Person from 12 to 24, and Human-Machine Collaborative Premium Share from 60% to 85%: https://www.zhongan.tech/article/294
+- <a id="9-124"></a>[9-124] Red Star News, Interviewing Ping An Chuangzhan's Sichuan Branch: Putting Large Models into County Agents' Phones — a Team-Leader AI Twin, an AI Smart Keyboard and an Agent Assistant: https://static.cdsb.com/micropub/Articles/202611/df3abf484454dc79899c99726d4535a6.html
+- <a id="9-125"></a>[9-125] Acewill (Weishenghuo Membership System): Nearly 140,000 Cards Claimed and Over 10,000 Redemptions in 12 Days — the Four-Stage Funnel of Restaurant Public-to-Private Domain Integration, at a Final Conversion Rate of 7.4%: https://acewill.cn/news-detail/365.html
 ## Chapter 10 Sources
 - <a id="10-01"></a>[10-01] AI-Generated and Synthetic Content Must Carry Labels from September 1: China’s New AI Content-Compliance Rules Take Effect: http://www.ce.cn/xwzx/gnsz/gdxw/202509/t20250901_2460291.shtml
 - <a id="10-02"></a>[10-02] AI Outbound Calls Dial a Thousand Nuisance Calls a Day — Where Is the “Compliance Boundary”?: http://news.china.com.cn/2026-07/28/content_118621717.shtml
@@ -649,6 +670,9 @@
 - <a id="10-62"></a>[10-62] C114 (via 36Kr): "Doubao Need Not Take Responsibility": A RMB 600 AI Hallucination Lawsuit and the Vacancy It Left: https://www.c114.net.cn/industry/87918.html
 - <a id="10-63"></a>[10-63] Reuters (Westlaw Today column): When Your Browser Starts Speaking for You: Who Consented, the Consumer or the AI?: https://www.reuters.com/legal/legalindustry/when-your-browser-starts-speaking-you-who-consented-consumer-or-ai--pracin-2026-10-20
 
+- <a id="10-64"></a>[10-64] Guangming Online, Republishing CNR: The Beijing Internet Court Rules That Platforms Must Prove an "AI-Generated Without Label" Finding and Cannot Hide Behind Trade Secrets: https://m.gmw.cn/2026-11/14/content_1304586000.htm
+- <a id="10-65"></a>[10-65] GDPR Enforcement Tracker: Italy's Garante Fined TIM EUR 9.516 Million — Caller-ID Spoofing and a Sales Chain Designed to "Look Compliant": https://enforcementtracker.com/ETid-3271
+- <a id="10-66"></a>[10-66] The Paper, Republished by Sohu: AI Outbound Calling Scales Harassment — Shanghai Has Handled 112 Personal-Information Cases and Filed Against 57 Loan Intermediaries: https://www.sohu.com/a/1032277438_260616
 ## Chapter 11 Sources
 - <a id="11-01"></a>[11-01] 2025 Edelman Trust Barometer Special Report on Brands: Brand Trust Shifts “From We to Me”: https://www.edelman.com/trust/2025/trust-barometer/special-report-brands
 - <a id="11-02"></a>[11-02] Analysis of 680 Million AI Citations: ChatGPT, Google AI Overviews, and Perplexity Cite in Completely Different Ways — “AI Search”: https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026
@@ -744,6 +768,8 @@
 - <a id="11-92"></a>[11-92] Nventory: Rufus Now Answers About 20% of Amazon Searches — Listings Must Be Readable, Not Merely Matched: https://nventory.io/blog/amazon-rufus-20-percent-searches-invisible
 - <a id="11-93"></a>[11-93] PYMNTS, Shopify Q3 Earnings Read: AI Traffic Up 2.6x and AI Orders Up 3.3x Year on Year, Yet Consumers Still End Up Ordering on Amazon: https://www.pymnts.com/earnings/2026/shopify-revenue-jumps-32percent-as-agent-driven-commerce-surges/
 
+- <a id="11-94"></a>[11-94] Blue Ocean Yiguan: Amazon Retires Rufus and Launches Alexa for Shopping — Six New Rules Sellers Need to Read: http://www.egainnews.com/article/18351
+- <a id="11-95"></a>[11-95] CBS News: United Airlines Bans Third-Party AI Agents from Booking Flights — the Distribution Boundary Fight of the Agent Era: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/
 ## Narrative Sources (Stories Used Across Chapters)
 - <a id="12-01"></a>[12-01] “AI Is a People Problem, Not a Technology Problem”: Zapier CEO Wade Foster on the Post-GPT-4 “Code Red,” All-Company Hackathons, and More: https://betweentwocoos.com/wade-foster-why-ai-adoption-is-a-people-problem/
 - <a id="12-02"></a>[12-02] “The Signals Were Always There — Most CS Teams Just Weren’t Looking”: How Seven Customer-Success Executives at Pulse Moved Their Biggest Rocks with AI — from Rockwell…: https://unchurned.gainsight.com/p/inside-pulse-how-7-cs-leaders-are

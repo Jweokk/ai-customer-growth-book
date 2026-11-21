@@ -2,6 +2,17 @@
 
 This book is a "living book"—material keeps accumulating and the version keeps growing. This appendix records what each version updated and why.
 
+## v1.0.12 (2026-11-22, weekly update)
+
+- Chapter 3 adds "The Retention Ledger for Outbound" and "The Shelf Life of AI Answers": 50%-70% category churn with only about 2% of deployments retained; 81% of sales teams having bought AI while only 19% of reps use it, and the 4.8 hours saved weekly going nowhere in 72% of organizations; 75% of 7,683 cited pages updated within a year (only 42% new by publish date), 50%-60% of answers to the same executive question changing within weeks, and WeChat Search's top result falling from 31.7% to 7.9% click-through
+- Chapter 4 adds "The First Revenue Metric for Pre-Sales AI": 14% conversation-to-order, 47% higher baskets, 1.9% of online GMV influenced; Frasers's Ask Frasers lifting conversion 25% and Lowe's Mylow users converting at 3x non-users
+- Chapter 5 adds "Compounding on the Product Side, and Government's After-Hours": HubSpot Customer Agent going from 20% to 70% in a year across 9,000 customers; Groove Life at 78% weekly and nearly 60% fewer human-involved conversations in three weeks; Granicus answering 90% of inquiries with 47% after hours; South Korea's AI Government 24 converting 54.9% into applications with a six-second abandon line for certificate requests
+- Chapter 6 adds "Saved Time With Nowhere to Go": NRR statistically unchanged from 2024 across 580 growth leaders, 65% versus 39% for strategic teams; HappyFox turning under $20 of tokens into $1 million of expansion revenue; AI product activation averaging 37.5%
+- Chapter 7 adds "CDP Agent Capability, and Responsibility Nobody Picked Up": more than half of 213 vendors claiming agentic capability while governance documentation is thinnest, and none of five large data platforms offering consent, collection, and identity resolution together
+- Chapter 10 adds "Two Bills for AI Getting Things Wrong": an 18%-25% hallucination rate on corporate facts, the incidence of three distortion types with a 72-hour correction target, and Baidu's AI defamation judgment upheld on appeal and now in enforcement
+- Chapter 11 adds "The Wallet and the Trust Layer": the four domains of Alipay's ACT, Ant International's AMP, ChatGPT Wallet's payment tokens, and the mere 5% willing to let an AI platform handle payment
+- Appendix A adds 27 sources (3-147 to 3-153 / 4-44 to 4-46 / 5-77 to 5-80 / 6-58 to 6-60 / 7-51 to 7-52 / 10-67 to 10-69 / 11-96 to 11-100), synced across both languages
+
 ## v1.0.11 (2026-11-15, weekly update)
 
 - Chapter 3 adds "AI SDR's Physical Ceiling": AiSDR's self-reported 75 deployments over six months (reply rate 2.4% to 6.8% to 8.2%, meetings 12 to 31 to 38), the 200-emails-per-mailbox daily ceiling with its 50/150 quota split, and the timeline from soft to hard rejection at Gmail (30%-50% of non-compliant senders' cold email never reaching the inbox)

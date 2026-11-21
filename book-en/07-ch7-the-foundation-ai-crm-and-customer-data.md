@@ -126,7 +126,17 @@ Customer data platforms are easiest to describe as technology projects, but thei
 
 For teams building the customer-data foundation, the value of this case is that it translates "what is a CDP for" into a business question: where did those ninety people go. **Once every sentence between lead creation and purchase can be structured, customer operations has a reviewable process for the first time, not just a result.**
 
-## 7.13 Summary
+## 7.13 CDP Agent Capability, and Responsibility Nobody Picked Up
+
+Section 7.11 covered the context layer being acquired and 7.12 moving customers into a CDP. This one adds a 2026 industry audit: the gap between capability claims and actual governance.
+
+The CDP Institute's 19th industry update covers 213 active vendors, scored against the same 29 capabilities, plus a survey of 216 members and independent media coverage. The core finding: more than half of vendors claim at least one agentic capability, but far fewer document the four things agents actually depend on — agent governance, a semantic layer, next-best-action, and privacy and consent — and those four are exactly what buyers rank first. Two structural obstacles among members are unchanged: organizational and semantic problems are the top barriers; 66.7% of members use general-purpose AI vendors directly and 62.0% use AI built into software they already own, and both paths need access to the same customer record. The author's read on the market is "recomposition, not collapse": no single large data platform supplies the consent, collection, and identity resolution an agent depends on<sup><a href="12-appendix-a-sources.md#7-51">[7-51]</a></sup> [third-party research].
+
+The same institute's classification of the market as of June 30, 2026 is blunter: five large data platforms take three postures toward CDP — three leave the category to partner CDPs, one sells both a data platform and a CDP but keeps them isolated, and one embeds a CDP in its platform that is not yet generally available. The conclusion is that customer-data work is being divided among more vendors while responsibility for the outcome is not divided with it. The sharpest capability gap: none of the five offers consent and data rights, first-party behavioral collection, and identity resolution together as generally available products, yet the clean rooms they all document depend on all three. Architecture shows up in the claims too — hybrid and warehouse-native vendors more often claim next-best-action, agent context, interoperability, and agent building, while vendors with their own storage more often claim channel execution. The author is explicit about what this cannot prove: documentation shows who provides which function, not who is accountable when an agent fails<sup><a href="12-appendix-a-sources.md#7-52">[7-52]</a></sup> [third-party research].
+
+**Put the two together and the selection question changes: from "can it do agents" to "who is responsible when the agent fails, is the semantic layer auditable, and can the agent read consent state."** Anyone can tick a capability list; few vendors will sign a responsibility list.
+
+## 7.14 Summary
 
 Three takeaways on the foundation:
 

@@ -152,7 +152,19 @@ In 2026 a second approach appeared that stops trying to optimize the learning cu
 
 **Read the two threads together and the conversion bottleneck moves from persuasion to preconditions.** One is qualification: are the right people arriving. The other is reachability: can an agent complete the job on that person's behalf. The latter imposes engineering requirements — clean APIs, structured onboarding paths, programmable configuration — rather than better landing-page copy.
 
-## 4.15 Summary
+## 4.15 The First Revenue Metric for Pre-Sales AI: 14% Conversation-to-Order and a 47% Higher Basket
+
+Section 4.3 covered conversation as shelf space, and 4.7 the boundary of counting silence as resolution. This section pulls pre-sales AI out of support metrics and gives it revenue metrics.
+
+Gorgias's platform data from its Shopping Assistant gives three numbers: about 14% (roughly one in seven) assistant conversations produce an order inside a three-day attribution window; orders the assistant influenced average $181 against $123 for uninfluenced online orders in the same stores, 47% higher; and among brands with it enabled, the assistant influences 1.9% of online GMV, rising to 3%-4% in considered categories (auto parts, furniture and outdoor, electronics, equipment). The split by category is clearer than by size: decision-heavy purchases see 3%-4% of revenue influenced and baskets more than half again as large; habitual purchases (food and beverage) see low influence and slightly lower baskets — nobody needs a conversation to reorder coffee; apparel and beauty have the largest absolute numbers but mid-range influence, because much of the traffic is simple repurchase. Discounts are not the explanation: promo codes appear on less than 1% of influenced GMV. The limitations are stated just as plainly: conversation-to-order cannot be compared directly with a site's 2%-3% session conversion, and refunds never entered the attribution pipeline<sup><a href="12-appendix-a-sources.md#4-44">[4-44]</a></sup> [third-party verified].
+
+Two retail cases put the metric on the table. UK retailer Frasers Group launched the AI shopping assistant Ask Frasers on its e-commerce site, built on Algolia's Agentic Experience and supporting conversational queries, preference refinement, and real-time personalized recommendations; the published result is a 25% lift in conversion<sup><a href="12-appendix-a-sources.md#4-45">[4-45]</a></sup> [third-party verified]. Comparison numbers around it include Macy's shoppers who use its assistant spending nearly 5 times what non-users do, AI-driven retail traffic up 830% year on year in the 2025 holiday season, and AI-driven shoppers converting about 30% higher in peak season — three different denominators (user comparison, traffic growth, conversion lift) that cannot be added together.
+
+Lowe's said at its November 18, 2026 Q3 earnings call that its in-site assistant Mylow answers more than 1 million questions a month and that customers who use it convert at 3 times the rate of those who do not; it did not disclose user counts or the share of online revenue it drives. The same quarter: online sales +17.4%, about 50% of online orders fulfilled by stores, total sales $22.8 billion (+9.3%), comparable sales +1.8%, average ticket +3.5% while transactions fell 1.7%<sup><a href="12-appendix-a-sources.md#4-46">[4-46]</a></sup> [third-party verified].
+
+**None of the three is a randomized experiment; each compares users with non-users.** High-intent customers were already more likely to ask the assistant, so part of the 3x and of the 25% is selection. The usable reading is a lower bound on the intent-amplifier effect: catching questions near a decision is easy, manufacturing intent is hard. Frasers's note also points somewhere specific — the increment comes from making the catalog, inventory, and attributes retrievable through conversation, not from the chat interface itself.
+
+## 4.16 Summary
 
 The AI-ification of the conversion stage comes down to four things happening at once:
 

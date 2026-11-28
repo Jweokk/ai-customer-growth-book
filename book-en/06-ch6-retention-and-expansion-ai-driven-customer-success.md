@@ -168,7 +168,27 @@ Upstream, the funnel has the same gap. AI products activate differently from tra
 
 **The three materials meet at one interface: saved time, the signals inside tickets, and the blank input box are all inventory without an owner.** The increment in retention and expansion is not on the model side but in the role that turns signals into action; without that junction, the more time AI saves, the less the books show.
 
-## 6.17 Summary
+## 6.18 Nine Reasons Health Scores Are Wrong
+
+Sections 6.9 and 6.12 discussed which inputs a health score should carry. This section inverts the question: why, once the score exists, is it still wrong?
+
+A customer success tool vendor pulled 3,628 public reviews from the three highest-volume customer success platforms; 347 mentioned health or churn scores, and the complaints clustered on a few themes: inputs that can be manipulated, new customers arriving red on day one, parent and child accounts being averaged together, and data that syncs a day late (another 100 reviews mentioned sync issues, 65 mentioned real-time freshness, and 6 mentioned parent-child scoring). The author sorts these into nine failure modes, with a single root cause: **the health score measures level rather than change, and it has never been validated against churn outcomes.**
+
+The diagnostic is concrete: pull the accounts that churned over the last four quarters and look at their scores 90 days before churn. If most were green, the score has no predictive power, and reweighting will not help. Four fixes address the causes: remove every input a CSM can fill in by hand — sentiment fields and manual overrides are where gaming starts; compare change against the account's own baseline, so daily-active dropping to weekly-active should turn red; score new customers separately or exclude them for the first 90 days; and calibrate by quarterly backtest rather than shipping once and walking away<sup><a href="12-appendix-a-sources.md#6-61">[6-61]</a></sup> [third-party verified]. The worked examples in the piece are illustrative, as the author notes.
+
+**The shared premise of all four is treating the health score as a model rather than a dashboard: inputs, labels, backtests.** A team that builds only a dashboard will find, at quarterly review, that the score ran green all the way while the customer walked out the door — and those two curves were never on the same chart.
+
+## 6.19 Day 30 at 0.7%: More Installs, Less Retention
+
+Section 6.8 covered the leaky bucket of AI apps. This section adds the absolute level, plus a harder-to-explain phenomenon: more usage does not mean people stay.
+
+Adjust cut install, session, and retention data from January 2024 through September 2026 by category. Globally, AI apps retained 6.1% of users on day 1 (6.8% in 2025, 6.7% in 2024), 2% on day 7, 1.2% on day 14, and 0.7% on day 30. General-purpose AI is the only subcategory improving: 9.3% on day 1 (8.3% in 2025, 7.3% in 2024), while every other subcategory declined in 2026. By region, North America has the best day-1 retention at 7.1%, Europe 6.7%, and APAC, Latin America, and MENA cluster at 5.5%–6%. Session length runs on another line: general-purpose AI averaged 42.2 minutes in 2026 to date, up from 38.2 minutes in 2025. The market itself is still expanding — generative AI app downloads doubled to 3.8 billion in 2025, and in-app purchase revenue nearly tripled to more than $5 billion. The recommendation pushes action into week one: once day-7 retention slips in a cohort, the window for intervention is already closing<sup><a href="12-appendix-a-sources.md#6-62">[6-62]</a></sup> [third-party verified].
+
+Another behavioral benchmark shows the same structure from the other side. Across roughly 290.8 billion AI events on 2.61 billion devices, the number of devices using AI products grew 26% year over year while total AI events dipped slightly. The explanation is that interaction is shifting from exploration to execution — agents, automation, and embedded intelligence complete multi-step tasks for users, so success looks like fewer clicks, fewer prompts, and faster results. Stickiness (DAU over MAU) is lowest in North America at 21%, even though North America leads on absolute daily and weekly users; the report sorts successful AI products into two shapes: become a daily habit, or become imperceptible infrastructure, with "used occasionally" the hardest to retain in between<sup><a href="12-appendix-a-sources.md#6-63">[6-63]</a></sup> [third-party verified].
+
+**Put the two datasets together and both the activation and retention funnels need redrawing.** A decline in events may mean the product got easier to use or that users stopped coming back, and only the retention curve can tell the difference; the first week decides the following thirty days, and "used deeply" is not evidence that anyone will return.
+
+## 6.20 Summary
 
 The AI transformation of retention and expansion is, at its core, customer success upgrading from "watching customers by hand" to "AI early warning + human judgment":
 

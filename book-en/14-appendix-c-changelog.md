@@ -2,6 +2,17 @@
 
 This book is a "living book"—material keeps accumulating and the version keeps growing. This appendix records what each version updated and why.
 
+## v1.0.13 (2026-11-29, weekly update)
+
+- Chapter 3 adds three sections: paid slots inside the AI answer (four sponsored product cards in one local query, 57% of AI Mode product links pointing to Google Shopping listing pages, and a hotel channel fee of about 12% through the Doubao entrance against about 8% on the main site); the five GEO group standards with three rounds of calibration (a domestic market of about RMB 3 billion, only 20.0% of brands reaching the high-visibility band on shortlist prompts, brand mentions correlating at 0.664 against 0.218 for backlinks); and a grouping of 1.27 million cold emails (AI-personalized openers at a 0.15% positive reply rate, pure templates at 0.56%)
+- Chapter 4 adds four layers of evidence on automated bidding: AI Max out of beta with 500,000 advertisers and an official 15% lift, 87% of UK campaigns on automated bidding, BCG finding 20%-40% of running programs at zero or negative lift, and 52% of advertisers already running incrementality tests with three-quarters calling their measurement stack inadequate
+- Chapter 5 adds both ends of voice agents: McKinsey's five root causes and four fixes, a 70% median resolution rate across 195 deployments with a 12-point definitional gap, and the view that every AI handoff is an escalation against a healthy 10%-15% transfer rate
+- Chapter 6 adds nine failure modes behind inaccurate health scores (347 of 3,628 platform reviews) and AI app retention benchmarks of 6.1% on day one and 0.7% on day 30
+- Chapter 7 adds the rules of the agent shelf: AWS Marketplace's listing threshold for AI agents and a listing fee cut from 2.5% to 0.5%, Salesforce's AgentExchange at 15%/25% revenue shares, Huawei Cloud's ten listing methods with three-working-day review, and WeChat's and Tencent's distribution guides against Taobao's interface-violation expulsions
+- Chapter 8 adds how jobs are being recut: a 3.0-month SDR ramp against a 60% quota rate, AI role-play cutting one customer's ramp from seven weeks to four, and Forrester's "paying for outcomes" reading of the Oracle layoffs
+- Chapters 9, 10, and 11 add industry and boundary material: 21 bank AI cases including Fargo at 1 billion interactions and manufacturing ABM with 94% of buying groups pre-sorted; 91% accuracy across 5 trillion searches, ten enforcement cases and an RMB 10 million fine, 180,000 AI posts and 50,000 ad accounts shut down; and 62.3% using AI to research against 7.9% letting an agent check out, plus UnionPay's APOP and JD.com's L0-L5
+- Appendix A adds 42 sources (3-154 to 3-166 / 4-47 to 4-53 / 5-81 to 5-84 / 6-61 to 6-63 / 7-53 to 7-60 / 8-70 to 8-73 / 9-126 to 9-127 / 10-70 to 10-79 / 11-101 to 11-108), synced across both languages
+
 ## v1.0.12 (2026-11-22, weekly update)
 
 - Chapter 3 adds "The Retention Ledger for Outbound" and "The Shelf Life of AI Answers": 50%-70% category churn with only about 2% of deployments retained; 81% of sales teams having bought AI while only 19% of reps use it, and the 4.8 hours saved weekly going nowhere in 72% of organizations; 75% of 7,683 cited pages updated within a year (only 42% new by publish date), 50%-60% of answers to the same executive question changing within weeks, and WeChat Search's top result falling from 31.7% to 7.9% click-through
